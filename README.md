@@ -15,18 +15,17 @@
 ### Checklist
 
 
-## PP
+## Activities
 
-### Checklist
-
-
-## DE
+- everyday consider the option that PP could be the DE and other way around
 
 ### Checklist
 
 - explain better the purpose of the daily exercise
 
-##
+## PP
+
+## DE
 
 
 ## Retrospective
