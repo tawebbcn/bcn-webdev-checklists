@@ -33,7 +33,7 @@
 ## SENDING FEEDBACK
 - Use feedback template:
   - previous experience: no | yes
-  - logic: low | basic
+  - logic: low | basic | good
   - expected bootcamp experience: hard | medium | ready
   - recommendation: reject | accepted
   - explanation: why this recommendation
@@ -88,7 +88,7 @@
 - if still don't know how to solve the problem:
   - recommend for rejection
 
-## EXERCISE 3 BONUS 1 - PRINT PRICE AVERAGE
+## EXERCISE 3 BONUS 1 - PRINT PRICE AVERAGE / (HARD) min/max @todo
 - purpose of exercise:
   - test scope abstraction (overwrite a variable)
 - before starting:
