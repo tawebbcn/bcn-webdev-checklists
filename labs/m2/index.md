@@ -9,7 +9,7 @@
 - DE: [Mongo Crunchbase](./lab-mongo-crunchbase.md)
 
 # Week 4 | Day 3
-x3
+
 - PP: [Advance querying mongo](./lab-advance-querying-mongo.md)
 - DE: [Ironbeers](./lab-ironbeers.md)
 

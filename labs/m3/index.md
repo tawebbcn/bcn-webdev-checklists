@@ -9,7 +9,7 @@
 - DE: [Angular DataBinding](./lab-angular-data-binding.md)
 
 # Week 7 | Day 3
-x3
+
 - PP: [Angular access control](./lab-angular-access-control.md)
 - DE: [Angular Cinema Billboard](./lab-angular-cinema-billboard.md)
 

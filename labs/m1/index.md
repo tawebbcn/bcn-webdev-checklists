@@ -9,7 +9,7 @@
 - DE: [CSS instagram clone](./lab-css-instagram-clone.md)
 
 # Week 1 | Day 3
-x3
+
 - PP: [JavaScript clue](./lab-javascript-clue.md)
 - DE: [CSS spotify clone](./lab-css-spotify-clone.md)
 
