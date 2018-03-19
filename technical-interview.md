@@ -22,8 +22,8 @@
 ## DURING
 - Present the exercise by order starting from 0
 - If don't solve the exercise 2 at least, does not pass the technical interview
-- If is second oportunity, must solve until exercise 3
-- If solves easily, can skip to the bonus exercises
+- If is second oportunity, must solve the hard version until exercise 3 
+- If solves easily, can skip to the bonus exercises or do the hard exercises
 
 ## ENDING
 - Will send the feedback to the admissions manager, they will send you next steps
@@ -74,7 +74,7 @@
 - if still don't know how to solve the problem:
   - does not pass the technical interview
 
-## EXERCISE 2 - PRINT FOR EACH DAY IF IS ABOVE 30
+## EXERCISE 2 - (MEDIUM)  PRINT FOR EACH DAY IF IS ABOVE 30 | (HARD) PRINT IF IS ODD/EVEN
 - **IF PASS THIS EXERCISE, PASS THE TECHNICAL INTERVIEW**
 - purpose of exercise:
   - test basic conditional abstraction
@@ -90,7 +90,7 @@
 - if still don't know how to solve the problem:
   - does not pass the technical interview
 
-## EXERCISE 3 BONUS 1 - (MEDIUM) PRINT TEMPERATURE AVERAGE / (HARD) MIN/MAX @todo
+## EXERCISE 3 BONUS 1 - (MEDIUM) PRINT TEMPERATURE AVERAGE | (HARD) MIN/MAX @todo
 - purpose of exercise:
   - test scope abstraction (overwrite a variable)
 - before starting:
