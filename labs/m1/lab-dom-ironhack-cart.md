@@ -1,16 +1,18 @@
 # DOM Ironhack Cart @TODO
-https://github.com/ironhack-labs/lab-dom-ironhack-cart
 
-##  Purpose:
+## Link:
+  - https://github.com/ironhack-labs/lab-dom-ironhack-cart
+
+## Purpose:
   - Learn how to select DOM elements and manipulate them
-##  What they do in the exercise:
+## What they do in the exercise:
   - I1: create a product in the cart
         and create a button that calculates total prize
   - I2: create another product
   - I3: calculate the total prize of the cart
   - I4: deleting the products
   - I5: create a field to add new products
-##  Issues:
+## Issues:
   - as creating new products is a feature it should be done before;
     so that we avoid creating products by copypasting code in I2
     we keep the same logics as when we do the CRUD in the projects
@@ -35,4 +37,4 @@ https://github.com/ironhack-labs/lab-dom-ironhack-cart
 ## Good practices:
   - names have to be self-explaining
   - a name shouldn't be a single letter
-##  Typos:
+## Typos:

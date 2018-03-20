@@ -1,12 +1,13 @@
 # CSS Instagram Clone
-https://github.com/ironhack-labs/lab-css-instagram-clone
 
-##  Purpose:
+## Link:
+  - https://github.com/ironhack-labs/lab-css-instagram-clone
+## Purpose:
   - Practise css positioning (with float).
   - Play with css box-model.
-##  What they do in the exercise:
+## What they do in the exercise:
   - Clone the given page.
-##  Issues:
+## Issues:
 
 ## Purposal:
 
@@ -19,4 +20,4 @@ https://github.com/ironhack-labs/lab-css-instagram-clone
   - IDs are just for targeting single elements that wont be repeated.
   - Don't style element tags like <div>.
   - Use relative units like vh,vw,% instead of absolute like px for positioning.
-##  Typos:
+## Typos:

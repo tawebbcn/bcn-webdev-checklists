@@ -1,14 +1,15 @@
 # CSS Spotify Clone
-https://github.com/ironhack-labs/lab-css-spotify-clone
 
-##  Purpose:
+## Link:
+  - https://github.com/ironhack-labs/lab-css-spotify-clone
+## Purpose:
   - Practise css selectors
   - Practise css transitions and animations
-##  What they do in the exercise:
+## What they do in the exercise:
   - Clone the given page
   - Use at least one descendant selector and one multiple selector
   - Animate the logo when hover
-##  Issues:
+## Issues:
   - Not enough transitions/animations
 ## Purposal:
 
@@ -23,4 +24,4 @@ https://github.com/ironhack-labs/lab-css-spotify-clone
   - Don't style element tags like <div>
   - Use relative units like vh,vw,% instead of absolute like px for positioning
   - You don't finish to style an element until you've set its margin bottom / padding top
-##  Typos:
+## Typos:
