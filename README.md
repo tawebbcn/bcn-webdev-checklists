@@ -9,11 +9,13 @@
 - careful when switching between code and browser
 - students should ask to show code/browser as needed
 
-
 ## Standups
 
 ### Checklist
 
+- how you felleing
+- what you did yestarday
+- what you want to do today
 
 ## Activities
 
@@ -27,12 +29,9 @@
 
 ## DE
 
-
 ## Retrospective
 
 ### Checklist
-
-
 
 ## Projects
 
@@ -43,7 +42,6 @@
 - plan deployment
 - collect slides, github & deployment URLs
 - provide feedback before project is over
-
 
 ### Slides
 
@@ -92,6 +90,4 @@
 
 ## UX/UI Collaboration
 
-
-
-
+- said to the UX what we are doing on the week
