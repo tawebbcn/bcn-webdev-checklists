@@ -21,6 +21,7 @@
   - starting code names can confuse students
   - there are no iterations
   - the bonus part has test
+  - bonus test has an not good test since are matrix with 1 and 2
 ## Purposal:
   - delete JasmineTest for debugger purpose
   - introduce `reduce` as a extra tool on introduction section

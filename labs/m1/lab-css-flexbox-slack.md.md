@@ -2,7 +2,6 @@
 
 ## Link:
   - https://github.com/ironhack-labs/lab-css-flexbox-slack
-
 ## Purpose:
   - Practise css flex-box
   - Practise css responsive design with media queries
@@ -14,9 +13,8 @@
   - I4: Large screen
 ## Issues:
   - Too much images and gifs in the explanation, it's hard to understand
-    It should have a PDF like the spotify clone Week1 Day3
 ## Purposal:
-
+  - It should have a PDF like the spotify clone Week1 Day3
 ## Good practices:
   - Mobile first
   - Flex-box instead of float
