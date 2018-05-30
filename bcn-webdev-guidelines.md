@@ -1,6 +1,6 @@
 # RULES
 
-- You have to deliver the 3 projects in order to graduate
+- You have to deliver and present the 3 projects in order to graduate
 - If you don't graduate you won’t have access to the Hiring Week
 
 # VALUES
