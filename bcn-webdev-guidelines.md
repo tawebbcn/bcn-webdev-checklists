@@ -96,7 +96,9 @@ Technical Feedback
 - See any issues in the content? Tell the TAs and they will share it with the Education Team
 
 Spontaneous Feedback & Questions
-- Program, Student Experience & Events: @irenedemas
+- Program, Student Experience: @irenedemas
+- Events: @irenedemas, @ana
+- Carreer Services (Job Search): @joana
 - Personal Branding (Medium, Social Media…): @ana
 - Campus & Facilities: @ania
 
