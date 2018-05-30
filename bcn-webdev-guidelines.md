@@ -1,7 +1,8 @@
 # RULES
 
 - You have to deliver and present the 3 projects in order to graduate
-- If you don't graduate you won’t have access to the Hiring Week
+- If you don’t graduate, you won’t have access to the Hiring Week or support from the Placements Manager
+- If you want to attend the Hiring Week, your LinkedIn profile and CV have to be revised by the Placements Manager the week before the Hiring Week
 
 # VALUES
 
@@ -82,6 +83,10 @@ The classroom is a team
 -- Is there something blocking you?
 
 ## Feedback
+
+Weekly surveys
+- Every week you will be sent a quick survey (1 or 2 questions)
+- You need to answer the survey every single week
 
 1on1s
 - On most weeks you’ll have a short meeting with a member of the staff so you can share your feedback
