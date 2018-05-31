@@ -53,3 +53,6 @@
 - carousel
 (http://www.akqa.com/)
 
+- animated list items
+(https://cssanimation.rocks/list-items/)
+
