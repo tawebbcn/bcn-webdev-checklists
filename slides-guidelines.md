@@ -1,20 +1,20 @@
-#SLIDES
+# SLIDES
 
-- (Intro) My name is ... and I present you ...
+- My name is ... and I present you ... (Intro)
 
 - It's a ... (explain it in one sentence)
 
 - User can ... (3-4 short sentences that explain the main features of the application)
 
-- Challenges (Be concise. Reserve explainations for the speech)
+- Challenges (Be concise. Reserve explanations for the speech)
 
-- Learnings (Top lessons learnt. Be concise. Remember to add something learnt about you, not just technologies)
+- Learnings (Top lessons learnt. Be concise. Remember to add something personal, about you, not just technologies)
 
 - If I were to start from scratch ... (Something you think you can improve for the next project. One sentence)
 
 - To Do (Next steps to improve your application)
 
-- Highlights (Something remarkable from your project and you want to share. Not just technologies used but great experiences, organisation ...)
+- Highlights (Something remarkable from your project and you want to share. Not just technologies used but great experiences, planning, organization ...)
 
 - Demo (Add a the link to your deployed application)
 
@@ -24,7 +24,7 @@ The students can modify this plan as they want.
 
 # DAILY PRESENTATIONS TRAINING
 
-- ! We should set an hour to start and be consistent with the schedule.
+- We should set an hour to start and be consistent with the schedule.
 
 -  We should also be consistent in when do we give the slides guidelines to the students.
 
@@ -39,7 +39,7 @@ The students can modify this plan as they want.
 - Day 1: Intro, It's a ...
 - Day 2: User can ..., Challenges
 - Day 3: Learnings, If I were to start from scratch ...
-- Day 4: To DO, Highlights, DEMO
+- Day 4: To Do, Highlights, DEMO
 
 ## FEEDBACK
 
@@ -49,13 +49,13 @@ The students can modify this plan as they want.
 
 - As a general rule, presentations will last 5 minutes.
 
-- The order of the presentations will be random as we don't decide the opposite thing
+- The order of the presentations will be random unless we decide the opposite or there is a special case.
 
 ## TA toolkit
 
 - Things to remember before:
 
-  - It would be great to block the calendar while we have presentations so that noone can schedule a TI.
+  - It would be great to block the calendar while we have presentations so that no one can schedule a TI.
 
   - It is useful to use poker cards to randomize the order of the presentations.
 
