@@ -1,5 +1,5 @@
 
-# Instructor Notes
+# Checklists! [√]
 
 - [Techincal Interview](./technical-interview.md)
 - [Class Guidelines (DAY 1)](./bcn-webdev-guidelines.md)
