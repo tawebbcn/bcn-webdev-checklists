@@ -1,10 +1,10 @@
 # Presentations
 
-- max 2 hours of show
+- Max 2 hours of show
 - Presentations will last 5 minutes.
 - The order of the presentations will be random unless we decide the opposite.
 
-### SLIDES
+### Slides
 
 - Title (My name is ... and I present you ...)
 - It's a ... (explain it in one sentence)
@@ -34,21 +34,21 @@ Students can modify this plan as they want.
 
 'Slides are there to support your ideas, not to make them for you'
 
-### //@TODO FEEDBACK
+### //@ToDo Presentations Feedback
 
 
-## Start of Project Week
+## Start of Project Checklist
 - Set an hour to start daily presentations.
-- schedule time with Irene.
-- evaluate number of projects vs duration of presentations.
-- block calendar.
-- remember Ania to test gear, get camera ready for photos.
-- designate DJ ;-)
+- Schedule time with Irene.
+- Evaluate number of projects vs duration of presentations.
+- Block calendar.
+- Remember Ania to test gear, get camera ready for photos.
+- Designate DJ ;-)
 
 
-## During Project Week
+## Daily Checklist
 
-- Slides Timeline:
+- Provide slides:
   - Day 1: Title, It's a ... (time given: 1 min)
   - Day 2: User can ..., Challenges (time given: 2 min)
   - Day 3: Learnings, If I were to start from scratch ... (time given: 3 min)
@@ -59,7 +59,7 @@ Students can modify this plan as they want.
 
 
 ## Start of Presentation Day
-- ask students for "need to leave early".
+- Ask students for "need to leave early".
 - Remember all the students to test the projector.
 - Make a list of all apps deployed on heroku.
 
