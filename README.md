@@ -1,162 +1,71 @@
 
 # Instructor Notes
 
-## Learning Units
+- [Techincal Interview](./technical-interview.md)
+- [Class Guidelines (DAY 1)](./bcn-webdev-guidelines.md)
+- Know Each Other
+  - names on maps
+  - remember the name game (Hi I am and X says Y says ...)
+  - tag cloud (I like/do/know)
+- Role plays
+  - Be the app.js Where one person is one middleware, etc to understand how order is important
+  - Card deck array sort, array
+  - bubble sorte by name / age
+  - JS interpreter (functions, variables, scopes)
+  -
+- Whiteboard sessions
+  - Plan the models of Spotify, Instagram, Facebook and Twitter
+  - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
+- Others
+  - Pseudo Quiz
+  - You explain it
+  - Groups for the day
+- Self-assessments
+  - Quadrants of confidence (HTML+CSS / JS / Both / None), (Frontend / Backend,...)
+  - Bubble sort confidence on topic against the wall
 
+- [Daily Kick-off](./daily-kick-off.md)
+- [Stand-Up](./stand-up.md)
 - [Lecturing](./lecture.md)
-- [Code alongs](./code-alongs.md)
+- [Code Along](./code-along.md)
+- [Live Coding](./live-coding.md)
+- [Mini Projects](./mini-projects.md)
+- [PP](./pair-programming.md)
+- [DE](./daily-exercise.md)
+- [UX/UI Collaborations](./ux-ui-collaborations.md)
+- Friday Talks
+- [Projects](./projects.md)
+- [Presentations and Slides](./slides-guidelines.md)
+- Retrospective
+- [Jury guidelines](./jury-guidelines.md)
 
-### Checklist
 
-- check gear: projector, adapters, whiteboard, eraser, markers
-- check supplies: water ;-)
-- when you're ready, make sure everyone else is ready
-- highlight the learning goals
 
-- warn when moving from basic to advanced concepts/examples
 
-- careful when switching between code, browser, terminal
-- students should
-  - not be on their laptops if no laptop needed
-  - ask to switch back to code, browser, terminal as needed
-  - ask to fix zoom
-  - ask questions
+## Todo
 
-## Standups
+- move inlined stuff (see above) to its own pages (know each other, whiteboarding, ...)
+- simplify ./code-alongs.md
+- create ./live-coding.md
+- create ./friday-talks.md
+- create ./retrospectives.md
+- find a place for language/values/protocols (e.g. learn how to unamiguous YES!)
 
-- say
-  - how am I feeling
-    - confidence
-    - motivation
-    - energy
-    - focus
-  - what I achieved yesterday
-    - what I was happy to learn
-    - how much % of DE completed
-    - did the PR
-  - what I expect to achieve today
-    - solve doubts about something (parking lot)
-    - learn a new something in particular (parking lot)
-    - pratice more with something (parking lot)
-  - what is blocking me
-    - system problems
-    - confusion/doubts
-    - emotions
-    - personal issue
+## Development
 
-- parking lot
-  - questions students bring from previous day or DE
-  - blocks
-  - broken systems
-  - wishlist for the day
+- Follow same style as other docs
+  - use `## titles`
+  - do not use all caps
+  - small lists
 
-- duration (benchmarked for 20 students)
-  - first standups around 30 minutes is normal
-  - speed up everyday
-  - aim for 10
+- small sentences
+  - use imperative voice
+  - just write `do this`
+  - remove all `we should...`, `would be great to...`
+  - try to follow a chronological order
 
-### Checklist
-
-- everyone standing
-- circle, not hiding
-- use people's names
-- observe, take notes (TODO more notes elsewhere)
-- update parking lot
-- don't interrupt unless to prevent damage/confusion
-- stick to short interruptions, get back on track
-- energy, speed up
-
-## Kick-off day
-
-- following stand-up, still standing
-- enumerate agenda/options for the day
-- mini-lecture if needed
-- focus on outcomes
-  - learning objectives
-  - scope of practice sessions
-  - purpose of activities
-  - experiments
-  - project milestones (pitches, brainstorms, deployment, demos)
-- collaborative decide (TODO more notes about gradually building a self-organising cohort)
-- recap plan
-- don't forget breaks
-- ask for agreement
-- vocal and unambiguous (@todo more notes)
-
-## Exercices
-
-## Activities
-
-- everyday consider the option that PP could be the DE and other way around
-
-### Checklist
-
-- explain better the purpose of the daily exercise
-
-## PP
-
-## DE
-
-## Retrospective
-
-### Checklist
-
-## Projects
-
-### Checklist
-
-- plan groups
-- introduce slides
-- plan deployment
-- collect slides, github & deployment URLs
-- provide feedback before project is over
-
-### Slides
-
-- Title (your name(s), project name)
-- It's a... (describe in one sentence)
-- The user can... (2,3 bullet points)
-- Challenges... (2,3 bullet points)
-- Learnings... (2,3 bullet points)
-- If I were to start from scratch (1 thing)
-- Things to improve... (2,3 bullet points)
-- Highlights... (2,3 bullet points)
-- Demo
-
-- e.g.: technical
-  - use the breakpoints
-  - use postman
-
-- e.g.: project
-  - plan better
-  - style earlier
-  - finish what is started
-  - test the api before commiting to it
-
-- e.g.: personal:
-  - not to compare my projects with others
-  - how to deal with frustration
-  - to solve problemss on my own
-  - rome wasn't build in a day
-  - better time management
-
-### Presentations
-
-### Module 1
-
-- 4 groups, lead teacher & ta's each lead a small group
-- lead teacher leads the students that need more help
-
-### Module 2
-
-- pairing
-
-### Module 3
-
-## Students
-
-## Culture
-
-## UX/UI Collaboration
-
-- said to the UX what we are doing on the week
+- group lists by time
+  - use that as a title
+  - e.g.: `## Start of Project Week`
+  - consider time within module, week, day when relevant
+  - ask yourself: when do we have to think/consider this thing?
