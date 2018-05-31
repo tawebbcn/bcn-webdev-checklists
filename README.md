@@ -1,21 +1,89 @@
 
 # Instructor Notes
 
-## Lerning Units
+## Learning Units
+
+- [Lecturing](./lecture.md)
+- [Code alongs](./code-alongs.md)
 
 ### Checklist
 
-- explain better when moving from basic to advanced concepts
-- careful when switching between code and browser
-- students should ask to show code/browser as needed
+- check gear: projector, adapters, whiteboard, eraser, markers
+- check supplies: water ;-)
+- when you're ready, make sure everyone else is ready
+- highlight the learning goals
+
+- warn when moving from basic to advanced concepts/examples
+
+- careful when switching between code, browser, terminal
+- students should
+  - not be on their laptops if no laptop needed
+  - ask to switch back to code, browser, terminal as needed
+  - ask to fix zoom
+  - ask questions
 
 ## Standups
 
+- say
+  - how am I feeling
+    - confidence
+    - motivation
+    - energy
+    - focus
+  - what I achieved yesterday
+    - what I was happy to learn
+    - how much % of DE completed
+    - did the PR
+  - what I expect to achieve today
+    - solve doubts about something (parking lot)
+    - learn a new something in particular (parking lot)
+    - pratice more with something (parking lot)
+  - what is blocking me
+    - system problems
+    - confusion/doubts
+    - emotions
+    - personal issue
+
+- parking lot
+  - questions students bring from previous day or DE
+  - blocks
+  - broken systems
+  - wishlist for the day
+
+- duration (benchmarked for 20 students)
+  - first standups around 30 minutes is normal
+  - speed up everyday
+  - aim for 10
+
 ### Checklist
 
-- how you felleing
-- what you did yestarday
-- what you want to do today
+- everyone standing
+- circle, not hiding
+- use people's names
+- observe, take notes (TODO more notes elsewhere)
+- update parking lot
+- don't interrupt unless to prevent damage/confusion
+- stick to short interruptions, get back on track
+- energy, speed up
+
+## Kick-off day
+
+- following stand-up, still standing
+- enumerate agenda/options for the day
+- mini-lecture if needed
+- focus on outcomes
+  - learning objectives
+  - scope of practice sessions
+  - purpose of activities
+  - experiments
+  - project milestones (pitches, brainstorms, deployment, demos)
+- collaborative decide (TODO more notes about gradually building a self-organising cohort)
+- recap plan
+- don't forget breaks
+- ask for agreement
+- vocal and unambiguous (@todo more notes)
+
+## Exercices
 
 ## Activities
 
@@ -45,13 +113,14 @@
 
 ### Slides
 
-- It's a
-- The user can
-- Challenges
-- Learnings
-- If I were to start from scratch
-- Todo
-- Highlights
+- Title (your name(s), project name)
+- It's a... (describe in one sentence)
+- The user can... (2,3 bullet points)
+- Challenges... (2,3 bullet points)
+- Learnings... (2,3 bullet points)
+- If I were to start from scratch (1 thing)
+- Things to improve... (2,3 bullet points)
+- Highlights... (2,3 bullet points)
 - Demo
 
 - e.g.: technical
