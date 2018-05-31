@@ -71,3 +71,29 @@
   - stay on focused: on topic OR quiet
 
 
+
+## Todo
+
+- index above as some inlined stuff, move to own pages
+- simplify ./code-alongs.md
+- create ./live-coding.md
+
+
+## Development
+
+- Follow same style as other docs
+  - use `## titles`
+  - do not use all caps
+  - small lists
+
+- small sentences
+  - use imperative voice
+  - just write `do this`
+  - remove all `we should...`, `would be great to...`
+  - try to follow a chronological order
+
+- group lists by time
+  - use that as a title
+  - e.g.: `## Start of Project Week`
+  - consider time within module, week, day when relevant
+  - ask yourself: when do we have to think/consider this thing?
