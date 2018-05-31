@@ -24,6 +24,7 @@
   - Quadrants of confidence (HTML+CSS / JS / Both / None), (Frontend / Backend,...)
   - Bubble sort confidence on topic against the wall
 
+- [Daily Kick-off](./daily-kick-off.md)
 - [Stand-Up](./stand-up.md)
 - [Lecturing](./lecture.md)
 - [Code Along](./code-along.md)
@@ -38,46 +39,17 @@
 - Retrospective
 - [Jury guidelines](./jury-guidelines.md)
 
-### Kick-off days
-
-- following stand-up, still standing
-- enumerate agenda/options for the day
-- mini-lecture if needed
-- focus on outcomes
-  - learning objectives
-  - scope of practice sessions
-  - purpose of activities
-  - experiments
-  - project milestones (pitches, brainstorms, deployment, demos)
-- collaborative decide (TODO more notes about gradually building a self-organising cohort)
-- recap plan
-- don't forget breaks
-- ask for agreement
-- vocal and unambiguous (@todo more notes)
-
-### Daily Checklist
-
-- check gear: projector, adapters, whiteboard, eraser, markers
-- check supplies: water ;-)
-- when you're ready, make sure everyone else is ready
-- highlight the learning goals
-- warn when moving from basic to advanced concepts/examples
-- careful when switching between code, browser, terminal
-- students should
-  - not be on their laptops if no laptop needed
-  - ask to switch back to code, browser, terminal as needed
-  - ask to fix zoom
-  - ask questions
-  - stay on focused: on topic OR quiet
 
 
 
 ## Todo
 
-- index above as some inlined stuff, move to own pages
+- move inlined stuff (see above) to its own pages (know each other, whiteboarding, ...)
 - simplify ./code-alongs.md
 - create ./live-coding.md
-
+- create ./friday-talks.md
+- create ./retrospectives.md
+- find a place for language/values/protocols (e.g. learn how to unamiguous YES!)
 
 ## Development
 
