@@ -1,16 +1,19 @@
 # Mini-projects
 
-Give 4 hours for students
+Time for students to express themselves (what they love) and practice with what they learned so far.
 
 ## Starting
-- define time available
+- define time available (e.g. 4 hours)
 - define if students will present 1/2 mins what they did (factor in time)
 - show examples of what they can do
+- ask them "before coming to the bootcamp, what were you dreaming you can do your own after a while"
 - explain purpose
   - apply what they learned so far to what they love
   - experiment with project setting (less directed than DE/PP)
   - solve they're own problems
 - ask students to commit to an idea
+  - small scope (tiny things)
+  - 3 or 4 hours run super fast
 - review their idea and sign-off (commitment)
   - give feedback on scope/expectations
   - but allow them to go crazy if that's what they want
@@ -54,6 +57,8 @@ Give 4 hours for students
   - e.g.: `I have an error that says "foo undefined on line x"`
 
 # Examples
+
+These are examples of cool stuff in a cool environment, but students need to pick one tiny thing and focus on the tiny thing only!
 
 - Scroll animations
   - https://myfood.eu/
