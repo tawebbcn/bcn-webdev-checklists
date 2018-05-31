@@ -35,9 +35,10 @@
 - [UX/UI Collaborations](./ux-ui-collaborations.md)
 - Friday Talks
 - [Projects](./projects.md)
-- [Presentations and Slides](./slides-guidelines.md)
+- [Presentations and Slides](./presentations.md)
 - Retrospective
-- [Jury guidelines](./jury-guidelines.md)
+- [Jury Guidelines](./jury-guidelines.md)
+- [Jury Day](./jury-day.md)
 
 
 
