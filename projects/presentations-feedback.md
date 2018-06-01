@@ -14,6 +14,7 @@
     - Ask for examples 
 - Design
   - Color contrast (Accessibility)
+  - Design sticks to purpose (Less is more, clean and minimal)
   - Coherence with the product
   - Text Hierarchies
   - Alignment is consistent
@@ -30,7 +31,13 @@
   - Added personal improving goals
   - Link to experience
     - not set sentences
-    - tell your xstory
+    - tell your story
+  - Includes sample of tools, processes and techniques used
+    - Wireframes
+    - User stories
+    - Kanban
+    - Technical diagrams
+    - External resources
 
 ```
 * Proto-persona
