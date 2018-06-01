@@ -16,12 +16,23 @@
 
 ## Daily Checklist
 
+- Consider adapting the slide schedule to the actual number of days in the project week
 - Provide slides:
   - Day 1: Title, It's a ... (time given: 1 min)
   - Day 2: User can ..., Challenges (time given: 2 min)
-  - Day 3: Learnings, If I were to start from scratch ... (time given: 3 min)
+  - Day 3: Process, Learnings, If I were to start from scratch ... (time given: 3 min)
   - Day 4: To Do, Highlights, DEMO (time given: 4 min)
-- Be consistent with the schedule.
+- Be consistent with the schedule
+  - Announce the time for presentations early in the day
+  - Typically 17h30 to 18h00
+  - Remember students 30 mins before the agreed time
+  - Remember students to also keep updating the previouss slides 
+- Give groups options 
+  - Speed run presentation.
+  - Focus on the increment (present just the new slides and demo only new features).
+- If group wants to decides on different format...
+  - Make sure there is agreement, otherwise use default
+  - Everyone does the same format
 - Provide a constructive feedback.
 - Students have to provide feedback too.
 
