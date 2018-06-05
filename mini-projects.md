@@ -6,7 +6,7 @@ Time for students to express themselves (what they love) and practice with what 
 - define time available (e.g. 4 hours)
 - define if students will present 1/2 mins what they did (factor in time)
 - show examples of what they can do
-- ask them "before coming to the bootcamp, what were you dreaming you can do your own after a while"
+- ask them "before coming to the bootcamp, what were you dreaming you could do on your own after a while"
 - explain purpose
   - apply what they learned so far to what they love
   - experiment with project setting (less directed than DE/PP)
@@ -46,14 +46,14 @@ Time for students to express themselves (what they love) and practice with what 
 
 ## Closing
 - consider presenting to class / subgroup if class too big
-- ask them the slide questions (challenges, laerning, start from scratch, highlights)
+- ask them the slide questions (challenges, learnings, start from scratch, highlights)
 - give individual feedback
   - celebrate achievements
-  - highlitght observed behaviours
+  - highlight observed behaviours
 - give collective feedback
   - most popular anti-patterns
   - e.g.: `use strict, turn your shoes on`
-  - e.g.: `google first, ask for help`
+  - e.g.: `google first, ask for help later`
   - e.g.: `I have an error that says "foo undefined on line x"`
 
 # Examples
