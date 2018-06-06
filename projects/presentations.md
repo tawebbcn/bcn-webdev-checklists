@@ -53,3 +53,9 @@
 - Start the apps on Heroku 1 min before each presentation.
 - Collect the cards.
 - DJ has to put music between presentations.
+
+## After Presentations
+
+- Gather the group for a quick retrospective prep
+- On Hackhow ask if it's someone's last day (flying, leaving BCN for good)
+
