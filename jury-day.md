@@ -15,7 +15,7 @@
   
 # Speed Dating Format
 - every student sits with each jury individually
-- groups 5 enter the room at a time and rotate all tables
+- groups of 5 enter the room at a time and rotate all tables
 - gather next group in advance
 - max 2 minutes to show project, remaining lead by juror
 - at least 2 minutes of time for jury questions
@@ -61,7 +61,7 @@
   - explain process
   - distribute list of projects (cards, thumbs+avatar)
   
-# Before Delibration
+# Before Deliberation
 - **make sure students stay in campus!**
 - consider jury might need a break
 - project list on whiteboard (cards, thumbs+avatar)
@@ -73,21 +73,21 @@
   - most professional
   - most complex feature
   - best personal impression
-- faciltate debate, make sure:
+- facilitate debate, make sure:
   - all juries participate
   - no project is forgotten
 - leave the room if conversation is flowing
   - tell them how much time they have left
   - comeback to ask for deliberation
-  - faciliate voting if they can't reach consensus
+  - facilitate voting if they can't reach consensus
     - vote for 3, sum all votes, pick X winners
     - repeat with subset if no clear winners emerge
     - A/B voting to break draws
     
-# After Delibration
+# After Deliberation
 - ask jury to stick around 15 mins for retrospective
 - **gather all students!**
-- prepare popular vote in case that format is going to be use
+- prepare popular vote in case that format is going to be used
 - juries present their choices
   - one choice per jury
   - in no particular order

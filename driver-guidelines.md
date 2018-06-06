@@ -3,7 +3,7 @@
 - TA controls the projection
 
 # Why
-- oportunity for make class more dinamic
+- oportunity to make class more dinamic
 - teacher can focus more on reading students eyes, body language and emotions
 - as in Pair Programming, driver is focused on execution
 
@@ -13,7 +13,7 @@
   - remember the learning objectives
   - remember the hardest part, what students usually struggle the most
 - always try to anticpate the teacher's next step
-- never go ahead of the teacher unless you are sure what will be the next step
+- never go ahead of the teacher unless you are sure what will the next step be
 - if you have to say something out loud to help the teacher, make sure you know the subject well and use only the right (technical) words
 - alternatively, if you don't know the subject, you can be the first to ask a smart question if students are not engaging when it's time to do Q&A
 
