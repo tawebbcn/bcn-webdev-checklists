@@ -14,12 +14,12 @@ Experimented successfully with #webbcn0318 + #uxuibcn0318
 - session 1 (early in the project, day 1/2)
 - session 2 (late in the project, day 4)
 - options:
-  - dev explains project (share pitch, exsting US and wireframes)
+  - dev explains project (share pitch, existing UX and wireframes)
   - ux gives feedback on major anti-patterns, quick fixes, low-hanging fruit
   - ux gives ideas
   - dev demos progress
-  - dev assks for help
-  - ux
+  - dev asks for help
+  
 - checklist:
   - plan days/times in advance
   - explain to students in advance

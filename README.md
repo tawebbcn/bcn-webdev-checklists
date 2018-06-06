@@ -7,17 +7,18 @@
 - [Daily Kick-off](./daily-kick-off.md)
 - [Stand-Up](./stand-up.md)
 - [Lecturing](./lecture.md)
-- [Code Along](./code-along.md)
+- [Code Along](./code-alongs.md)
 - [Live Coding](./live-coding.md)
 - [Knowledge Assesment Activities](./knowledge-assesment-activities.md)
 - [Mini Projects](./mini-projects.md)
 - [PP](./pair-programming.md)
 - [DE](./daily-exercise.md)
+- [Debugging](./debugging.md)
 - [UX/UI Collaborations](./ux-ui-collaborations.md)
 - [Friday Talks](./friday-talks.md)
 - [Projects](./projects.md)
 - [Presentations and Slides](./presentations.md)
-- Retrospective
+- [Retrospective](./retrospectives.md)
 - [Jury Guidelines](./jury-guidelines.md)
 - [Jury Day](./jury-day.md)
 
@@ -25,9 +26,8 @@
 
 
 ## Todo
-- review and contribute to new files (live-coding.md, knowledge-assesment-activities.md, friday-talks.md)
+- review and contribute to new files (live-coding.md, knowledge-assesment-activities.md, friday-talks.md, restrospectives.md, debugging.md)
 - simplify ./code-alongs.md
-- create ./retrospectives.md
 - find a place for language/values/protocols (e.g. learn how to unamiguous YES!)
 
 ## Development

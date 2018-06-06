@@ -1,6 +1,6 @@
 # Live Coding
 
-- teacher will program
+- teacher will code
 - students will close their laptops and pay attention
 
 - Make it clear that:
