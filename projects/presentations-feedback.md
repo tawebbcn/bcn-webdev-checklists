@@ -1,49 +1,49 @@
 # Feedback
 
-- Public Speech
-  - Stick to time limit (5 min)
-  - Clear voice
-  - Volume
-  - Body expression
-  - Engage with the audience
-    - Look at them
-    - Make pauses
-  - Involve audience
-    - Demo with volunteers
-    - Ask questions
-    - Ask for examples 
-- Design
-  - Color contrast (Accessibility)
-  - Design sticks to purpose (Less is more, clean and minimal)
-  - Coherence with the product
-  - Text Hierarchies
-  - Alignment is consistent
-  - Is delightfulness (gifs, personal touch, humor...)
-- Storytelling
-  - The "It's a..." slide explains the context
-  - Roleplaying demo
-  - Solid narrative
-    - Not just passing slides
-    - begining, action, end
-  `* Proto-persona`
-- Personal Growth
-  - Learnings are personal and introspective
-  - Added personal improving goals
-  - Link to experience
+- public speech
+  - stick to time limit (5 min)
+  - clear voice
+  - volume
+  - body expression
+  - engage with the audience
+    - look at them
+    - make pauses
+  - involve audience
+    - demo with volunteers
+    - ask questions
+    - ask for examples
+- design
+  - color contrast (Accessibility)
+  - design sticks to purpose (Less is more, clean and minimal)
+  - coherence with the product
+  - text hierarchies
+  - alignment is consistent
+  - has delightfulness (gifs, personal touch, humor...)
+- storytelling
+  - the "It's a..." slide explains the context
+  - roleplaying demo
+  - solid narrative
+    - not just passing slides
+    - beginning, action, end
+  `* proto-persona`
+- personal growth
+  - learnings are personal and introspective
+  - add personal improving goals
+  - link to experience
     - not set sentences
     - tell your story
-  - Includes sample of tools, processes and techniques used
-    - Wireframes
-    - User stories
-    - Kanban
-    - Technical diagrams
-    - External resources
+  - include sample of tools, processes and techniques used
+    - wireframes
+    - user stories
+    - kanban
+    - technical diagrams
+    - external resources
 
 ```
-* Proto-persona
+* proto-persona
   - demographics
   - goals
   - picture 
   - sliders
-(Not known people)
+(Not known or famous people)
 ```

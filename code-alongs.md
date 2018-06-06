@@ -13,7 +13,7 @@
 - consider using pair/trio programming
   - use same pairs as PP (TODO notes on daily pair)
   - designate drivers if needed
-  - explain pairing if neededthat
+  - explain pairing if needed
 
 - explain process to students
   - that it's broken into steps
@@ -36,6 +36,7 @@
 - ask if purpose is understood
 - in many cases, not understanding purpose is perfectly natural
 - take level of the room (understanding of purpose) into account
+- if students feel overwhelmed, ask if they need a break
 
 ## Demonstrate step
 - show process/code
@@ -72,7 +73,6 @@
 ## Wait for ALL students to complete
 - tell the students how much time you expect them to take (your guesstimate)
 - remember that first steps are always the ones with more surprises
-- remember that
 - every code-along, students are expected to become faster/better
 - remind everyone that once they're done they can help others
 - take the opportunity to observe students/pairs (TODO move notes elsewhere, also valid for PP, Kata and Project)
