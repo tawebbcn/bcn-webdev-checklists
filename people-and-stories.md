@@ -1,4 +1,4 @@
-# Ice Breaking Activities
+# People and Stories
 
 - names on maps
 - remember the name game (Hi I am and X says Y says ...)

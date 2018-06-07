@@ -1,4 +1,4 @@
-# Knowledge Assesment Activities
+# Active Learning
 
 
 - Role plays
@@ -13,9 +13,11 @@
   - You explain it: Go in front of the class and explain the flow that is written/drawn on the board
  
 - Others
-  - Pseudo Quiz
-  - Groups for the day
+ - Groups for the day
  
-- Self-assessments
-  - Quadrants of confidence (HTML+CSS / JS / Both / None), (Frontend / Backend,...)
-  - Bubble sort confidence on topic against the wall
+- Watch and learn
+  - [Code Along](./code-along.md)
+  - [Live Coding](./live-coding.md)
+
+- Do it yourself
+  - [Mini Projects](./mini-projects.md)
