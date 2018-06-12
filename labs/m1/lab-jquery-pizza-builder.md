@@ -6,11 +6,11 @@
   - Understand how to use a library like jquery and find resource on the official documentation
 ## What they do in the exercise:
 
+## Good practices:
+
 ## Issues:
 
-## Purposal:
-
-## Good practices:
+## Suggestion:
 
 ## Typos:
 

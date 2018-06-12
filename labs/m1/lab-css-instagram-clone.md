@@ -7,9 +7,6 @@
   - Play with css box-model.
 ## What they do in the exercise:
   - Clone the given page.
-## Issues:
-
-## Purposal:
 
 ## Good practices:
   - Use element tags like <header>, <section>, etc. instead of <div>.
@@ -20,4 +17,11 @@
   - IDs are just for targeting single elements that wont be repeated.
   - Don't style element tags like <div>.
   - Use relative units like vh,vw,% instead of absolute like px for positioning.
+
+
+
+## Issues:
+
+## Suggestion:
+
 ## Typos:

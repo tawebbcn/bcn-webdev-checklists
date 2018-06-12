@@ -12,6 +12,12 @@
   - I5: get drama when SS is the director
   - I6: sort all movies alphabetically and return a list of first 20
   - I7: check which year has best average rate
+## Good practices:
+  - check the MDN documentation to see the syntax of the methods 
+  - arguments should be self-explaining Just because we are in the first week is better than defining them as elem or item
+
+
+  
 ## Issues:
   - I1 is time consuming for the purpose of the exercise
   - Splice is repeated in the learning unit:
@@ -19,10 +25,7 @@
      - http://learn.ironhack.com/#/learning_unit/3021
   - missing reverse and splice
   - reverse should be in the arrays unit: Week1 Day2
-## Purposal:
+## Suggestion:
   - Make the exercise I2 > I3 > I5 > I6 > I1 > I4 > Bonus
-## Good practices:
-  - check the MDN documentation to see the syntax of the methods 
-  - arguments should be self-explaining Just because we are in the first week is better than defining them as elem or item
 ## Typos:
   - `index.html` has wrong script link

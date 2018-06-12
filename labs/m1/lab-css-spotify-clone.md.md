@@ -9,10 +9,6 @@
   - Clone the given page
   - Use at least one descendant selector and one multiple selector
   - Animate the logo when hover
-## Issues:
-  - Not enough transitions/animations
-## Purposal:
-
 ## Good practices:
   - Use element tags like <header>, <section>, etc instead of <div>
   - Navbar menu should be a <ul>; perfect case to apply a descendant selector
@@ -24,4 +20,11 @@
   - Don't style element tags like <div>
   - Use relative units like vh,vw,% instead of absolute like px for positioning
   - You don't finish to style an element until you've set its margin bottom / padding top
+
+
+
+## Issues:
+  - Not enough transitions/animations
+## Suggestion:
+
 ## Typos:

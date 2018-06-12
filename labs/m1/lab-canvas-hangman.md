@@ -8,10 +8,10 @@
 
 ## What they do in the exercise:
 
+## Good practices:
+
 ## Issues:
 
-## Purposal:
-
-## Good practices:
+## Suggestion:
 
 ## Typos:

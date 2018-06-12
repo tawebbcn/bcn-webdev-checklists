@@ -12,6 +12,12 @@
   - I3: calculate the total prize of the cart
   - I4: deleting the products
   - I5: create a field to add new products
+## Good practices:
+  - names have to be self-explaining
+  - a name shouldn't be a single letter
+
+
+  
 ## Issues:
   - as creating new products is a feature it should be done before;
     so that we avoid creating products by copypasting code in I2
@@ -32,9 +38,6 @@
     };
   ```
   - in function deleteItem(e){}, e is not a self-explaining name.
-## Purposal:
+## Suggestion:
 
-## Good practices:
-  - names have to be self-explaining
-  - a name shouldn't be a single letter
 ## Typos:

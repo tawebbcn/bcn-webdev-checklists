@@ -11,10 +11,6 @@
   - I2: small screen
   - I3: medium screen
   - I4: Large screen
-## Issues:
-  - Too much images and gifs in the explanation, it's hard to understand
-## Purposal:
-  - It should have a PDF like the spotify clone Week1 Day3
 ## Good practices:
   - Mobile first
   - Flex-box instead of float
@@ -28,4 +24,11 @@
   - Don't style element tags like <div>
   - Use relative units like vh,vw,% instead of absolute like px for positioning
   - You don't finish to style an element until you've set its margin bottom / padding top
+
+
+  
+## Issues:
+  - Too much images and gifs in the explanation, it's hard to understand
+## Suggestion:
+  - It should have a PDF like the spotify clone Week1 Day3
 ## Typos:

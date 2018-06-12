@@ -9,11 +9,11 @@
   - I2: create Viking constructor implementing Soldier constructor.
   - I3: create Saxon constructor implementing Soldier constructor.
   - I4: create War constructor, where you can add vikings and saxons, make them attack and see the status.
+## Good practices:
+  - Keep the structure: first constructor, then prototype methods.
 ## Issues:
   - It has no iterations.
   - I4 shouldn't be Bonus
-## Purposal:
+## Suggestion:
 
-## Good practices:
-  - Keep the structure: first constructor, then prototype methods.
 ## Typos:

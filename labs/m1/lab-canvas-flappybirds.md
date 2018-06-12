@@ -14,10 +14,10 @@
   - I5: Colision detection
   - Bonus: Add points counter
 
+## Good practices:
+
 ## Issues:
 
-## Purposal:
-
-## Good practices:
+## Suggestion:
 
 ## Typos:

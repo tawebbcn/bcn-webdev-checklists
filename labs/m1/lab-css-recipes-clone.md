@@ -7,10 +7,6 @@
   - Practise with the CSS fundamentals: selectors, colors & backgrounds.
 ## What they do in the exercise:
   - Clone the given pages.
-## Issues:
-  - Both exercises are the same. They don't learn anything in the second one.
-## Purposal:
-
 ## Good practices:
   - Use semantic tags like <header>, <section>, etc. instead of <div>.
   - Make the classes reusable.
@@ -20,4 +16,11 @@
   - IDs are just for targeting single elements that wont be repeated.
   - Use css reset.
   - Commit after each iteration.
+
+
+
+## Issues:
+  - Both exercises are the same. They don't learn anything in the second one.
+## Suggestion:
+
 ## Typos:

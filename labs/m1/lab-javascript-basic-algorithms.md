@@ -9,13 +9,16 @@
   - I2: Conditionals
   - I3: Loops
   - BONUS: Play with strings and concepts learnt
+## Good practices:
+  - Pay attention to the syntax, naming and indentation.
+  - Start investigating some methods like .toUpperCase()
+
+
+  
 ## Issues:
   - They have to work in repl.it and submit in Github Gist.
   - They have the result for all the exercice in starter-code folder
   - There are no iterations
-## Purposal:
+## Suggestion:
 
-## Good practices:
-  - Pay attention to the syntax, naming and indentation.
-  - Start investigating some methods like .toUpperCase()
 ## Typos:

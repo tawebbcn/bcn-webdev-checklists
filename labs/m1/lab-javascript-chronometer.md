@@ -6,6 +6,13 @@
 ## What they do in the exercise:
   - Iteration 1 create a interval
   - DOM manipulation from interation 2 to the end.
+## Good practices:
+  - use var `var self = this` for no lose the context
+  - naming
+  - indentation
+
+
+  
 ## Issues:
   - use globals variables
   - setInterval only is used once without complexity.
@@ -19,12 +26,8 @@
   - Bonus: You already has the HTML is CSS done.
   - Solution code use global functions inside chronometer methods.
   - It will be better if they work with console but since they have JasmineTest they will not use it.
-## Purposal:
+## Suggestion:
   - Since we are showing what is a callback, we can create a callback method inside chronometer for every time change currentTime.
-## Good practices:
-  - use var `var self = this` for no lose the context
-  - naming
-  - indentation
 ## Typos:
   - setTime() -> "whit"
   - Jasmine html have Vikings instead of Chronometer.
