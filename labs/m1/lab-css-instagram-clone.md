@@ -9,7 +9,7 @@
   - Clone the given page.
 
 ## Good practices:
-  - Use element tags like ```<header>, <section>, etc.``` instead of <div>.
+  - Use element tags like ```<header>, <section>, etc.``` instead of ```<div>```.
   - Use relative paths for the images.
   - Use css reset.
   - Make the classes reusable.
