@@ -14,7 +14,7 @@
   - Use css reset.
   - Make the classes reusable.
   - Name classes with kebab-case instead of camelCase.
-  - IDs are just for targeting single elements that wont be repeated.
+  - IDs are just for targeting single elements that won't be repeated.
   - Don't style element tags like <div>.
   - Use relative units like vh,vw,% instead of absolute like px for positioning.
 
