@@ -11,7 +11,7 @@
   - Animate the logo when hover
 ## Good practices:
   - Use element tags like ```<header>, <section>, etc``` instead of ```<div>```
-  - Navbar menu should be a <ul>; perfect case to apply a descendant selector
+  - Navbar menu should be a ```<ul>```; perfect case to apply a descendant selector
   - Use relative paths for the images
   - Use css reset
   - Make the classes reusable
