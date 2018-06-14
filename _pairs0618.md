@@ -21,12 +21,20 @@
   - Gabriel D - Julio N
   - Daniela D - Andrea N - Khalil N
 
- ##Day 4
+ ##Day 4 
+(Avoided this pairs)
   - Jose - Will 
   - Will - Daniela
   - Julien - Gabriel
   - Andrea - Montse 
   - Julio - Sebastian - Javier
+(Used this pairs for pairing all day, sorted by level)
+  - Will N - Julien D
+  - Julio N - Andrea D
+  - Montse N - Daniela D
+  - Gabriel N - Javier D
+  - Jose N - Sebastian N - Kahlil D
+
 
  ##Day 5
   - Jose - Montse - Gabriel
