@@ -14,15 +14,15 @@
 ## Good practices:
   - Mobile first
   - Flex-box instead of float
-  - Use element tags like <header>, <section>, etc instead of <div>
-  - Navbar menu should be a <ul>; perfect case to apply a descendant selector
+  - Use element tags like `<header>`, `<section>`, etc instead of `<div>`
+  - Navbar menu should be a `<ul>`; perfect case to apply a descendant selector
   - Use relative paths for the images
   - Use css reset
   - Make the classes reusable
   - Name classes with kebab-case instead of camelCase
   - IDs are just for targeting single elements that wont be repeated
-  - Don't style element tags like <div>
-  - Use relative units like vh,vw,% instead of absolute like px for positioning
+  - Don't style element tags like `<div>` unless for resetting OR inside a class (e.g. `.main h3 {}`)
+  - Use relative units like % instead of absolute like px for positioning
   - You don't finish to style an element until you've set its margin bottom / padding top
 
 
