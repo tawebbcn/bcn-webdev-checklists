@@ -23,6 +23,6 @@
 ## Suggestion:
   - add another iteration: search by field, order by name.
 ## Typos:
-  - starter code has `drOrchid` with `frst_name` and `lst_name`
+  - starter code has `drOrchid` with `frst_name` and `lst_name` and `ocupation` with one c
   - jastime test i3
   - method Iteration 2

@@ -16,10 +16,10 @@
 
  ##Day 3
   - Javier N - Sebastian D
-  - Montse N - Will D
+  - Montse N - Will D - Daniela - N
   - Jose D- Julien N
   - Gabriel D - Julio N
-  - Daniela D - Andrea N - Khalil N
+  - Andrea N - Khalil N
 
  ##Day 4
   - Jose - Will 
@@ -28,14 +28,23 @@
   - Andrea - Montse 
   - Julio - Sebastian - Javier
 
- ##Day 5
+# Week 2
+
+  ##Day 1
   - Jose - Montse - Gabriel
   - Julien - Daniela
   - Julio - Khalil
   - Javier - Andrea
   - Sebastian - Will
 
-
+  ##Day 2
+  - Javier - Montse - Gabriel
+  - Will - Daniela
+  - Julien - Julio
+  - Eloi - Andrea
+  - Filipe - Sebastian
+  - Rapha - Khalil
+  - Seba - Jose
 
 # Third in a Trio
 
@@ -47,7 +56,7 @@ Gabriel - 1
 Jose - 0
 Julien - 0
 Julio - 0
-Daniela - 0
+Daniela - 1
 Andrea - 0
 Montse - 0
 
@@ -55,7 +64,7 @@ Montse - 0
 
 Javier - 2
 Jose - 2
-Will - 1
+Will - 2
 Julien - 1
 Julio - 1
 Sebastian - 1
@@ -71,14 +80,14 @@ Jose + Will - 1
 Jose + Julien - 1
 Jose + Julio
 Jose + Sebastian
-Jose + Khalil
+Jose + Khalil - 1
 Jose + Javier - 1
 Jose + Daniela - 1
 Jose + Andrea
 Jose + Montse - 1
 Jose + Gabriel - 1
 Will + Julien 
-Will + Julio
+Will + Julio - 1
 Will + Sebastian - 1
 Will + Khalil - 1
 Will + Javier
@@ -87,7 +96,7 @@ Will + Andrea - 1
 Will + Montse - 1
 Will + Gabriel
 Julien + Julio - 1
-Julien + Sebastian
+Julien + Sebastian - 1
 Julien + Khalil
 Julien + Javier - 1
 Julien + Daniela - 1
@@ -109,12 +118,12 @@ Sebastian + Montse
 Sebastian + Gabriel - 1
 Khalil + Javier - 1
 Khalil + Daniela - 1
-Khalil + Andrea
+Khalil + Andrea - 1
 Khalil + Montse
 Khalil + Gabriel
 Javier + Daniela
 Javier + Andrea
-Javier + Montse
+Javier + Montse - 1
 Javier + Gabriel
 Daniela + Andrea - 1
 Daniela + Montse
@@ -122,3 +131,4 @@ Daniela + Gabriel
 Andrea + Montse - 1
 Andrea + Gabriel
 Montse + Gabriel - 1
+
