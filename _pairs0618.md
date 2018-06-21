@@ -21,12 +21,20 @@
   - Gabriel D - Julio N
   - Andrea N - Khalil N
 
- ##Day 4
+ ##Day 4 
+(Avoided this pairs)
   - Jose - Will 
   - Will - Daniela
   - Julien - Gabriel
   - Andrea - Montse 
   - Julio - Sebastian - Javier
+(Used this pairs for pairing all day, sorted by level)
+  - Will N - Julien D
+  - Julio N - Andrea D
+  - Montse N - Daniela D
+  - Gabriel N - Javier D
+  - Jose N - Sebastian N - Kahlil D
+
 
 # Week 2
 
@@ -131,4 +139,7 @@ Daniela + Gabriel
 Andrea + Montse - 1
 Andrea + Gabriel
 Montse + Gabriel - 1
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7bf279c5f4cf1f7ae09306ed86550a39c4be425c

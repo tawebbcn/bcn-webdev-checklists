@@ -9,13 +9,13 @@
   - Clone the given page.
 
 ## Good practices:
-  - Use element tags like <header>, <section>, etc. instead of <div>.
+  - Use element tags like ```<header>, <section>, etc.``` instead of ```<div>```.
   - Use relative paths for the images.
   - Use css reset.
   - Make the classes reusable.
   - Name classes with kebab-case instead of camelCase.
-  - IDs are just for targeting single elements that wont be repeated.
-  - Don't style element tags like <div>.
+  - IDs are just for targeting single elements that won't be repeated.
+  - Don't style element tags like ```div```.
   - Use relative units like vh,vw,% instead of absolute like px for positioning.
 
 
