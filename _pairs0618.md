@@ -139,7 +139,3 @@ Daniela + Gabriel
 Andrea + Montse - 1
 Andrea + Gabriel
 Montse + Gabriel - 1
-<<<<<<< HEAD
-
-=======
->>>>>>> 7bf279c5f4cf1f7ae09306ed86550a39c4be425c

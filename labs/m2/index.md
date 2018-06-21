@@ -6,7 +6,7 @@
 # Week 4 | Day 2
 
 - PP: [Mongo Compass CRUD](./lab-mongo-compass-crud.md)
-- DE: [Mongo Crunchbase](./lab-mongo-crunchbase.md)
+- DE: [Express Basic Site](./lab-express-basic-site.md)
 
 # Week 4 | Day 3
 
@@ -15,7 +15,7 @@
 
 # Week 4 | Day 4
 
-- PP: [Mongoose drones](./lab-mongoose-drones.md)
+- PP: [Mongoose recipes](./lab-mongoose-recipes.md)
 - DE: [Express spotify](./lab-express-spotify.md)
 
 # Week 4 | Day 5

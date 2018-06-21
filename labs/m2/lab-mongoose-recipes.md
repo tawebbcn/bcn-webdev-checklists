@@ -1,4 +1,4 @@
-# Express Basic Auth
+# Mongoose Recipes
 
 ## Link:
 
