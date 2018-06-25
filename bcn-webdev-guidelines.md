@@ -105,7 +105,7 @@ Spontaneous Feedback & Questions
 - Events: @irenedemas, @ana
 - Carreer Services (Job Search): @joana
 - Personal Branding (Medium, Social Media…): @ana
-- Campus & Facilities: @ania
+- Campus & Facilities: @irene
 
 ## Events
 
