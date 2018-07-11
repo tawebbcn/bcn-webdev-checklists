@@ -1,5 +1,13 @@
 # Feedback
 
+*see also:*
+- *[projects](./projects.md)*
+- *[project week](./project-week.md)*
+- *[slides](./slides.md)*
+
+
+## Items
+
 - public speech
   - stick to time limit (5 min)
   - clear voice
