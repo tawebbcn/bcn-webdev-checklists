@@ -14,16 +14,16 @@
   
 You explain it" practices
   - MODULE 1
-   - HTML structure
-   - Basic Javascript definitions and names
-   - Basic CSS rules
-   - constructors and classes
-   - how to structure different kinds of games
+    - HTML structure
+    - Basic Javascript definitions and names
+    - Basic CSS rules
+    - constructors and classes
+    - how to structure different kinds of games
    
   - MODULE 2
-   - ES6 changes
-   - HTTP workflow
-   - Express workflow (with mongoose, without API)
+    - ES6 changes
+    - HTTP workflow
+    - Express workflow (with mongoose, without API)
  
 - Others
  - Groups for the day
