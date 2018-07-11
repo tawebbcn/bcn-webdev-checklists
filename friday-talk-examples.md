@@ -1,11 +1,11 @@
-# Friday talk exxamples
+# Friday talk examples
 
 - VSC shortcuts and productivity
-- Socket & other real-time
+- Sockets & other real-time
 - Screen-scrapping & data gathering methods
 - How far of making a "production ready" web app are we? (Security, deploying...)
 - Impostor syndrome
-- CUlture & roles
+- Culture & roles
 - UX/UI principles
 - Other technologies to learn
 - DevOps
