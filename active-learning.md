@@ -12,7 +12,7 @@
   - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
   - You explain it: Go in front of the class and explain the flow that is written/drawn on the board
   
-You explain it" practices
+- You explain it" practices
   - MODULE 1
     - HTML structure
     - Basic Javascript definitions and names
