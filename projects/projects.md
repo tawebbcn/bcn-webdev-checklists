@@ -62,7 +62,7 @@
 - states and transitions
 - data structures
 - tasks (or simple US)
-- show github readme template and encourage them to do the same
+- show [github readme template](https://github.com/zapatran/template-project-game/blob/master/Project%20Template.md) and encourage them to do the same
 
 ### Execution
 - insist
