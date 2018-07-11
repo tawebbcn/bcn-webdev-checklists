@@ -1,6 +1,11 @@
 
 # Project
 
+*see also:*
+- *[project week](./project-week.md)*
+- *[slides](./slides.md)*
+- *[presentations feedback](./presentations-feedback.md)*
+
 ## Kick-off Checklist
 - plan groups (module 2 only)
 - start discussing ideas
