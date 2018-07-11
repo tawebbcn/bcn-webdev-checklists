@@ -61,6 +61,21 @@
   - Sebastian D + Daniela N
   - Montse N - Gabriel N - Andrea D
 
+  ##Week 4 - Day 4
+
+  - Javier - Kahlil
+  - Jose - Daniela
+  - Will - Andrea
+  - Montse - Gabriel
+  - Julien - Julio - Sebastian
+
+## Week 5
+
+  - Gabriel - Montse
+  - Julio - Sebastian
+  - Khalil - Javier
+  - Jose - Julien
+
 
 # Third in a Trio
 
@@ -102,7 +117,7 @@ Jose + Daniela - 1
 Jose + Andrea
 Jose + Montse - 1
 Jose + Gabriel - 1
-Will + Julien 
+Will + Julien - 1
 Will + Julio - 1
 Will + Sebastian - 1
 Will + Khalil - 1

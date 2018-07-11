@@ -46,6 +46,7 @@
 - ask students
 - use same list as above (students, level, strength)
 - there is no topic yet, since only
+- make sure everyone is in the room when announcing the pairs
 
 ## Module 1
 
@@ -63,11 +64,16 @@
 
 ### Planning
 - what is, main use cases
+- User stories
+  - 404 & 500 User stories
+  - Logout
 - wireframes
 - VVVV: views
 - CCCC: routes (one GET per view, one POST per form and action button)
 - MMMM: models
+- 404 & 500 User stories
 - US and tech investment
+- Challenges/Extras: Maps, Mail, File Upload, Social Login(Passport)
 
 ## Module 3
 
