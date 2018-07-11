@@ -1,6 +1,8 @@
 
 # Standups
 
+*see also [daily-kick-off.md](daily-kick-off.md)*
+
 - say
   - how am I feeling
     - confidence
@@ -42,3 +44,5 @@
 - don't interrupt unless to prevent damage/confusion
 - stick to short interruptions, get back on track
 - energy, speed up
+
+
