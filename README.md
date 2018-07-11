@@ -28,7 +28,7 @@
 - simplify ./code-alongs.md
 - find a place for language/values/protocols (e.g. learn how to unamiguous YES!)
 
-## Development
+## Contributing
 
 - Follow same style as other docs
   - use `## titles`
