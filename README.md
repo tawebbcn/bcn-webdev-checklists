@@ -14,7 +14,7 @@
 - [Debugging](./debugging.md)
 - [UX/UI Collaborations](./ux-ui-collaborations.md)
 - [Friday Talks](./friday-talks.md)
-- [Projects](./projects.md)
+- [Projects](./projects/projects.md)
 - [Presentations and Slides](./presentations.md)
 - [Retrospective](./retrospectives.md)
 - [Jury Guidelines](./jury-guidelines.md)
