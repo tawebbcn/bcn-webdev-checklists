@@ -1,6 +1,11 @@
 
 # Project
 
+*see also:*
+- *[project week](./project-week.md)*
+- *[slides](./slides.md)*
+- *[presentations feedback](./presentations-feedback.md)*
+
 ## Kick-off Checklist
 - plan groups (module 2 only)
 - start discussing ideas
@@ -43,10 +48,14 @@
 
 ### Creating Groups (module 2 only)
 
-- ask students
+- ask students for preferences
+  - should send via Slack DM to one TA
+  - I would prefer working with X 
+  - Please don't pair me with Y I know we don't work well together
 - use same list as above (students, level, strength)
 - there is no topic yet, since only
 - make sure everyone is in the room when announcing the pairs
+- topic (extra challenges like maps, uploads, etc...) is only relevant if there are many pairs/projects (> 10)
 
 ## Module 1
 
@@ -55,9 +64,11 @@
 - states and transitions
 - data structures
 - tasks (or simple US)
+- show [github readme template](https://github.com/zapatran/template-project-game/blob/master/Project%20Template.md) and encourage them to do the same
 
 ### Execution
 - insist
+- remind students everyday that they could/should review and/or change their previous slides
 
 ## Module 2
 -

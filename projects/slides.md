@@ -1,5 +1,18 @@
 # Slides
 
+*see also:*
+- *[projects](./projects.md)*
+- *[project week](./project-week.md)*
+- *[presentations feedback](./presentations-feedback.md)*
+
+
+## Checklist
+- use http://slides.com OR google docs
+- students can modify this plan as they want
+- slides are there to support your ideas, not to make them for you
+- see [Presentations Feedback](./presentations-feedback.md)
+
+## Pages
 - **Title** (My name is ... and I present you ...)
 - **It's a ...** (explain it in one sentence)
 - **User can ...** (2,3 bullet points that explain the main features of the application)
@@ -28,9 +41,3 @@
 - **To Do** (2,3 bullet points. Next steps to improve your application)
 - **Highlights** (2,3 bullet points. Something remarkable from your project and you want to share. Not just technologies used but great experiences, planning, organization ...)
 - **Demo** (Add a the link to your deployed application)
-
-## Checklist
-- use http://slides.com OR google docs
-- students can modify this plan as they want
-- slides are there to support your ideas, not to make them for you
-- see [Presentations Feedback](./presentations-feedback.md)

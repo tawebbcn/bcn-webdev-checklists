@@ -61,6 +61,7 @@
   - Sebastian D + Daniela N
   - Montse N - Gabriel N - Andrea D
 
+<<<<<<< HEAD
   ##Week 4 - Day 4
 
   - Javier - Kahlil
@@ -76,6 +77,15 @@
   - Khalil - Javier
   - Jose - Julien
 
+=======
+##Week 4 - Day 3
+   
+  - Jose + Andrea
+  - Will + Julien 
+  - Javier + Daniela
+  - Sebastian + Montse
+  - Gabriel + Kahlil + Julio
+>>>>>>> 41f1285f6e0ffc4d5d9fa8b199b9876f48000fcd
 
 # Third in a Trio
 
@@ -86,7 +96,7 @@ Javier - 1
 Gabriel - 1
 Jose - 0
 Julien - 0
-Julio - 0
+Julio - 1
 Daniela - 1
 Andrea - 0
 Montse - 0
@@ -97,13 +107,13 @@ Javier - 2
 Jose - 2
 Will - 2
 Julien - 1
-Julio - 1
+Julio - 2
 Sebastian - 1
 Daniela - 1
 Andrea - 1
-Khalil - 1
+Khalil - 2
 Montse - 1
-Gabriel - 1
+Gabriel - 2
 
 
 # Possible pairs
@@ -114,7 +124,7 @@ Jose + Sebastian
 Jose + Khalil - 1
 Jose + Javier - 1
 Jose + Daniela - 1
-Jose + Andrea
+Jose + Andrea - 1
 Jose + Montse - 1
 Jose + Gabriel - 1
 Will + Julien - 1
@@ -145,14 +155,14 @@ Sebastian + Khalil
 Sebastian + Javier - 1
 Sebastian + Daniela - 1
 Sebastian + Andrea - 1
-Sebastian + Montse
+Sebastian + Montse - 1
 Sebastian + Gabriel - 1
 Khalil + Javier - 1
 Khalil + Daniela - 1
 Khalil + Andrea - 1
 Khalil + Montse
 Khalil + Gabriel
-Javier + Daniela
+Javier + Daniela - 1
 Javier + Andrea
 Javier + Montse - 1
 Javier + Gabriel
