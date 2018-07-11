@@ -48,9 +48,12 @@
 
 ### Creating Groups (module 2 only)
 
-- ask students
+- ask students for preferences
+  - should send via Slack DM to one TA
+  - I would prefer working with X 
+  - Please don't pair me with Y I know we don't work well together
 - use same list as above (students, level, strength)
-- there is no topic yet, since only
+- topic (extra challenges like maps, uploads, etc...) is only relevant if there are many pairs/projects (> 10)
 
 ## Module 1
 
