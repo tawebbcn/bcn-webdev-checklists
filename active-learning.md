@@ -12,18 +12,18 @@
   - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
   - You explain it: Go in front of the class and explain the flow that is written/drawn on the board
   
-  - "You explain it" practices
-   - MODULE 1
-    - HTML structure
-    - Basic Javascript definitions and names
-    - Basic CSS rules
-    - constructors and classes
-    - how to structure different kinds of games
+ - "You explain it" practices
+  - MODULE 1
+   - HTML structure
+   - Basic Javascript definitions and names
+   - Basic CSS rules
+   - constructors and classes
+   - how to structure different kinds of games
    
-   - MODULE 2
-    - ES6 changes
-    - HTTP workflow
-    - Express workflow (with mongoose, without API)
+  - MODULE 2
+   - ES6 changes
+   - HTTP workflow
+   - Express workflow (with mongoose, without API)
  
 - Others
  - Groups for the day
