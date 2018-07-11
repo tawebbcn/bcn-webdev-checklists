@@ -31,7 +31,7 @@
   - announce the time for presentations early in the day
   - typically 17h30 to 18h00
   - remember students 30 mins before the agreed time
-  - remember students to also keep updating the previouss slides 
+  - remember students to also keep updating the previous slides 
 - give groups options 
   - speed run presentation.
   - focus on the increment (present just the new slides and demo only new features)
