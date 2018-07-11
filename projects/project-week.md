@@ -1,9 +1,14 @@
-# Presentations
+# Project Week
 
+*see also:*
+- *[projects](./projects.md)*
+- *[slides](./slides.md)*
+- *[presentations feedback](./presentations-feedback.md)*
+
+## General
 - max 2 hours of show
 - presentations will last 5 minutes
 - the order of the presentations will be random unless we decide the opposite
-
 
 ## Start of Project Checklist
 - set an hour to start daily presentations
