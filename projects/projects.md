@@ -62,9 +62,11 @@
 - states and transitions
 - data structures
 - tasks (or simple US)
+- show github readme template and encourage them to do the same
 
 ### Execution
 - insist
+- remind students everyday that they could/should review and/or change their previous slides
 
 ## Module 2
 -
