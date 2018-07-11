@@ -1,5 +1,7 @@
 # Daily Kick-off
 
+*see also [stand-up.md](./stand-up.md)*
+
 - following stand-up, still standing
 - enumerate agenda/options for the day
 - mini-lecture if needed
