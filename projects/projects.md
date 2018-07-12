@@ -73,7 +73,7 @@
 ## Module 2
 
 ### Planning
-- show [github readme template](show [github readme template](https://github.com/zapatran/template-project-game/blob/master/Project%20Template.md) and encourage them to do the same) and encourage them to do the same
+- show [github readme template](https://github.com/raphamontenegro/module2template/blob/master/README.md) and encourage them to do the same) and encourage them to do the same
 - what is, main use cases
 - User stories
   - 404 & 500 User stories
