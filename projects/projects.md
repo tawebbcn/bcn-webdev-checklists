@@ -80,7 +80,10 @@
   - Logout
 - wireframes
 - VVVV: views
-- CCCC: routes (one GET per view, one POST per form and action button)
+- CCCC: routes
+  - one GET per view, one POST per form and action button
+  - details about what goes in request BODY
+  - details about redirection after POST is handled
 - MMMM: models
 - 404 & 500 User stories
 - US and tech investment
@@ -95,23 +98,22 @@
 
 - identify
   - name(s) / project name
-  - tech challenges (location / google places)
-  - main stretch goal (send an email)
+  - dom/canvas (m1)
+  - tech challenges (location / google places / send an email) (m2, m3)
 - checklist (where applicable)
+  - states / data structures (m1)
+  - user stories / MVC (m2)
   - wireframes
-  - data-structures / data-models
-  - routing
-  -
-  - user stories
   - board up (or trello)
-  - github (1 or 2)
+  - github (1 or 2) (check .gitignore)
+  - README.md
+  - bootstrap (m1 mainx3 / m2 app.js + launcher + eslint)
+  - git commits (count and update commits daily)
   - deployment (1 or 2)
   - presentation
 - keep daily track
 - use red to signal blocks/warnings (e.g. 1 repo for back&front)
 - standup in front of board
-
-
 
 
 
