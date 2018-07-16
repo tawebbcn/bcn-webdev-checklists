@@ -25,6 +25,8 @@
   - Indentation and constructor review
 
 ## Issues:
+  - In order to pass the first test #add(x) you need to implement the #get(i) method.
+  - In #get(i) method it starts counting position as if 1 were 0.
 
 ## Suggestion:
 
