@@ -24,7 +24,11 @@
 
 
 ## Todo
+- apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives.
+- create a calendar to make a daily post on the alumni channel 
 - review and contribute to new files (live-coding.md, knowledge-assesment-activities.md, friday-talks.md, restrospectives.md, debugging.md)
+- identify all the learning units that depend on external APIs and test them beforehand
+- review the student policy and update the [class guidelines](./bcn-webdev-guidelines.md) rules
 - simplify ./code-alongs.md
 - find a place for language/values/protocols (e.g. learn how to unamiguous YES!)
 
