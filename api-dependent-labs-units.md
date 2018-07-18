@@ -10,3 +10,4 @@
   - Week 5 - Day 3 - Lab Financial data graphing - CoinDesk API
   - Week 5 - Day 3 - Unit AJAX | Axios POST & PUT - Ironhack CRUD API
   - Week 5 - Day 4 - Unit File Upload CDN - Cloudinary API
+  - Week 7 - Day 4 - Unit HTTP - ICNDB API (Chuck Norris Jokes)
