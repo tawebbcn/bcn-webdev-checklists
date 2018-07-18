@@ -25,6 +25,7 @@
 - highlight the learning goals
 - warn when moving from basic to advanced concepts/examples
 - careful when switching between code, browser, terminal
+- check for units depening on external APIs: [api-dependent-labs-units.md](./api-dependent-labs-units.md)
 - students should
   - not be on their laptops if no laptop needed
   - ask to switch back to code, browser, terminal as needed
