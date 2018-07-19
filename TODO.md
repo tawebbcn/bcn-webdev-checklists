@@ -2,6 +2,7 @@
 
 ## priority1
 
+- create the boilerplate for hack-a-tuna
 - review the student policy and update the [class guidelines](./bcn-webdev-guidelines.md) rules
 
 
