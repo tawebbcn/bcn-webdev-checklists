@@ -56,6 +56,15 @@ Read this post to better understand the PO role and how some teams think so diff
 
 ### Frontend (Engineering - patterns, libraries, performance, security, ...)
 
+- https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1
+
+Understanding promises in Javascript
+
+The author of this post makes `a pinky promise that by the end of this post you will know Javascript Promises better.`
+
+Read this article for a comprehensive breakdown of all the Promise method.
+
+
 ### Backend 
 
 ### Advanced (Engineering - architecture, high-availability and scalability, security, ...)
