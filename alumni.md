@@ -73,12 +73,24 @@ But it can be hard for beginners to achieve consistency across all parts of an a
 
 Read this article to improve your React skills, better understanding how components work and how to use it.
 
+- https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+
+A process from 0 to a great level as Frontend Developer
+## TODO (text not ready)
+
+
 
 ### Backend 
 
 ### Advanced (Engineering - architecture, high-availability and scalability, security, ...)
 
+ - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9 
+ 
+ A process from 0 to a great level as Backend Developer
+ 
 ## TODO (text not ready)
+
+
 
 
 
