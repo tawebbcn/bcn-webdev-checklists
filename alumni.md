@@ -64,6 +64,15 @@ The author of this post makes `a pinky promise that by the end of this post you 
 
 Read this article for a comprehensive breakdown of all the Promise method.
 
+- https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0
+
+React component patterns
+
+React components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+But it can be hard for beginners to achieve consistency across all parts of an application.
+
+Read this article to improve your React skills, better understanding how components work and how to use it.
+
 
 ### Backend 
 
