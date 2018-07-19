@@ -20,6 +20,12 @@
 - add purpose for the exercices of module 3
 **@all** looking for an owner
 
+- simple katas for module 1
+
+- simple katas for module 2
+
+- simple katas for module 3
+
 
 ## checklists
 
