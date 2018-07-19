@@ -17,7 +17,10 @@
 - explain the purpose of the daily exercise (to practice X and Y)
 - re-order iterations if needed
 - skip iteration if needed
-- remember:
-  - fork, clone, commit, pull request "BCN name+name"
+- remember students to:
+  - fork, clone, commit
+  - pull request "BCN name+name"
+    - tag their pair(s) in the comments (if pairing)
+    - add comments about where they are struggling / stuck / questions they might have
   - 10% is better than nothing
-  - time to complete
+  - announce the time to complete 
