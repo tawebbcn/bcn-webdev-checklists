@@ -35,3 +35,28 @@
   - Nuria - Marc - Borja
   - Anna - Rafa
 
+## Week 4
+
+  #Day 1
+ - Borja - Núria
+ - Marc - Sandra
+ - Rafael - Anna 
+ - Paula - Hugo
+ - Andrea - Eduard
+  
+  #Day 2
+
+ - Borja - Edu
+ - Rafa - Andrea
+ - Nuria - Paula
+ - Anna - Marc
+ - Hugo - Sandra
+
+ #Day 3
+ - Rafa - Hugo 
+ - Andrea - Borja 
+ - Paula - Marc
+ - Anna - Edu - Sandra
+
+
+
