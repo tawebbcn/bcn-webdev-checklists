@@ -13,9 +13,7 @@
 
 ## content
 
-- add purpose for the remaining exercices of module 2 
-**@filipe** quantify remaining
-
+- add purpose for the remaining exercices of module 2 - *8 out of 19 done*
 
 - add purpose for the exercices of module 3
 **@all** looking for an owner (**OWNER:** **@Seba**)
