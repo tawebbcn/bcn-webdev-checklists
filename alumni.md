@@ -25,6 +25,7 @@ solving a problem together and distributing the knowledge.
 
 Watch this video to know more about an incredible skill, directly from a great mentor.
 
+
 - https://www.boost.co.nz/blog/2017/04/team-charter-building-better-teams
 
 The Team Charter – build a better team together
@@ -34,7 +35,20 @@ the team charter. A team charter is a powerful, tool. It consists of documentati
 (think wiki) that usually captures  the team's values, ambitions, behaviours, schedules,
 policies, technical practices, tools, and whatever else the team agrees. 
 
-Read this article to know about this valuable Scrum practice.
+Read this article to know more about this valuable Scrum practice.
+
+
+- https://medium.com/@JoshuaKerievsky/eliminating-the-product-owner-role-be01cabc1f5b
+
+Eliminating the Product Owner Role
+
+A thought provoking post that advocates eliminating the Product Owner role.
+
+Do you think that agile product teams need to have a single dedicated person (such as
+the Scrum guide advocates), or can the role be fulfilled by the whole team?
+
+Read this post to better understand the PO role and how some teams think so differently from others.
+
 
 ### UX/UI
 
@@ -45,6 +59,8 @@ Read this article to know about this valuable Scrum practice.
 ### Backend 
 
 ### Advanced (Engineering - architecture, high-availability and scalability, security, ...)
+
+## TODO (text not ready)
 
 
 
