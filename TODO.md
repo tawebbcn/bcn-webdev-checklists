@@ -18,7 +18,7 @@
 
 
 - add purpose for the exercices of module 3
-**@all** looking for an owner
+**@all** looking for an owner (i will take this **@Seba**)
 
 - simple katas for module 1
 
