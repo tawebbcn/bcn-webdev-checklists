@@ -57,6 +57,12 @@
  - Andrea - Borja 
  - Paula - Marc
  - Anna - Edu - Sandra
-
+ 
+ #Day 5
+ - Rafa - Paula
+ - Andrea - Sandra
+ - Edu - Anna
+ - Nuria - Borja
+ - Hugo - Marc
 
 
