@@ -13,3 +13,4 @@
   - What they liked most on the project (and on the module)
   - What they liked least on the project (and on the module)
 
+- take a picture and upload it here in ./retrospectives
