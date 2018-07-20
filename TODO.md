@@ -15,25 +15,31 @@
 ## content
 
 - add purpose for the remaining exercices of module 2 - *8 out of 19 done*
+**filipe**
 
 - add purpose for the exercices of module 3
-**@all** looking for an owner (**OWNER:** **@Seba**)
+**seba**
 
-- simple katas for module 1
+- reference project for module 1
+**filipe**
 
-- simple katas for module 2
+- reference project for module 2
 
-- simple katas for module 3
+- reference project for module 3
 
+- simple katas for module 1,2,3 
+**eloi**
+
+- create an issue.md to track major issues in the content
+**eloi**
 
 ## checklists
 
-- create [topics](./topics.md)
-(ask andre what this is)
+- create [mantras](./mantras.md)
+language/values/protocols (e.g. learn how to unambiguous YES!)
+**andre**
 
 - simplify [code-alongs](./code-alongs.md)
 
-- find a place for language/values/protocols (e.g. learn how to unambiguous YES!)
-
 - apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives. 
-`@rapha no one remembers anymore, do you have any notes about what needs to change or we just delete this?`
+**@rapha** create ./retrospective, move files in there, upload picture, edit restrospective checklist
