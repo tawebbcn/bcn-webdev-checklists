@@ -2,11 +2,8 @@
 
 ## Daily Routine
 
-see also 
- - stand-up 
- - kick-off
- - pairs
- - 
+see also: stand-up, kick-off, pairs.
+
 
 - stand-up
 - kick-off
