@@ -14,10 +14,11 @@
   - what they liked least on the project (and on the module)
   
 - structure 
-  - Openning
-  - gather data
-  - generate insights
-  - actions
+  - openning (explain the purpose, process)
+  - gather data (e.g. write post-its)
+  - generate insights (discussion)
+  - actions (stop, start, continue)
+  - closing (recap)
  
 
 - take a picture and upload it here in ./retrospectives
