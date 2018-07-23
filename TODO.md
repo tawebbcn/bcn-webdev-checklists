@@ -4,6 +4,7 @@
 
 - ~~create the boilerplate for hack-a-tuna~~ https://github.com/ironhack-labs/tunathon-boilerplate
 - review the student policy and update the [class guidelines](./bcn-webdev-guidelines.md) rules
+- discuss katas and projects
 
 
 ## tools
