@@ -17,8 +17,18 @@
 - ask for agreement
 - vocal and unambiguous (@todo more notes)
 
+## Daily Routine
+
+- stand-up
+- kick-off
+- agenda
+- pair programming
+- daily exercise
+- TA schedule
+
 ## Checklist
 
+- 
 - check gear: projector, adapters, whiteboard, eraser, markers
 - check supplies: water ;-)
 - when you're ready, make sure everyone else is ready
