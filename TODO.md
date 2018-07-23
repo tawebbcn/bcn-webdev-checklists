@@ -15,7 +15,7 @@
 
 ## content
 
-- add purpose for the remaining exercices of module 2 - *8 out of 19 done*
+- add purpose for the remaining exercices of module 2 - *13 out of 19 done*
 **filipe**
 
 - add purpose for the exercices of module 3
