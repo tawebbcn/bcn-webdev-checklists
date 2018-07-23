@@ -4,7 +4,7 @@
 
 - following stand-up, still standing
 - enumerate agenda/options for the day
-- mini-lecture if needed
+- mini-lecture if needed (or intervention)
 - focus on outcomes
   - learning objectives
   - scope of practice sessions
