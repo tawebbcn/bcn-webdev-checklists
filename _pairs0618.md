@@ -91,11 +91,11 @@
 
 ##Week 7 - Day 1
 
-Montse - Julio -Julien
-Andrea - Sebastian
-Kahlil - Daniela
-Jose - Javier
-Gabriel - will 
+- Montse - Julio -Julien
+- Andrea - Sebastian
+- Kahlil - Daniela
+- Jose - Javier
+- Gabriel - will 
 
 
 # Third in a Trio
