@@ -18,7 +18,7 @@
   - not do, make sure someone is doing it
   - put relevant checklist in front of teacher, driver, ... before they start
 - schedules
-  - be at IH before 9am OR make another one (TA/teacher) is
+  - be at IH before 9am OR make sure another one (TA/teacher) is
   - build TA schedule for the week
   - ceremonies (student stand-ups, teacher standups, end-of-day debrief)
   - meetings (program review, meetings with ux, ...)
