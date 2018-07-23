@@ -87,6 +87,17 @@
   - Gabriel + Kahlil + Julio
 >>>>>>> 41f1285f6e0ffc4d5d9fa8b199b9876f48000fcd
 
+## Week 7
+
+##Week 7 - Day 1
+
+Montse - Julio -Julien
+Andrea - Sebastian
+Kahlil - Daniela
+Jose - Javier
+Gabriel - will 
+
+
 # Third in a Trio
 
 Will - 1
