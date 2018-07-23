@@ -19,9 +19,10 @@
   - put relevant checklist in front of teacher, driver, ... before they start
 - schedules
   - be at IH before 9am OR make sure another one (TA/teacher) is
-  - build TA schedule for the week
+  - build TA schedule for the week (ES/EN rotation)
   - ceremonies (student stand-ups, teacher standups, end-of-day debrief)
   - meetings (program review, meetings with ux, ...)
+  - technicals interview
 - todo
   - have laptop around so that...
   - write down todos when others ask
