@@ -117,13 +117,13 @@ Montse - 0
 Javier - 2
 Jose - 2
 Will - 2
-Julien - 1
-Julio - 2
+Julien - 2
+Julio - 3
 Sebastian - 1
 Daniela - 1
 Andrea - 1
 Khalil - 2
-Montse - 1
+Montse - 2
 Gabriel - 2
 
 
