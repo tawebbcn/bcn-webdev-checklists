@@ -1,7 +1,7 @@
 # Typescript
 
 ## Link:
- - http://learn.ironhack.com/#/learning_unit/3201
+ - https://github.com/ironhack-labs/lab-typescript
 
 ## Purpose:
  - Start using typescript to get familiar with the syntax.
