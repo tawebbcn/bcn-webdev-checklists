@@ -17,15 +17,6 @@
 - ask for agreement
 - vocal and unambiguous (@todo more notes)
 
-## Daily Routine
-
-- stand-up
-- kick-off
-- agenda
-- pair programming
-- daily exercise
-- TA schedule
-
 ## Checklist
 
 - 
