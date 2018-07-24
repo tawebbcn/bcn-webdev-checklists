@@ -15,8 +15,13 @@
 - project review
 - 5 min break coffe
 - class
-- pair programming (launch exercise, pairs ready)
+- pair programming 
+  - launch exercise
+  - pairs ready
 - lunch break (1h)
 - class
-- daily exercise (launch exercise)
-- next day scheadule (lessons / TA's)
+- daily exercise 
+  - launch exercise
+- next day scheadule 
+  - lessons 
+  - TA's
