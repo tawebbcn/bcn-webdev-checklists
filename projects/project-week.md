@@ -9,6 +9,8 @@
 - max 2 hours of show
 - presentations will last 5 minutes
 - the order of the presentations will be random unless we decide the opposite
+- if it's together with UX/UI give them a quick explanation/briefing so that they can understand and opinate better
+
 
 ## Start of Project Checklist
 - set an hour to start daily presentations
@@ -51,6 +53,7 @@
 ## Before Presentations
 - use cards to randomize
 - start calling the students 5 minutes before
+- reinforce the utility of constructive criticism.
 
 
 ## During Presentations
