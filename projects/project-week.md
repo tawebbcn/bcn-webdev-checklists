@@ -41,6 +41,7 @@
   - make sure there is agreement, otherwise use default
   - everyone does the same format
 - provide a constructive feedback
+- reinforce the utility of constructive criticism.
 - students have to provide feedback too
 
 
