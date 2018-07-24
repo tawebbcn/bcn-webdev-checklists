@@ -9,15 +9,15 @@
   - A/C
   - projector
   - eraser
-- stand-up (9:10h) 
+- stand-up (9:10h) ([stand-up.md](./stand-up.md))
 - check attendance
-- enumerate agenda/options for the day ([calendar](https://calendar.google.com/calendar/r/week/2018/7/26?tab=mc))
-- project review
+- kick off ([daily-kick-off.md](./daily-kick-off.md))
+
+******* STANDARD ******
+- exercise review
 - 5 min break coffe
 - class
-- pair programming 
-  - launch exercise
-  - pairs ready
+- pair programming ([daily-kick-off.md](./daily-kick-off.md))
 - lunch break (1h)
 - class
 - daily exercise 
