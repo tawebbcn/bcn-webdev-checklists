@@ -6,7 +6,7 @@
   - a summary readme where it's written down a raw text with what they're saying and how they're feeling
   - an action readme with the possible actions to improve our process
   - take a picture of the board
-- - the assigned TA will upload these three files to the cohort's folder in ./retrospectives    
+- the assigned TA will upload these three files to the cohort's folder in ./retrospectives    
 
 - talking points could be:
   - planning
