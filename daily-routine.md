@@ -7,9 +7,12 @@
 - check gear (markers, A/C, projector, eraser) 
 - stand-up (9:10h) 
 - check attendance
-- kick-off
-- agenda
-- pair programming
-- daily exercise
-- TA schedule
-- check next day lessons
+- enumerate agenda/options for the day (check calendar)
+- project review
+- 5 min break coffe
+- class
+- pair programming (launch exercise, pairs ready)
+- lunch break (1h)
+- class
+- daily exercise (launch exercise)
+- next day scheadule (lessons / TA's)
