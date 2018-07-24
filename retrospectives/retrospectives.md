@@ -2,6 +2,11 @@
 
 - after the presentations, students will gather with teacher and TAs and point out talking topics for monday
 - they have to provide feedback not only for the project but also for the module experience
+- one TA will be assigned to write down the summary of the retrospective. It will be divided in three pieces:
+  - a summary readme where it's written down a raw text with what they're saying and how they're feeling
+  - an action readme with the possible actions to improve our process
+  - take a picture of the board
+- - the assigned TA will upload these three files to the cohort's folder in ./retrospectives    
 
 - talking points could be:
   - planning
@@ -21,4 +26,4 @@
   - closing (recap)
  
 
-- take a picture and upload it here in ./retrospectives
+

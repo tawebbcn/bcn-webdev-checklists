@@ -10,7 +10,7 @@ Sienten que van muy despacio por la mañana y cuando llega la tarde, cuando ya e
 
 ### ACTION:  Adaptar la duración de las clases y de los ejercicios a la dificultad.
 
-CLASS
+## CLASS
 Nada a declarar
 
 ## PAIR PROGRAMMING
@@ -43,7 +43,8 @@ Sienten la necesidad de tener un poco de feedback de los TAs y de Thor de como v
 
 ### ACTION: Poner comentarios para 1x1. Incentivarlos a buscarnos con sus dudas personales
 
-PROJECT CODING
+## PROJECT CODING
+Nada a declarar
 
 ## PROJECT ORGANIZATION
 Nada a declarar
