@@ -1,0 +1,27 @@
+# Angular Data Binding
+
+## Link:
+  - https://github.com/ironhack-labs/lab-angular-data-binding
+
+## Purpose:
+  - Practice and understand better the difference between interpolation, property binding and event binding
+  - Understand that main utility of pipes is to format data on the fly
+  - Practice directives to control what is seen on the template. ngIf, ngFor... don't forget the asterix!
+
+## What they do in the exercise:
+  - I1: Display List foods
+  - I2: Search foods with pipe
+  - I3: Add new foods
+  - I4: Today's list of foods
+  Bonus: quantities
+
+## Good practices:
+  - Make good use of the folder structure and keep it's components on the components/page folder
+  - Keep the pipe on a folder of it's own.
+  - Keep the class of the component well organized. First the properties to initiate. Then the constructor, ngOnInit and only then any methods you create
+  
+## Issues:
+
+## Suggestion:
+
+## Typos:
