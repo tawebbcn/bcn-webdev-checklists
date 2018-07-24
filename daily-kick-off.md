@@ -3,7 +3,7 @@
 *see also [stand-up.md](./stand-up.md)*
 
 - following stand-up, still standing
-- enumerate agenda/options for the day
+- enumerate agenda/options for the day ([calendar](https://calendar.google.com/calendar/r/week/2018/7/26?tab=mc))
 - mini-lecture if needed (or intervention)
 - focus on outcomes
   - learning objectives
