@@ -1,8 +1,7 @@
 
 
 ## Daily Routine
-
-see also: stand-up, kick-off, pairs.
+*see also [stand-up.md](./stand-up.md) - [daily-kick-off.md](./daily-kick-off.md)*
 
 
 - stand-up
