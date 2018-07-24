@@ -1,4 +1,4 @@
-# Ironcontacts
+# IronContacts
 
 ## Link:
  - https://github.com/ironhack-labs/lab-angular-ironcontacts
