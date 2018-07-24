@@ -4,7 +4,11 @@
 *see also [stand-up.md](./stand-up.md) - [daily-kick-off.md](./daily-kick-off.md)*
 
 
-- check gear (markers, A/C, projector, eraser) 
+- check gear 
+  - markers
+  - A/C
+  - projector
+  - eraser
 - stand-up (9:10h) 
 - check attendance
 - enumerate agenda/options for the day (check calendar)
