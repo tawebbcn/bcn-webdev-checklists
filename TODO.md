@@ -42,5 +42,4 @@ language/values/protocols (e.g. learn how to unambiguous YES!)
 
 - simplify [code-alongs](./code-alongs.md)
 
-- apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives. 
-**@rapha** create ./retrospective, move files in there, upload picture, edit restrospective checklist
+- apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives. **@rapha**
