@@ -21,7 +21,7 @@
 - Tell them about the presentation when we give them the assignment. DONE
 
 ### SHORT CONTENT REVIEWS:
-- Work on more reviews 
+- Work on more reviews  DONE
 
 ### PROJECT DEMO:
 - Prepare a review/exercise that covers different kinds of games and let the students fake plan them as an exercise. DONE
