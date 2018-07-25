@@ -19,7 +19,7 @@
 - Give them a hard and an easy options. @seba
 
 ### MINI PROJECTS:
-- Tell them about the presentation when we give them the assignment.
+- Tell them about the presentation when we give them the assignment. DONE
 
 ### SHORT CONTENT REVIEWS:
 - Work on more reviews
