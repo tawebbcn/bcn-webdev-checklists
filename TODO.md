@@ -47,5 +47,3 @@ checklist on how to show the students a simple reference project. In m1 it shoul
 checklist on how to review the daily exercise with the students on the first hour.
 
 - simplify [code-alongs](./code-alongs.md)
-
-- apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives. **@rapha**
