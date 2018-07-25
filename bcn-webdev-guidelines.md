@@ -5,12 +5,12 @@
 - If you want to attend the Hiring Week, your LinkedIn profile and CV have to be revised by the Placements Manager the week before the Hiring Week
 
 - You'll be subject to immediate dismissal for the following:
- - Abusiveness or inappropriate conduct towards other students, staff or IRONHACK
- - Possession or consumption of alcohol or narcotics during training
- - Violations of local or national laws
- - Damage to school premises or property or theft
- - Three (3) or more missed class sessions without proper justification
- - Be late more than 20% of the sessions
+ 1. Abusiveness or inappropriate conduct towards other students, staff or IRONHACK
+ 2. Possession or consumption of alcohol or narcotics during training
+ 3. Violations of local or national laws
+ 4. Damage to school premises or property or theft
+ 5. Three (3) or more missed class sessions without proper justification
+ 6. Be late more than 20% of the sessions
 
 # VALUES
 
