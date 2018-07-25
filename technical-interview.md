@@ -29,6 +29,9 @@ TECHNICAL INTERVIEW
 - We don't decide if you are accepted or not
 - Show Codewars to the applicant as a suggestion to start coding
 
+### IF APPLICANT ASKS WHY ANGULAR (INSTEAD OF REACT)
+- Explain that Angular is a complete framework and perfect to show and explain the concept of a single page application in one week. React is a library and together with it, students would need to learn, React Router and Redux which wouldn't be realistic to cover in just one week.
+
 ## FEEDBACK TO ADMISSIONS
 - Use feedback template:
   - pass technical interview: yes | no
