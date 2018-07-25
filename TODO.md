@@ -40,6 +40,12 @@
 language/values/protocols (e.g. learn how to unambiguous YES!)
 **andre**
 
+- create [project-demo](./project-demo.md)
+checklist on how to show the students a simple reference project. In m1 it should broaden different kinds of projects (quiz, logic games, collision games, etc)
+
+- create [exercise-review](./exercise-review.md)
+checklist on how to review the daily exercise with the students on the first hour.
+
 - simplify [code-alongs](./code-alongs.md)
 
 - apply the actions from both the [english](./en-0618-module1-retrospective.md) and the [spanish](./es0618-module1-retrospective.md) module 1 retrospectives. **@rapha**
