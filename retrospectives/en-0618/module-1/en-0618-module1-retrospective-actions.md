@@ -16,7 +16,7 @@
 - Talk with Thor so he could take a bit more time on future Bootstrap classes DONE
 
 ### KATAS:
-- Give them a hard and an easy options.
+- Give them a hard and an easy options. @seba
 
 ### MINI PROJECTS:
 - Tell them about the presentation when we give them the assignment.
