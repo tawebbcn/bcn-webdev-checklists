@@ -5,7 +5,7 @@
 
 ## Purpose:
   - Practice with services. 
-  - Practice with services. 
+  - Practice with Form components and validations 
 
 
 ## What they do in the exercise:
