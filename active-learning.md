@@ -17,6 +17,7 @@
     - HTML structure
     - Basic Javascript definitions and names
     - Basic CSS rules
+    - DOM manipulation
     - constructors and classes
     - how to structure different kinds of games
    
