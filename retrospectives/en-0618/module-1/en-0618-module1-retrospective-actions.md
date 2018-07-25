@@ -16,16 +16,15 @@
 - Talk with Thor so he could take a bit more time on future Bootstrap classes DONE
 
 ### KATAS:
-- Give them a hard and an easy options. @seba
-
+- Give them a hard and an easy options. DONE
 ### MINI PROJECTS:
 - Tell them about the presentation when we give them the assignment. DONE
 
 ### SHORT CONTENT REVIEWS:
-- Work on more reviews
+- Work on more reviews 
 
 ### PROJECT DEMO:
-- Prepare a review/exercise that covers different kinds of games and let the students fake plan them as an exercise.
+- Prepare a review/exercise that covers different kinds of games and let the students fake plan them as an exercise. DONE
 
 ### PROJECT WORK:
 - TAs have to prepare better for project week (Rapha needs more Canvas practice)
