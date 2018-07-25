@@ -17,6 +17,7 @@ Time for students to express themselves (what they love) and practice with what 
 - review their idea and sign-off (commitment)
   - give feedback on scope/expectations
   - but allow them to go crazy if that's what they want
+- tell them that they will be presenting it in the auditorium on the following morning
 
 *NOTE:* consider printing 1 copy of this page per TA to support observations
 
