@@ -5,6 +5,7 @@
 
 ## Purpose:
   - Practice with services. 
+  - Practice with services. 
 
 
 ## What they do in the exercise:
@@ -14,9 +15,6 @@
 
 
 ## Good practices:
-  - Make good use of the folder structure and keep it's components on the components/page folder
-  - Keep the pipe on a folder of it's own.
-  - Keep the class of the component well organized. First the properties to initiate. Then the constructor, ngOnInit and only then any methods you create
   
 ## Issues:
 
