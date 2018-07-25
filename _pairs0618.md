@@ -97,6 +97,21 @@
 - Jose - Javier
 - Gabriel - will 
 
+##Week 7 - Day 2
+
+- Montse - Daniela 
+- Sebastian - Gabriel 
+- Julio - will 
+- javi - julien 
+- Kahlil - Andrea 
+
+##Week 7 - Day 3
+
+- Montse - Jose
+- Daniela - julien
+- Andrea - julio
+- Kahlil - Will
+- Sebastian - Gabriel
 
 # Third in a Trio
 
