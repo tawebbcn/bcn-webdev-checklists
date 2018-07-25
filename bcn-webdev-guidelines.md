@@ -3,6 +3,14 @@
 - You have to deliver and present the 3 projects in order to graduate
 - If you don’t graduate, you won’t have access to the Hiring Week or support from the Placements Manager
 - If you want to attend the Hiring Week, your LinkedIn profile and CV have to be revised by the Placements Manager the week before the Hiring Week
+-  You'll be subject to immediate dismissal for the following:
+  - Abusiveness or inappropriate conduct towards other students, staff or IRONHACK.
+  - Possession or consumption of alcohol or narcotics during training.
+  - Abusiveness or inappropriate conduct towards other students, staff or IRONHACK.
+  - Violations of local or national laws.
+  - Damage to school premises or property or theft.
+  - Three (3) or more missed class sessions without proper justification.
+  - Be late more than 20% of the sessions.
 
 # VALUES
 
