@@ -6,9 +6,9 @@
 
   **404:** As an anon/user I can see a 404 page if I try to reach a page that does not exist so that I know it's my fault
   
-  **Signup:** As an anon I can sign up in the platform so that I can start saving my past code alongs
+  **Signup:** As an anon I can sign up in the platform so that I can start saving favorite restaurants
   
-  **Login:** As a user I can login to the platform so that I can see past code alongs.
+  **Login:** As a user I can login to the platform so that I can see my favorite restaurants
   
   **Logout:** As a user I can logout from the platform so I can stop using it 
 
