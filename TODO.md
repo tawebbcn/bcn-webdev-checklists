@@ -96,6 +96,8 @@
 / feedback
 / localhost developers
 / work backwards from the result/bottom (of functions, ...)
+/ Variation is waste,
+/ do the RAT,
 **andre**
 
 - create [project-demo](./project-demo.md)
