@@ -2,9 +2,16 @@
 
 Time for students to express themselves (what they love) and practice with what they learned so far.
 
-## Starting
+## Planning
 - define time available (e.g. 4 hours)
 - define if students will present 1/2 mins what they did (factor in time)
+- CREATE POST-IT for
+- review example list below (add more, better, remove, ...)
+- pick examples you are going to show
+- schedule it, announce schedule to students
+
+## Starting
+- @todo THE FOLLOWING stuff could be a slide deck `mini-project-kick-off`
 - show examples of what they can do
 - ask them "before coming to the bootcamp, what were you dreaming you could do on your own after a while"
 - explain purpose

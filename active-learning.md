@@ -9,10 +9,9 @@
 
 - Whiteboard sessions
   - Plan the models of Spotify, Instagram, Facebook and Twitter
-  - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
   - You explain it: Go in front of the class and explain the flow that is written/drawn on the board
-  
-- "You explain it" practices
+
+- "You draw it" practices
   - MODULE 1
     - HTML structure
     - Basic Javascript definitions and names
@@ -20,15 +19,18 @@
     - DOM manipulation
     - constructors and classes
     - how to structure different kinds of games
-   
+
   - MODULE 2
     - ES6 changes
     - HTTP workflow
     - Express workflow (with mongoose, without API)
- 
+
+  - MODULE 3
+    - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
+
 - Others
  - Groups for the day
- 
+
 - Watch and learn
   - [Code Along](./code-along.md)
   - [Live Coding](./live-coding.md)

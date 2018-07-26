@@ -4,7 +4,7 @@
   - post the link first and then the description text
   - make sure the text encourages the alumni to read it
   - after posting, move it to #posted at the bottom of the page
-  
+
 - when you find an intersting article put in the list
   - add link, title and a description
   - say why you think is good, write for the student
@@ -31,9 +31,9 @@ Watch this video to know more about an incredible skill, directly from a great m
 The Team Charter – build a better team together
 
 An easy to read bullet point approach to how to collaboratively define
-the team charter. A team charter is a powerful, tool. It consists of documentation 
+the team charter. A team charter is a powerful, tool. It consists of documentation
 (think wiki) that usually captures  the team's values, ambitions, behaviours, schedules,
-policies, technical practices, tools, and whatever else the team agrees. 
+policies, technical practices, tools, and whatever else the team agrees.
 
 Read this article to know more about this valuable Scrum practice.
 
@@ -73,25 +73,29 @@ But it can be hard for beginners to achieve consistency across all parts of an a
 
 Read this article to improve your React skills, better understanding how components work and how to use it.
 
-- https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
-
-A process from 0 to a great level as Frontend Developer
 ## TODO (text not ready)
 
 
 
-### Backend 
+### Backend
 
 ### Advanced (Engineering - architecture, high-availability and scalability, security, ...)
 
- - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9 
- 
+ - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+
  A process from 0 to a great level as Backend Developer
- 
+
 ## TODO (text not ready)
 
 
+- https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c
 
+
+- https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+
+
+- https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+A process from 0 to a great level as Frontend Developer
 
 
 ## posted
