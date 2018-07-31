@@ -62,9 +62,9 @@
 / replace some exercises
 / mini-project with serious kicl-off
 / `agile talk` end of m1 w2
-/ review [mini-projects](./mini-projects.md)
-/ review [api-dependent-labs-units](./api-dependent-labs-units.md)
-/
+/ review [mini-projects examples](./mini-projects.md)
+/ review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
+
 
 - reference project for module 2
 
@@ -126,7 +126,7 @@
 / list of links to all the checklists that are related/include feedback practices
 / think about other ways to get feedback (e.g.: chart on the wall / green/red post-its on door / idea box / / ice-breaker activities like draw yourself, end-of-day )
 
-- simplify [code-alongs](./code-alongs.md)
+- simplify [code-alongs](./active-learning/code-alongs.md)
 
 - somehwere!?! we need to list all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 

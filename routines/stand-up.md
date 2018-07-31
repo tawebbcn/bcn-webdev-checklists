@@ -1,7 +1,7 @@
 
 # Standups
 
-*see also [daily-kick-off.md](daily-kick-off.md)*
+*see also [daily-kick-off.md](./daily-kick-off.md)*
 
 - say
   - how am I feeling

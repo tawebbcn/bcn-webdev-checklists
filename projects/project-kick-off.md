@@ -5,7 +5,7 @@
 ### Show slide deck with the following steps (TODO)
 
 ### Demo previous cohort's projects
-  - Make sure to show examples of projects of different level 
+  - Make sure to show examples of projects of different level
 
 ### (M2 Only) Announce groups && plan Git Collab Demo
   - Have the captains anounce their own teams to the whole cohort

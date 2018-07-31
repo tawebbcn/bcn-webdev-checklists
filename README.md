@@ -1,25 +1,16 @@
 
 # Checklists! [√]
 
-- [Techincal Interview](./technical-interview.md)
 - [Class Guidelines (DAY 1)](./bcn-webdev-guidelines.md)
 - [People and Stories](./people-and-stories.md)
-- [Daily Kick-off](./daily-kick-off.md)
-- [Stand-Up](./stand-up.md)
-- [Lecturing](./lecture.md)
-- [Active Learning](./active-learning.md)
-- [Assesment](./assesment.md)
-- [PP](./pair-programming.md)
-- [DE](./daily-exercise.md)
-- [Debugging](./debugging.md)
+- **[Class Master](./routines/class-master.md)**
+- **[Routines](./routines)**
+- **[Active Learning](./active-learning/active-learning.md)**
+- **[Projects](./projects/projects.md)**
+- **[Retrospectives](./retrospectives/retrospectives.md)**
 - [UX/UI Collaborations](./ux-ui-collaborations.md)
 - [Friday Talks](./friday-talks.md)
-- [Projects](./projects/projects.md)
-- [Presentations and Slides](./presentations.md)
-- [Retrospective](./retrospectives.md)
-- [Jury Guidelines](./jury-guidelines.md)
-- [Jury Day](./jury-day.md)
-
+- [Alumni](./alumni.md)
 
 
 

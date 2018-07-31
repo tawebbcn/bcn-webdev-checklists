@@ -1,16 +1,23 @@
 # Active Learning
 
-## You be it (role play)
+## You do it
+- [Mini Projects](./mini-projects.md)
+- [Code Along](./code-along.md)
+
+## Watch and learn
+- [Live Coding](./live-coding.md)
+
+## You be it (role plays)
 
 - Be the app.js (understand flow and importance of order of middlewares)
   - one person is one middleware (e.g. static)
   - one person is anotehr middleware (e.g. body parser)
   - one person is a route controller (e.g. POST /foobar - validate body)
-  - another one for is the 404 middleware 
+  - another one for is the 404 middleware
   - one is express, creates a res object, passes it to middlwares, receives it back (next!)
   - one person is http, taking requests from the user to express and the response back
   - teacher is the user, send requests
-  
+
 - Be the callback of array sort, array filter, array find and array reduce
   - the array is deck with 5 cards
   - let's e.g. `sort by suit, then color (red first)` or `filter out reds` or `map to `
@@ -21,7 +28,7 @@
     - calls the callback person (gives card, writes acc+item+index on whiteboard)
     - prepares the resulting array according to the callback return value
   - easiest way to start is teacher is the `array.fn` and one student is the callback
-  
+
 - Be the element of a bubble sorte by name / age
   - show them the hungarian dancers
   - everyone against the wall
@@ -49,14 +56,7 @@
   - Express req/res (with 1 middleware + route > mongoose + 404, no 3rd party APIs)
 
 - MODULE 3
-  - Angular component hierarchy and I/O flow 
-
-## Watch and learn
-- [Live Coding](./live-coding.md)
-
-## You do it
-- [Mini Projects](./mini-projects.md)
-- [Code Along](./code-along.md)
+  - Angular component hierarchy and I/O flow
 
 ## Others
 - Groups for the day

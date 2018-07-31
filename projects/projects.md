@@ -2,9 +2,12 @@
 # Project
 
 *see also:*
-- *[project week](./project-week.md)*
-- *[slides](./slides.md)*
-- *[presentations feedback](./presentations-feedback.md)*
+- *[Project kick-off](./project-kick-off.md)*
+- *[Project week](./project-week.md)*
+- *[Slides](./slides.md)*
+- *[Presentations feedback](./presentations-feedback.md)*
+- *[Jury Guidelines](./jury-guidelines.md)*
+- *[Jury Day](./jury-day.md)*
 
 ## Kick-off Checklist
 - plan groups (module 2 only)
@@ -50,7 +53,7 @@
 
 - ask students for preferences
   - should send via Slack DM to one TA
-  - I would prefer working with X 
+  - I would prefer working with X
   - Please don't pair me with Y I know we don't work well together
 - use same list as above (students, level, strength)
 - there is no topic yet, since only

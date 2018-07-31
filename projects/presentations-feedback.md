@@ -1,11 +1,5 @@
 # Presentation Feedback
 
-*see also:*
-- *[projects](./projects.md)*
-- *[project week](./project-week.md)*
-- *[slides](./slides.md)*
-
-
 ## Items
 
 - public speech
@@ -51,7 +45,7 @@
 * proto-persona
   - demographics
   - goals
-  - picture 
+  - picture
   - sliders
 (Not known or famous people)
 ```

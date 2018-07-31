@@ -1,11 +1,5 @@
 # Slides
 
-*see also:*
-- *[projects](./projects.md)*
-- *[project week](./project-week.md)*
-- *[presentations feedback](./presentations-feedback.md)*
-
-
 ## Checklist
 - use http://slides.com OR google docs
 - students can modify this plan as they want
