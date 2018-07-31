@@ -1,39 +1,64 @@
 # Active Learning
 
+## You be it (role play)
 
-- Role plays
-  - Be the app.js Where one person is one middleware, etc to understand how order is important
-  - Card deck array sort, array
-  - bubble sorte by name / age
-  - JS interpreter (functions, variables, scopes)
+- Be the app.js (understand flow and importance of order of middlewares)
+  - one person is one middleware (e.g. static)
+  - one person is anotehr middleware (e.g. body parser)
+  - one person is a route controller (e.g. POST /foobar - validate body)
+  - another one for is the 404 middleware 
+  - one is express, creates a res object, passes it to middlwares, receives it back (next!)
+  - one person is http, taking requests from the user to express and the response back
+  - teacher is the user, send requests
+  
+- Be the callback of array sort, array filter, array find and array reduce
+  - the array is deck with 5 cards
+  - let's e.g. `sort by suit, then color (red first)` or `filter out reds` or `map to `
+  - one person is the callback
+    - receives the params (the card, the acc on a post-it/whiteboard, ...)
+    - and should return according to input and the purpose
+  - another person is the array.fn implementation
+    - calls the callback person (gives card, writes acc+item+index on whiteboard)
+    - prepares the resulting array according to the callback return value
+  - easiest way to start is teacher is the `array.fn` and one student is the callback
+  
+- Be the element of a bubble sorte by name / age
+  - show them the hungarian dancers
+  - everyone against the wall
+  - bubble sort yourselves by name/age (let chaos ensue)
+  - do a final pass, one by one and out loud, to check sorting worked (helps people know each other)
 
-- Whiteboard sessions
-  - Plan the models of Spotify, Instagram, Facebook and Twitter
-  - You explain it: Go in front of the class and explain the flow that is written/drawn on the board
+- Be the JS interpreter (functions, variables, scopes)
 
-- "You draw it" practices
-  - MODULE 1
-    - HTML structure
-    - Basic Javascript definitions and names
-    - Basic CSS rules
-    - DOM manipulation
-    - constructors and classes
-    - how to structure different kinds of games
+## You explain it
 
-  - MODULE 2
-    - ES6 changes
-    - HTTP workflow
-    - Express workflow (with mongoose, without API)
+- Go in front of the class and explain the flow that is written/drawn on the board
 
-  - MODULE 3
-    - Angular component hierarchy and I/O flow (we did on module 3 with input and output)
+## You draw it
+- MODULE 1
+  - HTML structure
+  - Basic Javascript definitions and names
+  - Basic CSS rules
+  - A DOM event+manipulation example
+  - constructors and instances
+  - how to structure different kinds of games
 
-- Others
- - Groups for the day
+- MODULE 2
+  - ES6 changes
+  - HTTP workflow
+  - Express req/res (with 1 middleware + route > mongoose + 404, no 3rd party APIs)
 
-- Watch and learn
-  - [Code Along](./code-along.md)
-  - [Live Coding](./live-coding.md)
+- MODULE 3
+  - Angular component hierarchy and I/O flow 
 
-- Do it yourself
-  - [Mini Projects](./mini-projects.md)
+## Watch and learn
+- [Live Coding](./live-coding.md)
+
+## You do it
+- [Mini Projects](./mini-projects.md)
+- [Code Along](./code-along.md)
+
+## Others
+- Groups for the day
+- Mobbing a PP exercise (max per group 7, requires one projector per group)
+
