@@ -6,7 +6,7 @@
 ## Purpose:
   - Practice file upload
   - Continue practicing routes, protect routes
-  - Practice deploying to heroku
+  - Deployment is done during the project week so Iteration 3 is skipable
 
 ## What they do in the exercise:
   - I1: User Profile Pictures
