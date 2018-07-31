@@ -62,7 +62,7 @@ Time for students to express themselves (what they love) and practice with what 
   - most popular anti-patterns
   - e.g.: `use strict, turn your shoes on`
   - e.g.: `google first, ask for help later`
-  - e.g.: `I have an error that says "foo undefined on line x"`
+  - e.g.: `I have an error that says "foo undefined on line x" and need help` is better than `it doesn't work`
 
 # Examples
 
