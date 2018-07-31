@@ -75,9 +75,10 @@
 ## checklists
 
 - create [mantras](./mantras.md)
-/ language, values, protocols
+/ language, values, insights, protocols
 / IDEAS BELOW
-/ please, help me out, ... yes?
+/ thank you, please, sorry, thanks
+/ yes? yes
 / we are all thankful for your vulnerability
 / there are no stupid questions
 / it depends
@@ -87,9 +88,16 @@
 / vertical slices
 / feedback
 / localhost developers
+<<<<<<< HEAD
 / work backwards from the result/bottom (of functions, ...)
 / Variation is waste,
 / do the RAT,
+=======
+/ work backwards from the result / bottom of functions, top of stack, response
+/ take it off your brain / free your brain from anything that can take your focus away from what you are doing right now
+/ you don't know what good looks like
+/ turn up the good
+>>>>>>> update posts list
 **andre**
 
 - create [project-demo](./projects/project-kick-off.md) 
@@ -123,8 +131,7 @@
 
 - simplify [code-alongs](./code-alongs.md)
 
-
-
+- somehwere!?! we need to list all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 
 ## Crazy ideas
 

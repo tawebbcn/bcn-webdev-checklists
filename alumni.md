@@ -97,6 +97,24 @@ Read this article to improve your React skills, better understanding how compone
 - https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
 A process from 0 to a great level as Frontend Developer
 
+- https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437
+Top 10 JavaScript errors from 1000+ projects (and how to avoid them)
+
+- https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+I never understood JavaScript closures
+
+- https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
+11 Javascript Utility Libraries You Should Know In 2018
+
+
+- https://www.linkedin.com/pulse/visual-agility-why-we-model-ruth-malan/
+Visual Agility: Why We Model
+
+- https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b
+Here are three upcoming changes to JavaScript that you’ll love
+
+- https://noti.st/aarongustafson/9l6F4V
+Designing for Everyone: Building Great Web Experiences for Any Device
 
 ## posted
 

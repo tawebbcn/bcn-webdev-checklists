@@ -21,12 +21,12 @@
   - Gabriel D - Julio N
   - Andrea N - Khalil N
 
- ##Day 4 
+ ##Day 4
 (Avoided this pairs)
-  - Jose - Will 
+  - Jose - Will
   - Will - Daniela
   - Julien - Gabriel
-  - Andrea - Montse 
+  - Andrea - Montse
   - Julio - Sebastian - Javier
 (Used this pairs for pairing all day, sorted by level)
   - Will N - Julien D
@@ -54,14 +54,21 @@
   - Seba - Jose
 
   ##Week 4 - Day 2
-   
+
   - Jose N + Julio D
   - Will D + Javier N
   - Julien N + Khalil D
   - Sebastian D + Daniela N
   - Montse N - Gabriel N - Andrea D
 
-<<<<<<< HEAD
+  ##Week 4 - Day 3
+
+  - Jose + Andrea
+  - Will + Julien
+  - Javier + Daniela
+  - Sebastian + Montse
+  - Gabriel + Kahlil + Julio
+
   ##Week 4 - Day 4
 
   - Javier - Kahlil
@@ -77,15 +84,6 @@
   - Khalil - Javier
   - Jose - Julien
 
-=======
-##Week 4 - Day 3
-   
-  - Jose + Andrea
-  - Will + Julien 
-  - Javier + Daniela
-  - Sebastian + Montse
-  - Gabriel + Kahlil + Julio
->>>>>>> 41f1285f6e0ffc4d5d9fa8b199b9876f48000fcd
 
 ## Week 7
 
@@ -95,15 +93,15 @@
 - Andrea - Sebastian
 - Kahlil - Daniela
 - Jose - Javier
-- Gabriel - will 
+- Gabriel - will
 
 ##Week 7 - Day 2
 
-- Montse - Daniela 
-- Sebastian - Gabriel 
-- Julio - will 
-- javi - julien 
-- Kahlil - Andrea 
+- Montse - Daniela
+- Sebastian - Gabriel
+- Julio - will
+- javi - julien
+- Kahlil - Andrea
 
 ##Week 7 - Day 3
 
@@ -157,7 +155,7 @@ Will + Julien - 1
 Will + Julio - 1
 Will + Sebastian - 1
 Will + Khalil - 1
-Will + Javier - 1 
+Will + Javier - 1
 Will + Daniela - 1
 Will + Andrea - 1
 Will + Montse - 1
