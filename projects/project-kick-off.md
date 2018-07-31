@@ -26,5 +26,5 @@
 
 ### Build control board
   - **M1 Columns:**
-  - **M2 Columns:**
-  - **M3 Columns:** Who | Project Name | Tech Challenge | User Stories | Client Routes | Services | Pages/Components | I/O | Guards | Models | API Endpoints | Board | Readme | Commits | Deploy | Presentation
+  - **M2 Columns:** Team | Project Name | Tech Challenge | User Stories | Wireframes | Board/Trello | Github | Readme | Bootstrap | Commits | Deploy | Presentation
+  - **M3 Columns:** Who | Project Name | Tech Challenge | User Stories | Wireframes | Client Routes | Services | Pages/Components | I/O | Guards | Models | API Endpoints | Board | Readme | Bootstrap FE | Bootstrap BE | Two Github Repos | Commits | Deploy | Presentation
