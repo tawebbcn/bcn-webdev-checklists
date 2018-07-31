@@ -9,6 +9,7 @@
   - Implement Login and signup
   - Use bcrypt to encrypt the passwords
   - Add protected routes
+  - Bonus iterations do not add much value at this time
 
 ## What they do in the exercise:
   - I1: Sign up
