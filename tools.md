@@ -20,7 +20,7 @@
 - ### [Thenounproject](https://thenounproject.com/)
   Comunity with Catalogs of Symbols.
 
-## colors
+## Colors
 - ### [Colorzilla](http://www.colorzilla.com/chrome/)
   Color Picker Extension for Chrome and Firefox. You can pick any color from the browser.
 - ### [Palletton](http://paletton.com/)
