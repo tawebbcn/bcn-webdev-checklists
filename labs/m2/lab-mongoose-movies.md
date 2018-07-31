@@ -7,6 +7,7 @@
   - Build a CRUD app
   - Get comfortable building the routes with the different verbs
   - Practice preparing the data to be displayed in the templates
+  - Very extensive exercice
 
 ## What they do in the exercise:
   - I1: Add the celebrity model
