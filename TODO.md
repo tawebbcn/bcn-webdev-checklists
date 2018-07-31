@@ -4,6 +4,7 @@
 
 - ~review the student policy and update the [class guidelines](./bcn-webdev-guidelines.md) rules~
 / awesome!
+- ~prepare CALENDAR for m3 w2~
 
 
 ## Running experiments
@@ -27,15 +28,6 @@
 - prepare [katas](./katas.md) checklist
 / LOOKING FOR OWNER
 / better if before EN m3 w2
-
-- prepare CALENDAR for m3 w2
-/ LOOKING FOR OWNER
-/ move the lessons not completed from w1 to w2
-/ add optional lessons / exercises / review options
-/ add project rituals (go through project checklists and create post-its for project week tasks)
-/ order not relevant, will have planning session with students (remember the "now we leave the room" technique!!!)
-/ stick the task post-its in parking lot
-/ **Rapha**
 
 - create an issues.md to track major issues in the content
 / GoogleMaps in module 2
