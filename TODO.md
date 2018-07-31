@@ -92,10 +92,11 @@
 / do the RAT,
 **andre**
 
-- create [project-demo](./projects/project-demo.md) **filipe**
+- create [project-demo](./projects/project-kick-off.md) 
 / checklist on how to show the students a simple reference project. In m1 it should broaden different kinds of projects (quiz, logic games, collision games, etc) (Rapha)
 / suggest renaming to `project-kick-off` (Andre) can include demo of prev cohorts, rules, guidelines, explain the steps of the following days (announce groups m2, go ideate, session on planning, validate idea, validate planning, building the board)
 / prepare a slide deck for the students to kick-off in style and effectively?
+**filipe**
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
