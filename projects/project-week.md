@@ -7,17 +7,9 @@
 - if it's together with UX/UI give them a quick explanation/briefing so that they can understand and opinate better
 
 
-## Start of Project Checklist
-- set an hour to start daily presentations
-- schedule time with Irene.
-- evaluate number of projects vs duration of presentations
-- block calendar.
-- ask staff for help to test gear, get camera ready for photos
-- designate DJ ;-)
-
-
 ## Daily Checklist
 
+- standup per group
 - consider adapting the slide schedule to the actual number of days in the project week
 - provide slides:
   - day 1: Title, It's a ... (time given: 1 min)

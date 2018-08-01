@@ -9,17 +9,6 @@
 - *[Jury Guidelines](./jury-guidelines.md)*
 - *[Jury Day](./jury-day.md)*
 
-## Kick-off Checklist
-- plan groups (module 2 only)
-- start discussing ideas
-- plan schedule to pitch and sign-off
-- plan schedule to do first deployment
-
-## Daily checklist
-- standup per group
-- introduce slides
-- schedule demo time
-
 ## Check-out Checklist
 - collect slides, github & deployment URLs
 - provide feedback before project is over
@@ -59,8 +48,16 @@
 - there is no topic yet, since only
 - make sure everyone is in the room when announcing the pairs
 - topic (extra challenges like maps, uploads, etc...) is only relevant if there are many pairs/projects (> 10)
+- Have the captains anounce their own teams to the whole cohort
 
 ## Module 1
+
+### Purpose/scope
+
+### Reference project build
+- make sure to demo both Canvas and DOM games (Quiz, logic, etc)
+
+## Ideate (and validate ideas/scope)
 
 ### Planning
 - wireframes
@@ -75,30 +72,77 @@
 
 ## Module 2
 
+### Purpose/scope
+
+### Reference project build
+
+## Ideate (and validate ideas/scope)
+
 ### Planning
 - show [github readme template](https://github.com/raphamontenegro/module2template/blob/master/README.md) and encourage them to do the same and encourage them to do the same
-- what is, main use cases
-- User stories
+- What is, main use cases
+- User stories (MVP only)
   - 404 & 500 User stories
-  - Logout
-- wireframes
-- VVVV: views
-- CCCC: routes
+  - Signup, Login and Logout
+  - max 5 other stories
+  - everything else goes in the backlog, no details
+- Wireframes
+- Routes
+  - method, path, params
   - one GET per view, one POST per form and action button
-  - details about what goes in request BODY
-  - details about redirection after POST is handled
-- MMMM: models
-- 404 & 500 User stories
-- US and tech investment
-- Challenges/Extras: Maps, Mail, File Upload, Social Login(Passport)
+  - identify auth rules
+  - what goes in request BODY
+  - redirection after POST is handled
+- Views
+  - pages and identify partials
+  - think layout (what are the variants of the header)
+- Models (only 3 or 4 fields, MVP only)
+- Tech investments
+  - e.g.: bootstrap app
+  - e.g.: install sass
+- Challenges/Extras: Maps, Mail, File Upload, Social Login
 
 ## Module 3
 
+### Purpose/scope
+
+### Reference project build
+
+## Ideate (and validate ideas/scope)
+
 ### Planning
-- what is, main use cases
+
+- What is, main use cases
+- User stories (MVP only)
+  - 404 & 500 User stories
+  - Signup, Login and Logout
+  - max 5 other stories
+  - everything else goes in the backlog, no details
+- Wireframes
+- Client Routes (identify guards)
+- Layout (what are the variants of the header)
+- Pages/Components (describe I/O)
+- Models (only 3 or 4 fields, MVP only)
+- API Endpoints
+  - method, path, params
+  - identify auth rules
+  - what goes in request BODY
+  - possible status codes
+  - what's the response payload when 200
+- Tech investments
+  - e.g.: bootstrap FE
+  - e.g.: test spotify API
+- Challenges/Extras: Maps, Mail, Uploads, Social Login, Materialize
+
 
 ## Projects Board
 
+## Build control board
+- **M1 Columns:**
+- **M2 Columns:** Team | Project Name | Tech Challenge | User Stories | Wireframes | Board/Trello | Github | Readme | Bootstrap | Commits | Deploy | Presentation
+- **M3 Columns:** Who | Project Name | Tech Challenge | User Stories | Wireframes | Client Planning | API Plan | Board/Trello | Bootstrap FE | Bootstrap BE | Two Github Repos | Commits | Deploy | Presentation
+
+- **All modules (move to individual lists above)**
 - identify
   - name(s) / project name
   - dom/canvas (m1)
