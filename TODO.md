@@ -2,10 +2,6 @@
 
 ## done (kudos)
 
-- ~review the student policy and update the [class guidelines](./bcn-webdev-guidelines.md) rules~
-/ awesome!
-- ~prepare CALENDAR for m3 w2~
-
 
 ## Running experiments
 
@@ -16,9 +12,6 @@
 
 
 ## priority1
-
-- check dependency - Week 7 - Day 4 - Unit HTTP - ICNDB API (Chuck Norris Jokes) + Promises!?!?!
-/ **Seba**
 
 - simple katas for module 3
 / LOOKING FOR OWNER
@@ -44,9 +37,6 @@
 
 ## content
 
-- ~~add purpose for the remaining exercices of module 2 - *18 out of 18 done*~~
-**filipe**
-
 - add purpose for the exercices of module 3
 **seba**
 
@@ -67,6 +57,7 @@
 
 
 - reference project for module 2
+**seba**
 
 - reference project for module 3
 
@@ -97,11 +88,7 @@
 / turn up the good
 **andre**
 
-- create [project-demo](./projects/project-kick-off.md)
-/ checklist on how to show the students a simple reference project. In m1 it should broaden different kinds of projects (quiz, logic games, collision games, etc) (Rapha)
-/ suggest renaming to `project-kick-off` (Andre) can include demo of prev cohorts, rules, guidelines, explain the steps of the following days (announce groups m2, go ideate, session on planning, validate idea, validate planning, building the board)
-/ prepare a slide deck for the students to kick-off in style and effectively?
-**filipe**
+- prepare a slide deck for [project-kick-off](./projects/project-kick-off.md)
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
@@ -135,7 +122,7 @@
 
 ### Kick-ass slide decks
 
-- `cohort-welcome` (show previous cohorts/maps/tagclouds, insert your name here "the ___ cohort")
+- `cohort-welcome` (show previous cohorts/maps/tagclouds, insert your name here "the ___ cohort") what cohort are you going to be
 - `class guidelines`
 - `module-1 kick-off`
 - `mini-project kick-off`
