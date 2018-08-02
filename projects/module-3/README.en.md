@@ -10,7 +10,7 @@
   
   **Login:** As a user I can login to the platform so that I can see my favorite restaurants
   
-  **Logout:** As a user I can logout from the platform so I can stop using it 
+  **Logout:** As a user I can logout from the platform so no one else can use it 
 
   **List Restaurants** As a user I want to see the restaurants so that I can choose one to eat
  
@@ -86,43 +86,18 @@
   User model
 
   ```
-  User {
-    username: {
-      type: string,
-      required: true
-    },
-    email: {
-      type: string,
-      required: true
-      unique: true
-    },
-    password: {
-      type: string,
-      required: true
-    }
-  }
+  username - String // required
+  email - String // required & unique
+  password - // required
   ```
 
   Restaurant model
 
   ```
-  Restaurant {
-  name: {
-    type: string,
-    required: true
-  },
-  email: {
-    type: string,
-    required: true
-    unique: true
-  },
-  phone: {
-    type: string
-  },
-  address: {
-    type: string
-  }
-}
+  name - String // required
+  email - String // required & unique
+  phone - String
+  address - String
 ```
 
 ## API Endpoints/Backend Routes
