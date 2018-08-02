@@ -76,7 +76,7 @@
 
 ### Reference project build
 
-## Ideate (and validate ideas/scope)
+### Ideate (and validate ideas/scope)
 
 ### Planning
 - show [github readme template](https://github.com/raphamontenegro/module2template/blob/master/README.md) and encourage them to do the same and encourage them to do the same
@@ -108,7 +108,7 @@
 
 ### Reference project build
 
-## Ideate (and validate ideas/scope)
+### Ideate (and validate ideas/scope)
 
 ### Planning
 
