@@ -1,29 +1,34 @@
-# Project Kick-off
+# Project Kick-off Planning
 
+## Start of Project Checklist
 
-## Slide Deck (TODO, one per module)
-  - Explain the purpose/scope of the project (see below)
-  - Demo previous cohort's projects (not included in the deck)
-    - Make sure to show examples of projects of different levels
-  - Explain the schedule
-    - groups are announced (m2 only)
-    - students think of ideas
-    - we validate ideas/scope
-    - "how to plan" session
-    - students plan their projects
-    - we sign-off on planning
-    - the control board
-    - typical day: kata > (code > deploy) > presentation
-    - "git-hub" session (m2 only)
-    - "how to deploy" session
-    - internal presentation (m3 only)
-    - final presentation (m1, m2 only)
-    - jury session (m3 only)
-    - lunch (m3 only)
-    - hack show (m3 only)
-  - Explain jury session format
-  - Explain hack-show rules
-  - Q&A
+- create post-its and add them to parking lot OR wall calendar
+- OR just do it (e.g.: block calendar)
+- some post-its are for the students (e.g.: `pitch and validate ideas`)
+- others are internal (e.g.: `build the project board`)
 
+  - set an hour to start daily presentations
+  - schedule time with Irene for hackshow planning
+  - block calendar for the whole day (module3 only)
+  - block calendar for the final presentations
+  - make groups (module 2 only)
+  - kick-off presentation
+  - pitch and validate ideas
+  - "how to plan" session
+  - "git-hub" collaboration session (module 2 only)
+  - planning and plan sign-off
+  - build the project board
+  - deployment code along
+  - presentations (don't forget module3 is internal)
+  - hack-show (module3 only)
+
+## Hackshow Planning with PM
+
+  - evaluate number of projects vs duration of presentations
+  - designate someone
+    - help to test gear
+    - get camera ready
+    - DJ ;-)
+  - [jury](./jury-day.md) (module 3 only)
 
 
