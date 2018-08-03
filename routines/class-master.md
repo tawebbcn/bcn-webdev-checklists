@@ -29,6 +29,7 @@
 - week calendar/parking-lot
   - build it
   - maintain it, keep it updated
+  - take photo on friday before updating
 
 ## Daily Routine
 
