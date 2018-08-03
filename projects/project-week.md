@@ -1,15 +1,9 @@
 # Project Week
 
-## General
-- max 2 hours of show
-- presentations will last 5 minutes
-- the order of the presentations will be random unless we decide the opposite
-- if it's together with UX/UI give them a quick explanation/briefing so that they can understand and opinate better
-
-
 ## Daily Checklist
 
-- standup per group
+- [kata](../katas.md)
+- standup per group if we are split OR together
 - consider adapting the slide schedule to the actual number of days in the project week
 - provide slides:
   - day 1: Title, It's a ... (time given: 1 min)
@@ -27,31 +21,7 @@
 - if group wants to decides on different format...
   - make sure there is agreement, otherwise use default
   - everyone does the same format
-- provide a constructive feedback
+- provide a [constructive feedback](./presentations-feedback.md)
 - reinforce the utility of constructive criticism.
 - students have to provide feedback too
-
-
-## Start of Presentation Day
-- ask students for "need to leave early"
-- remember all the students to test the projector
-- make a list of all apps deployed on heroku
-
-
-## Before Presentations
-- use cards to randomize
-- start calling the students 5 minutes before
-- reinforce the utility of constructive criticism.
-
-
-## During Presentations
-
-- start the apps on Heroku 1 min before each presentation
-- collect the cards
-- DJ has to put music between presentations
-
-## After Presentations
-
-- gather the group for a quick retrospective prep
-- on Hackhow ask if it's someone's last day (flying, leaving BCN for good)
 

@@ -30,5 +30,3 @@
     - get camera ready
     - DJ ;-)
   - [jury](./jury-day.md) (module 3 only)
-
-

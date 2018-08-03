@@ -1,6 +1,5 @@
-# Presentation Feedback
 
-## Items
+# Presentations Feedback
 
 - public speech
   - stick to time limit (5 min)
@@ -27,7 +26,7 @@
   - solid narrative
     - not just passing slides
     - beginning, action, end
-  `* proto-persona`
+  `*- proto-persona`
 - personal growth
   - learnings are personal and introspective
   - add personal improving goals
