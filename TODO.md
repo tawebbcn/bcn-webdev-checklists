@@ -14,9 +14,8 @@
 ## priority1
 
 - simple katas for module 3
-/ LOOKING FOR OWNER
 / better if before ES m2 w3 and EN m3 w3
-/ **Seba**
+/ **Eloi**
 
 - prepare [katas](./katas.md) checklist
 / LOOKING FOR OWNER
@@ -50,7 +49,7 @@
 / `history of the web`, beginning of m1 w1
 / create new exercises for html only
 / replace some exercises
-/ mini-project with serious kicl-off
+/ mini-project with serious kick-off
 / `agile talk` end of m1 w2
 / review [mini-projects examples](./mini-projects.md)
 / review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
