@@ -30,9 +30,6 @@
 
 ## tools
 
-- create a calendar to make a daily post on the alumni channel
-**WIP** @all see [alumni](./alumni.md)
-
 
 ## content
 
@@ -85,6 +82,7 @@
 / take it off your brain / free your brain from anything that can take your focus away from what you are doing right now
 / you don't know what good looks like
 / turn up the good
+/ copy paste
 **andre**
 
 - prepare a slide deck for [project-kick-off](./projects/project-kick-off.md)
