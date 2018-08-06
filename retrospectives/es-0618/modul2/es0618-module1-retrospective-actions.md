@@ -7,28 +7,29 @@
 - Respetar los tiempos para cada sprint.
 
 ### LEARNING UNITS 
-- Git Colaborations en primer modulo para PP, mini clase de PP (Explicar el proposito), Debugging class, poder enviar feedback  Madrid.
-
-### PROJECT PAIRS
-- Más transparencia y explicación del motivo de la pareja.
-
-### HOURS SCHEADULE
-- Puntualidad estricta, ClassMaster calendar con horas, definir tiempo antes del break.
-
-### STAND UP
-- Seguir tal como estamos.
-
-### SELF ORGANIZING TEAM
-- Adaptar la duración de las clases y de los ejercicios a la dificultad.
+- Git Colaborations en primer modulo para PP
+- Mini clase de PP (Explicar el proposito)
+- Debugging class
+- Poder enviar feedback  Madrid.
 
 ### PAIR PROGRAMMING
-- Explicar el proceso y proposito, mejorar las parejas, todos/todos.
+- Explicar el proceso y proposito
+- Mejorar las parejas (todos/todos).
 
-### DAILY EXERCISE
-- Adaptar/mezclar el contenido.
+### PROJECT PRESENTATION TRAINING
+- Explicar su proposito y dejar decidir a los alumnos que días hacerlas.
 
-### MINI PROJECT
-- Seguir tal como estamos
+### PROJECT SHOW
+- Explicar el proposito de la presentación para entender el porque se hace.
+
+### PROJECT PAIRS
+- Más transparencia
+- Explicacar el motivo de la pareja.
+
+### HOURS SCHEADULE
+- Puntualidad estricta
+- ClassMaster calendar con horas
+- Definir tiempo antes del break.
 
 ### KATAS
 - Leer el enunciado en clase.
@@ -36,12 +37,11 @@
 ### MORNING REVIEW
 - Usar un ejercicio de un alumno y resolver todas las dudas.
 
-### FEEDBACK PERSONAL
-- Poner comentarios para 1x1. Incentivarlos a buscarnos con sus dudas personales
+### STAND UP
+- Seguir tal como estamos.
 
-### PROJECT PRESENTATION TRAINING
-- Explicar su proposito y dejar decidir a los alumnos que días hacerlas.
-
-### PROJECT SHOW
-- Explicar el proposito de la presentación para entender el porque se hace.
+### DAILY EXERCISE
+- Duración 30 min.
+- Mejorar exercise purpose.
+- Ejercicios alternativos.
 
