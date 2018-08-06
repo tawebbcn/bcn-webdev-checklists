@@ -14,9 +14,8 @@
 ## priority1
 
 - simple katas for module 3
-/ LOOKING FOR OWNER
 / better if before ES m2 w3 and EN m3 w3
-/ **Seba**
+/ **Eloi**
 
 - prepare [katas](./katas.md) checklist
 / LOOKING FOR OWNER
@@ -30,9 +29,6 @@
 
 
 ## tools
-
-- create a calendar to make a daily post on the alumni channel
-**WIP** @all see [alumni](./alumni.md)
 
 
 ## content
@@ -50,7 +46,7 @@
 / `history of the web`, beginning of m1 w1
 / create new exercises for html only
 / replace some exercises
-/ mini-project with serious kicl-off
+/ mini-project with serious kick-off
 / `agile talk` end of m1 w2
 / review [mini-projects examples](./mini-projects.md)
 / review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
@@ -86,6 +82,7 @@
 / take it off your brain / free your brain from anything that can take your focus away from what you are doing right now
 / you don't know what good looks like
 / turn up the good
+/ copy paste
 **andre**
 
 - prepare a slide deck for [project-kick-off](./projects/project-kick-off.md)
