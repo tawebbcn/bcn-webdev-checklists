@@ -17,7 +17,7 @@
 ## Good practices:
  
 ## Issues:
-
+ - Write everything in only one file, interface.
 ## Suggestion:
 
 ## Typos:
