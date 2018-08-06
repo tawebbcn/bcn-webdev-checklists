@@ -5,9 +5,10 @@
 
 ## Purpose:
  - Create a static Angular application with Angular CLI.
- - Start using components with one component.
- - Get familiar with nested components.
+ - Get used to use the angular cli syntax to generate components
+ - Get used to use directives ngFor, ngIf, etc
  - Get familiar with nested iterators.
+ - Do not lose too much time with styling or the content
 
 ## What they do in the exercise:
  - Iteration 1: Photo Album
