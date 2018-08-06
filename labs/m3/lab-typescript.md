@@ -17,7 +17,8 @@
 ## Good practices:
  
 ## Issues:
- - Write everything in only one file, interface.
+ - Write everything in only one file, main.ts (Iteration 2 & 3) .
+ - Some of the warnings about "Duplicated identifier" should be ignore because VSCode is reading both ( Typescript & Javascript file).
 ## Suggestion:
 
 ## Typos:
