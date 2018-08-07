@@ -14,12 +14,10 @@
 ## priority1
 
 - simple katas for module 3
-/ better if before ES m2 w3 and EN m3 w3
-/ **Eloi**
-
-- prepare [katas](./katas.md) checklist
-/ LOOKING FOR OWNER
-/ better if before EN m3 w2
+/ move to projects/module-3
+/ better if before ES m2 w3 and EN m
+/ and prepare [katas](./projects/katas.md) checklist
+/ **Filipe**
 
 - create an issues.md to track major issues in the content
 / GoogleMaps in module 2
