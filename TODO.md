@@ -35,7 +35,7 @@
 - add purpose for the exercices of module 3
 **seba**
 
-- reference project for module 1
+- reference project for module 1 - UPDATE: Fixed last issues but a review is needed
 **filipe**
 
 - prepare the next module 1
