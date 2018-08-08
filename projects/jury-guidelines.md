@@ -2,7 +2,7 @@
 
 ## Setup
 
-- You will have 5 minutes with each student so he/she can present the project and you can ask questions and give feedback
+- You will have 10 minutes with each student so he/she can present the project and you can ask questions and give feedback
 - After all the students have presented, each member of the jury will vote the best 3 projects
 - The jury as a whole must agree and generate consensus around the top 3 projects, selected to present in the Hackshow
 - Some criteria or fundamentation on why to choose each project has to be debated
