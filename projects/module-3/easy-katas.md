@@ -8,8 +8,8 @@
 
 - [Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest/javascript)
 
-- []()
-
-
-
 # Week 7 Katas
+
+- [Complementary DNA](https://www.codewars.com/kata/complementary-dna/javascript)
+
+- [Descending Order](https://www.codewars.com/kata/descending-order/train/javascript)
