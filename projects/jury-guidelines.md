@@ -32,7 +32,7 @@ Note:
 
 The following items are are just examples of questions to students, for them to demo and/or show the code, or simply describe what they have done (or not done).
 
-The available time should allow for short conversations on 1/2 of the folliwing topics.
+The available time should allow for short conversations on 1/2 of the following topics.
 
 ### User experience
 - Are the main application features easy to reach via the navigation elements?
