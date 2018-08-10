@@ -52,6 +52,7 @@
 - choose 1/2 TA to facilitate process
 - make sure others stay with students
 - print project lists for each jury to take notes
+- prepare example questions for juries
 - facilitate jury get together
   - meet in room straight from meeting time (not kitchen)
   - jury names on tables
@@ -59,7 +60,15 @@
   - round of Q&A so far
 - briefing
   - explain process
-  - distribute list of projects (cards, thumbs+avatar)
+  - distribute list of projects (cards, thumbs+avatar
+
+# Prepare students
+  - about the posture during presentation
+  - language (basically..., etc)
+  
+# During the presentations
+  - time warning when there are 4 minutes left, if possible silently (negociate with the judges after a few presentations)
+  - control the outside noise
   
 # Before Deliberation
 - **make sure students stay in campus!**
