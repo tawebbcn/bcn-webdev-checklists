@@ -5,26 +5,10 @@
 
 ## Running experiments
 
-- Calendar Experiment (m3 w1+w2)
-/ awesome, me things (Andre)
-
-- Class Master (m3 w1)
-
 
 ## priority1
 
-~~- simple katas for module 3
-/ move to projects/module-3
-/ better if before ES m2 w3 and EN m
-/ and prepare [katas](./projects/katas.md) checklist
-/~~ 
-**Filipe** - Request review
-
-- create an issues.md to track major issues in the content
-/ GoogleMaps in module 2
-/ ask Thor about some problem he mentioned exists in Angular HTTP
-/ LOOKING FOR OWNER
-
+- checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 
 
 ## tools
@@ -32,15 +16,12 @@
 
 ## content
 
-- add purpose for the exercices of module 3
-**seba**
-
-- reference project for module 1 - UPDATE: Fixed last issues but a review is needed
+- reference project for module 1 html/css (quiz)
 **filipe**
+
 
 - prepare the next module 1
 / thoughts ...
-/ simple katas for module 1, 2
 / all the html first, css next
 / `history of the web`, beginning of m1 w1
 / create new exercises for html only
@@ -49,10 +30,6 @@
 / `agile talk` end of m1 w2
 / review [mini-projects examples](./mini-projects.md)
 / review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
-
-
-- reference project for module 2
-**seba**
 
 - reference project for module 3
 
@@ -99,7 +76,7 @@
 / FIX should mention continuous feedback to Teacher / TAs under `feedback`
 / FIX `Trust in the process` is under `Commitment` but should be under a new `Trust` value section with more items (trust the teacher and TAs, trust your coleagues, ...)
 / ADD more practices (e.g.: calendar on the wall - if we stick to it)
-
+we
 - create [feedback-internal](./feedback-internal.md)
 / how the team gets together to assess the cohort, students, progress, tools, etc...
 / include `writing comments for 1 on 1`
@@ -110,8 +87,6 @@
 / think about other ways to get feedback (e.g.: chart on the wall / green/red post-its on door / idea box / / ice-breaker activities like draw yourself, end-of-day )
 
 - simplify [code-alongs](./active-learning/code-alongs.md)
-
-- somehwere!?! we need to list all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 
 ## Crazy ideas
 
