@@ -84,7 +84,7 @@
 / copy paste
 **andre**
 
-- prepare a slide deck for [project-kick-off](./projects/project-kick-off.md)
+- prepare a slide deck for [project-kick-off](./projects/project-kick-off.md) **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
