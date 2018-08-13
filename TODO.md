@@ -9,15 +9,12 @@
 ## priority1
 
 - checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
+/ **filipe**
 
+- README.es.md for module1 (translate from spanish)
+/ **seba**
 
-## tools
-
-
-## content
-
-- reference project for module 1 html/css (quiz)
-**filipe**
+- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
 
 
 - prepare the next module 1
@@ -30,17 +27,11 @@
 / `agile talk` end of m1 w2
 / review [mini-projects examples](./mini-projects.md)
 / review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
+/ **andre**
 
-- reference project for module 3
-
-
-
-## checklists
 
 - create [mantras](./mantras.md)
-/ language, values, insights, protocols
-/ IDEAS BELOW
-/ thank you, please, sorry, thanks
+/ thank you, please, sorry, thanks, good morning
 / yes? yes
 / we are all thankful for your vulnerability
 / there are no stupid questions
@@ -51,17 +42,31 @@
 / vertical slices
 / feedback
 / localhost developers
-/ work backwards from the result/bottom (of functions, ...)
+/ work backwards from the result / bottom of functions, top of stack, response
 / variation is waste
 / do the RAT
-/ work backwards from the result / bottom of functions, top of stack, response
 / take it off your brain / free your brain from anything that can take your focus away from what you are doing right now
 / you don't know what good looks like
 / turn up the good
 / copy paste
+/ purpose, everywhere purpose
+/ order matter
 **andre**
 
-- prepare a slide deck for [project-kick-off](./projects/project-kick-off.md) **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
+## tools
+
+
+## content
+
+- reference project for module 1 html/css (quiz)
+**filipe**
+
+- reference project for module 3
+
+
+
+## checklists
+
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
