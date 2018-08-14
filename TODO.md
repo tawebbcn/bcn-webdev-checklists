@@ -53,6 +53,12 @@
 / order matter
 **andre**
 
+- add in the prework tab of the control panel the result of the technical interviews
+
+- update the project tab for the march + june cohorts
+
+- add readme to m1 canvas reference project **filipe**
+
 ## tools
 
 
