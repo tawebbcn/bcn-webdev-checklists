@@ -2,6 +2,11 @@
 
 ## done (kudos)
 
+~~- README.es.md for module1 (translate from spanish)
+/~~**seba**
+
+~~- add in the prework tab of the control panel the result of the technical interviews~~ **seba**
+
 
 ## Running experiments
 
@@ -11,8 +16,6 @@
 - checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 / **filipe**
 
-- README.es.md for module1 (translate from spanish)
-/ **seba**
 
 - prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
 
@@ -52,8 +55,6 @@
 / purpose, everywhere purpose
 / order matter
 **andre**
-
-- add in the prework tab of the control panel the result of the technical interviews
 
 - update the project tab for the march + june cohorts
 
