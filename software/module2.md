@@ -16,7 +16,7 @@
 
 ## global npm packages
 
-  - iron-generator
+  - express-generator
   - nodemon
   - eslint
 
