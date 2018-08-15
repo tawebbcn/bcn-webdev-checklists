@@ -3,13 +3,13 @@
 
 ## global npm packages
 
-  - typescript
-  - @angular/cli@latest
+- typescript
+- @angular/cli@latest
 
 ## vscode extension
 
-  - tslint
+- tslint
 
 ## vs code configuration
 
-  - `"tslint.autoFixOnSave": true`
+- `"tslint.autoFixOnSave": true`

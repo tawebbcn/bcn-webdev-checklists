@@ -20,6 +20,9 @@
 - ~~update the project tab for the march + june cohorts~~
 / **eloi**
 
+- ~~checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis~~
+/ **filipe** [link](./software/)
+
 
 ## Running experiments
 
@@ -33,12 +36,9 @@
 
 - **for THURSDAY - review retrospective actions!**
 
-- checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
-/ **filipe** [link](./software)
-
 - complete `course overview` slide deck
 / missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
-/ **andre**
+/ **filipe**
 
 - prepare the next [module 1](./materials/module-1.md)
 / missing overview diagram(s) in   [kick-off presentation](https://docs.google.com/presentation/d/1gRTQr_Pbap2nV2wWvqkyaTjFOt-FcmaULiHLcpX3Ufc/edit#slide=id.g3fa547b098_2_0)
@@ -54,7 +54,8 @@
 / **andre**
 
 
-- add readme to m1 canvas reference project **filipe**
+- add readme to m1 canvas reference project
+/ **filipe**
 
 
 
@@ -62,7 +63,6 @@
 
 
 ## content
-
 
 - complete `module-2 kick-off` slide deck
 / missing overview diagram(s)
@@ -85,7 +85,6 @@
 
 
 ## checklists
-
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
@@ -110,8 +109,8 @@
 
 ### Checklist tasks visualised
 
-put tasks that come from
+Update checklists with `CREATE TASK xxxx` warnings
 / some checklists contain tasks that need to be done at some point in a day/week/module
 / some of these tasks we don't hide from students like "yeah we have to create the pairs, maybe tomorrow"
-/ we can add screaming items like `CREATE POST-IT for "create project groups"` to the checklists so that the class master can just copy them to the parking lot
+/ we can add screaming items like `CREATE TASK "create project groups"` to the checklists so that the class master can just add them to the parking lot
 
