@@ -2,15 +2,29 @@
 
 ## done (kudos)
 
-~~- README.es.md for module1 (translate from spanish)
-/~~**seba**
+~~- README.es.md for module1 (translate from spanish)~~
+/ **seba**
 
-~~- add in the prework tab of the control panel the result of the technical interviews~~ **seba**
+~~- add in the prework tab of the control panel the result of the technical interviews~~
+/ **seba**
 
-~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)[Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)~~ **filipe** 
+
+~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) ~~
+/ **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
+
+~~- create `mantras` slide deck~~
+/ **andre** [Link](https://docs.google.com/presentation/d/1rIonPrLx26i_BnF7fS6p5itrdIQYc72lkxi5Q68VKpA/edit#slide=id.g4048736d52_0_0)
+
+
+~~- create `cohort-welcome` ~~
+/ **andre** [Link](https://docs.google.com/presentation/d/12dH-r0IY4yvzUyF1u-0bVnhvVxmPVWf7I2MDSMY5AcE/edit?usp=drive_web&ouid=103654045126563261686)
+
+~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)[Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)~~ **filipe**
 
 
 ## Running experiments
+
+- slide decks
 
 
 ## priority1
@@ -19,10 +33,7 @@
 / **filipe** [link](./software)
 
 
-
-
-
-- prepare the next module 1
+- prepare the next [module 1](./materials/module-1.md)
 / thoughts ...
 / all the html first, css next
 / `history of the web`, beginning of m1 w1
@@ -35,32 +46,19 @@
 / **andre**
 
 
-- create [mantras](./mantras.md)
-/ thank you, please, sorry, thanks, good morning
-/ yes? yes
-/ we are all thankful for your vulnerability
-/ there are no stupid questions
-/ it depends
-/ your code is shit
-/ this is nice
-/ diverge, then converge
-/ vertical slices
-/ feedback
-/ localhost developers
-/ work backwards from the result / bottom of functions, top of stack, response
-/ variation is waste
-/ do the RAT
-/ take it off your brain / free your brain from anything that can take your focus away from what you are doing right now
-/ you don't know what good looks like
-/ turn up the good
-/ copy paste
-/ purpose, everywhere purpose
-/ order matter
-**andre**
+
+- create `module-2 kick-off` slide deck
+/ WIP **andre**
+
+- create `module-3 kick-off` slide deck
+/ WIP **andre**
+
 
 ~~- update the project tab for the march + june cohorts~~ **eloi**
 
 - add readme to m1 canvas reference project **filipe**
+
+
 
 ## tools
 
@@ -72,6 +70,7 @@
 
 - reference project for module 3
 
+- create `mini-project kick-off` slide deck
 
 
 ## checklists
@@ -86,11 +85,6 @@
 / can include `WARNING: do not attempt to execute/fix any code from a PR that looks very weak/confusing`
 / can include `how to review a PR on the projector`
 
-- update the [class guidelines](./bcn-webdev-guidelines.md) for next cohort
-/ FIX should mention continuous feedback to Teacher / TAs under `feedback`
-/ FIX `Trust in the process` is under `Commitment` but should be under a new `Trust` value section with more items (trust the teacher and TAs, trust your coleagues, ...)
-/ ADD more practices (e.g.: calendar on the wall - if we stick to it)
-we
 - create [feedback-internal](./feedback-internal.md)
 / how the team gets together to assess the cohort, students, progress, tools, etc...
 / include `writing comments for 1 on 1`
@@ -102,19 +96,9 @@ we
 
 - simplify [code-alongs](./active-learning/code-alongs.md)
 
-## Crazy ideas
 
+## Backlog
 
-### Kick-ass slide decks
-
-- `cohort-welcome` (show previous cohorts/maps/tagclouds, insert your name here "the ___ cohort") what cohort are you going to be
-- `class guidelines`
-- `module-1 kick-off`
-- `mini-project kick-off`
-- `module-2 kick-off`
-- `module-3 kick-off`
-
-NOTE: invite staff to attend to some of these!
 
 ### Checklist tasks visualised
 
