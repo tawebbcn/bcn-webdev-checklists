@@ -8,13 +8,13 @@
 - ~~add in the prework tab of the control panel the result of the technical interviews~~
 / **seba**
 
-- ~~prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) ~~
+- ~~prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)~~
 / **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
 
 - ~~create `mantras` slide deck~~
 / **andre** [Link](https://docs.google.com/presentation/d/1rIonPrLx26i_BnF7fS6p5itrdIQYc72lkxi5Q68VKpA/edit#slide=id.g4048736d52_0_0)
 
-- ~~create `cohort-welcome` ~~
+- ~~create `cohort-welcome`~~
 / **andre** [Link](https://docs.google.com/presentation/d/12dH-r0IY4yvzUyF1u-0bVnhvVxmPVWf7I2MDSMY5AcE/edit?usp=drive_web&ouid=103654045126563261686)
 
 - ~~update the project tab for the march + june cohorts~~
