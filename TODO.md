@@ -7,6 +7,8 @@
 
 ~~- add in the prework tab of the control panel the result of the technical interviews~~ **seba**
 
+~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)[Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)~~ **filipe** 
+
 
 ## Running experiments
 
@@ -14,10 +16,10 @@
 ## priority1
 
 - checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
-/ **filipe**
+/ **filipe** [link](./software)
 
 
-- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
+
 
 
 - prepare the next module 1
