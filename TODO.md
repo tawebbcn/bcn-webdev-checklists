@@ -56,7 +56,7 @@
 / order matter
 **andre**
 
-- update the project tab for the march + june cohorts
+~~- update the project tab for the march + june cohorts~~ **eloi**
 
 - add readme to m1 canvas reference project **filipe**
 
