@@ -23,7 +23,10 @@
 
 ## Running experiments
 
-- slide decks
+- Slide decks
+- Mob website
+- Codepens
+- Adaptive schedule planning
 
 
 ## priority1
@@ -31,9 +34,12 @@
 - checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 / **filipe** [link](./software)
 
+- complete `course overview` slide deck
+/ missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
+/ **andre**
 
 - prepare the next [module 1](./materials/module-1.md)
-/ missing overview diagram(s)
+/ missing overview diagram(s) in   [kick-off presentation](https://docs.google.com/presentation/d/1gRTQr_Pbap2nV2wWvqkyaTjFOt-FcmaULiHLcpX3Ufc/edit#slide=id.g3fa547b098_2_0)
 / thoughts ...
 / all the html first, css next
 / `history of the web`, beginning of m1 w1
@@ -55,8 +61,6 @@
 
 ## content
 
-- complete `course overview` slide deck
-/ missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
 
 - complete `module-2 kick-off` slide deck
 / missing overview diagram(s)
