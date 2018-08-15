@@ -2,24 +2,23 @@
 
 ## done (kudos)
 
-~~- README.es.md for module1 (translate from spanish)~~
+- ~~ README.es.md for module1 (translate from spanish)~~
 / **seba**
 
-~~- add in the prework tab of the control panel the result of the technical interviews~~
+- ~~ add in the prework tab of the control panel the result of the technical interviews~~
 / **seba**
 
-
-~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) ~~
+- ~~ prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md) ~~
 / **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
 
-~~- create `mantras` slide deck~~
+- ~~ create `mantras` slide deck~~
 / **andre** [Link](https://docs.google.com/presentation/d/1rIonPrLx26i_BnF7fS6p5itrdIQYc72lkxi5Q68VKpA/edit#slide=id.g4048736d52_0_0)
 
-
-~~- create `cohort-welcome` ~~
+- ~~ create `cohort-welcome` ~~
 / **andre** [Link](https://docs.google.com/presentation/d/12dH-r0IY4yvzUyF1u-0bVnhvVxmPVWf7I2MDSMY5AcE/edit?usp=drive_web&ouid=103654045126563261686)
 
-~~- prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)[Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)~~ **filipe**
+- ~~update the project tab for the march + june cohorts~~
+/ **eloi**
 
 
 ## Running experiments
@@ -34,6 +33,7 @@
 
 
 - prepare the next [module 1](./materials/module-1.md)
+/ missing overview diagram(s)
 / thoughts ...
 / all the html first, css next
 / `history of the web`, beginning of m1 w1
@@ -46,16 +46,6 @@
 / **andre**
 
 
-
-- create `module-2 kick-off` slide deck
-/ WIP **andre**
-
-- create `module-3 kick-off` slide deck
-/ WIP **andre**
-
-
-~~- update the project tab for the march + june cohorts~~ **eloi**
-
 - add readme to m1 canvas reference project **filipe**
 
 
@@ -64,6 +54,21 @@
 
 
 ## content
+
+- complete `course overview` slide deck
+/ missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
+
+- complete `module-2 kick-off` slide deck
+/ missing overview diagram(s)
+/ missing objectives, tools, best practices, values
+/ WIP **andre**
+
+- complete `module-3 kick-off` slide deck
+/ missing overview diagram(s)
+/ missing objectives, tools, best practices, values
+/ WIP **andre**
+
+- - create `mini-project kick-off` slide deck
 
 - reference project for module 1 html/css (quiz)
 **filipe**
@@ -94,11 +99,8 @@
 / list of links to all the checklists that are related/include feedback practices
 / think about other ways to get feedback (e.g.: chart on the wall / green/red post-its on door / idea box / / ice-breaker activities like draw yourself, end-of-day )
 
-- simplify [code-alongs](./active-learning/code-alongs.md)
-
 
 ## Backlog
-
 
 ### Checklist tasks visualised
 
@@ -107,10 +109,3 @@ put tasks that come from
 / some of these tasks we don't hide from students like "yeah we have to create the pairs, maybe tomorrow"
 / we can add screaming items like `CREATE POST-IT for "create project groups"` to the checklists so that the class master can just copy them to the parking lot
 
-### Checklist for students
-
-/ students should NOT have access to this repo
-/ but some checklists contain actions that are actually student checklists
-/ e.g.: Stand-up mantra "yesterday ... did PR, ..."
-/ e.g.: PP/DE mantra "fork, clone, ... blocks an doubts in PR ... 10% is ..."
-/ we can make simple SLIDEs for these and project them when relevant
