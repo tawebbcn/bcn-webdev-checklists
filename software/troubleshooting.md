@@ -6,6 +6,10 @@
     - if problem persists there is an issue with .zshrc/.bashrc
   - *'Visual Studio Code is unable to watch for file changes in this large workspace'* notification
     - common issue in linux happening in module 2 & 3, see [fix](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
+  - vscode warnings in html files
+    - caused by `html-lint` extension, disable it
+  - vscode formatting inconsistently
+    - caused by `prettier` or `beautify`, uninstall it 
 
 ## Node
   - `bad option --inspect-brk` when trying to debug in vs code
