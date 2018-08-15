@@ -5,7 +5,7 @@
 - [Code Along](./code-along.md)
 
 ## Watch and learn
-- [Live Coding](./live-coding.md)
+- [Quick Demo](./quick-demo.md)
 
 ## You be it (role plays)
 

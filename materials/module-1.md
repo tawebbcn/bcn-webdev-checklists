@@ -1,62 +1,124 @@
 
+- http-server (when to install)
+
+- codepen: do a codepen and embed it your student page (experiments section, add an activity)
+
+```
+<article class="card activity">
+  <h3 class="card-title">JQuery demo</h3>
+  <p>Lorem Ipsum</p>
+  <embed>
+</article>
+```
+
+
 # Week 1
 
 ## Day 1
 
 - Lecture: JS Intro
 - Code Along: JS Conditionals and Loops
-- PP: JS basic algorithms
+
+- Practice: JS basic algorithms
+
 - Lecture: HTML Introduction
-- Code Along: HTML Cohort homepage
-- EX: Cohort website, student pages
+- Quick Demo: Mob website homepage (HTML - demo css/js/dom but do not commit!)
+
+- Practice: Mob website (HTML student pages - profile section)
+
 - SG: Pair Programming Introduction
 
 
 ## Day 2
 
-- Review: HTML Cohort homepage PR and PR
+- Review: Mob website (HTML student pages) PRs and merge
+
+- Lecture: HTML semantics & accessibility
+- Activity: HTML diagram(s)
+
+- Practice: Slack clone (HTML only)
+
 - Lecture: JS Functions
 - Activity: JS diagram
 - Lecture: JS Arrays
-- PP: JS functions and arrays
-- Lecture: HTML semantics & accessibility
-- Activity: HTML diagram
-- PP: Cohort website, student pages
+
+- Practice: JS functions and arrays
+
 - SG: Git Intro
 
-- CSS: Box Model
-- LAB: CSS instagram clone
 
 ## Day 3
 
+- Review: JS functions and arrays PRs
+
 - Lecture: JS Objects
 - Lecture: JS Arrays & Objects
-- PP: JS clue
-- CSS: Advanced Selectors
-- CSS: Transitions & Animations
-- LAB: CSS spotify clone
+- Code Along: Codepen arrays & objects
+
+- Practice: JS clue
+
+- Lecture: CSS Intro (anatomy, reset, box model, positioning) - float, width, margin-bottom, padding-top
+- Lecture: CSS Styling (typography, color)
+
+- Practice: Slack clone (CSS positioning and styling)
+
 - SG: CodeWars
 
 
 ## Day 4
 
+- Review: Slack clone (CSS positioning and styling)
+
+- Lecture: CSS Responsive Web Design
+- Activity: CSS diagram (including media query)
+- Lecture: CSS Flexbox
+- Code Along: Mob website (CSS homepage + student pages - add the header/footer, stretch goal style section/article)
+
+- Practice: Slack clone (CSS responsive)
+
+WARNING: risk of running out time/steam
+/ consider pushing to the next day and
+/ stay on CSS, giving out more CSS challenge as DE @todo possibly around the Mob website
+
 - Lecture: JS Arrays - Map, Reduce & Filter
+- Activity: role play card deck arrays (conversation between method & callback)
 - Lecture: JS Arrays - Sort, Reverse & Splice
-- PP: JS all times movies
-- CSS: Responsive Web Design
-- CSS: Flexbox
-- LAB: CSS flexbox slack
+- Activity: role play bubble sort
+- Activity: array function diagrams
+
+- Practice: JS all times movies
+
 - SG: CodeWars
 
 ## Day 5
 
+- Review: JS all times movies PRs
+
+- Lecture: DOM Introduction & Selectors
+- Lecture: DOM Manipulation & Events
+- Quick Demo: Mob website (DOM homepage - search students)
+
+- Practice: Mob website homepage (DOM homepage - search students)
+- Review PP PRs and merge one and only one
+
 - Lecture: JS Object Oriented Intro
 - Lecture: JS Prototypal inheritance
-- PP: JS vikings
-- DOM: Introduction & Selectors
-- DOM: Manipulation
-- LAB: DOM Ironhack Cart
+
+- Practice: JS vikings (suggest pairing / mobbing)
+- WE: Mob website (DOM student pages - experiment sections show/hide)
+
 - SG: Advanced Command Line
+
+
+## Adaptive
+
+- Codepen: sarch box (countries, songs, ....)
+- Codepen: sarch box (countries, songs, ....)
+- Codepen: DOM manipulation with constructors `var a = new Thing(data) - appendChild(thing.getDom())`
+- Practice: CSS spotify clone (html only)
+- Practice: CSS spotify clone (+ css)
+- Codepen: jQuery manipulation
+
 
 
 # Week 2
@@ -65,7 +127,8 @@
 
 - Lecture: JS Debugging, Error Handling and JS Hint
 - Lecture: JS Async & Callbacks
-- PP: JS chronometer
+
+- Practice: JS chronometer
 - CSS: Bootstrap Intro
 - CSS: Bootstrap Components
 - LAB: Bootstrap cloning revera
@@ -75,7 +138,7 @@
 
 - jQuery: Introduction
 - jQuery: DOM Selectors & CSS Attributes
-- PP: jQuery pizza builder
+- Practice: jQuery pizza builder
 - jQuery: DOM Manipulation & Traversing
 - jQuery: Effects & Events
 - LAB: JS Memory Game
@@ -85,7 +148,7 @@
 
 - Lecture: JS Function Declarations
 - Lecture: JS Closures & Scope
-- PP: JS koans
+- Practice: JS koans
 - Lecture: JS Context & Function invocation
 - Lecture: JS Testing & Jasmine
 - LAB: JS advanced algorithms
@@ -95,7 +158,7 @@
 
 - Canvas: Intro & Basic Drawing
 - Canvas: Styling, Text and Images
-- PP: Canvas hangman
+- Practice: Canvas hangman
 - Canvas: Basic Animations
 - Canvas: Code Along - Basic Animations
 - LAB: Canvas Race Car
