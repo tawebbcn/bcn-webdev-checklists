@@ -31,6 +31,8 @@
 
 ## priority1
 
+- **for THURSDAY - review retrospective actions!**
+
 - checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis
 / **filipe** [link](./software)
 

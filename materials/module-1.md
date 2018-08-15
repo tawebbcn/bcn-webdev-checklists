@@ -16,13 +16,29 @@
 
 ## Day 1
 
+- Deck: Class Guidelines
+- Deck: Cohorts
+- Deck: Course overview
+
+- Stand-up
+
+
+
+- Lecture: HTML Introduction
+- Quick Demo: Mob website homepage with list of students (HTML - demo also css/js/dom but commit only HTML!)
+
+- Code Along: Git fork and clone mob website + first PR
+/ add the student page HTML file
+/ use boilerplate, open dev tools, disable cache
+/ commit, push, PR
+/ merge all
+
+- Deck: Module 1
+
 - Lecture: JS Intro
 - Code Along: JS Conditionals and Loops
 
 - Practice: JS basic algorithms
-
-- Lecture: HTML Introduction
-- Quick Demo: Mob website homepage (HTML - demo css/js/dom but do not commit!)
 
 - Practice: Mob website (HTML student pages - profile section)
 
@@ -38,9 +54,10 @@
 
 - Practice: Slack clone (HTML only)
 
-- Lecture: JS Functions
-- Activity: JS diagram
+- Lecture: JS Functions and Scope
+- Activity: role play JS debugger
 - Lecture: JS Arrays
+- Activity: JS diagram (statement, expression, assignment, declaration, function and call)
 
 - Practice: JS functions and arrays
 
@@ -51,16 +68,18 @@
 
 - Review: JS functions and arrays PRs
 
-- Lecture: JS Objects
-- Lecture: JS Arrays & Objects
-- Code Along: Codepen arrays & objects
+- Lecture: JS Objects & Arrays
+- Code Along: JS Codepen arrays & objects
 
 - Practice: JS clue
 
-- Lecture: CSS Intro (anatomy, reset, box model, positioning) - float, width, margin-bottom, padding-top
-- Lecture: CSS Styling (typography, color)
+- Lecture: CSS Intro (anatomy, reset, box model, layout) - fluid container, margin-bottom, padding-top, float
+- Quick Demo: CSS layout: sections and articles
+- Lecture: CSS Styling (typography, color, links and buttons)
+- Code Along: CSS Codepen typography and color
+- Code Along: CSS Codepen links and buttons
 
-- Practice: Slack clone (CSS positioning and styling)
+- Practice: Slack clone (CSS layout and styling)
 
 - SG: CodeWars
 
@@ -72,13 +91,14 @@
 - Lecture: CSS Responsive Web Design
 - Activity: CSS diagram (including media query)
 - Lecture: CSS Flexbox
-- Code Along: Mob website (CSS homepage + student pages - add the header/footer, stretch goal style section/article)
+- Code Along: Mob website (CSS homepage + student pages - add the header/footer to all, stretch goal style section/article)
 
 - Practice: Slack clone (CSS responsive)
 
-WARNING: risk of running out time/steam
-/ consider pushing to the next day and
-/ stay on CSS, giving out more CSS challenge as DE @todo possibly around the Mob website
+WARNING: risk of running out of time/steam
+/ consider pushing to the next day and stay on CSS
+/ + Lecture: CSS Forms
+/ + Practice:  practice exercise @todo Mob website vs codepens
 
 - Lecture: JS Arrays - Map, Reduce & Filter
 - Activity: role play card deck arrays (conversation between method & callback)
@@ -96,6 +116,7 @@ WARNING: risk of running out time/steam
 
 - Lecture: DOM Introduction & Selectors
 - Lecture: DOM Manipulation & Events
+
 - Quick Demo: Mob website (DOM homepage - search students)
 
 - Practice: Mob website homepage (DOM homepage - search students)
@@ -104,20 +125,24 @@ WARNING: risk of running out time/steam
 - Lecture: JS Object Oriented Intro
 - Lecture: JS Prototypal inheritance
 
+- Talk: History of the web
+
 - Practice: JS vikings (suggest pairing / mobbing)
-- WE: Mob website (DOM student pages - experiment sections show/hide)
+- Practice: Mob website (DOM student pages - show/hide experiment sections)
 
 - SG: Advanced Command Line
 
 
 ## Adaptive
 
-- Codepen: sarch box (countries, songs, ....)
-- Codepen: sarch box (countries, songs, ....)
-- Codepen: DOM manipulation with constructors `var a = new Thing(data) - appendChild(thing.getDom())`
+- DOM Codepen: search box (countries, songs, ....)
+- DOM/JS Codepen: manipulation with constructors `var a = new Thing(data) - appendChild(thing.getDom())`
+- CSS Codepen:
 - Practice: CSS spotify clone (html only)
 - Practice: CSS spotify clone (+ css)
 - Codepen: jQuery manipulation
+- [Advanced] Code Along: webpack livereload
+- [Advanced] Scope, context and closures
 
 
 
@@ -125,13 +150,13 @@ WARNING: risk of running out time/steam
 
 ## Day 1
 
-- Lecture: JS Debugging, Error Handling and JS Hint
-- Lecture: JS Async & Callbacks
 
 - Practice: JS chronometer
 - CSS: Bootstrap Intro
 - CSS: Bootstrap Components
+
 - LAB: Bootstrap cloning revera
+
 - SG: Project Management
 
 ## Day 2
