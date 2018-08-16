@@ -32,9 +32,9 @@
 
 - start in [Todo](./TODO.md)
 
-- Follow same style as other docs
+- follow same style as other docs
   - use `## titles`
-  - do not use all caps
+  - use lowercase
   - small lists
 
 - small sentences

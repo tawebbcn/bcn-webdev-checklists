@@ -2,28 +2,6 @@
 
 ## done (kudos)
 
-- ~~README.es.md for module1 (translate from spanish)~~
-/ **seba**
-
-- ~~add in the prework tab of the control panel the result of the technical interviews~~
-/ **seba**
-
-- ~~prepare a slide deck for [project-kick-off](./projects/kick-off-presentation.md)~~
-/ **filipe** [Link](https://drive.google.com/open?id=1lTOlOtmrPBN44CzX_keBwF3ne-SfVPxnYvSGOB5ObWA)
-
-- ~~create `mantras` slide deck~~
-/ **andre** [Link](https://docs.google.com/presentation/d/1rIonPrLx26i_BnF7fS6p5itrdIQYc72lkxi5Q68VKpA/edit#slide=id.g4048736d52_0_0)
-
-- ~~create `cohort-welcome`~~
-/ **andre** [Link](https://docs.google.com/presentation/d/12dH-r0IY4yvzUyF1u-0bVnhvVxmPVWf7I2MDSMY5AcE/edit?usp=drive_web&ouid=103654045126563261686)
-
-- ~~update the project tab for the march + june cohorts~~
-/ **eloi**
-
-- ~~checklist with all the software that needs to be installed (e.g.: mongo, postman, ...) maybe in one checklist, or maybe in a module by module basis~~
-/ **filipe** [link](./software/)
-
-
 ## Running experiments
 
 - Slide decks
@@ -33,8 +11,6 @@
 
 
 ## priority1
-
-- **for THURSDAY - review retrospective actions!**
 
 - complete `course overview` slide deck
 / missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
@@ -57,6 +33,7 @@
 - add readme to m1 canvas reference project
 / **filipe**
 
+- name the cohorts
 
 
 ## tools
@@ -74,17 +51,36 @@
 / missing objectives, tools, best practices, values
 / WIP **andre**
 
-- - create `mini-project kick-off` slide deck
+- create `mini-project kick-off` slide deck
 
 - reference project for module 1 html/css (quiz)
 **filipe**
 
 - reference project for module 3
 
-- create `mini-project kick-off` slide deck
-
 
 ## checklists
+
+- update class-master
+/ class master name on the calendar
+/ add "Adaptive" section to calendar
+/ iPad
+/ PICTURES!
+/ BREAKS!
+/ End of day identify who is in tomorrow at 9:00
+/ One on one comments
+/ Friday talks
+
+- update checklists with `CREATE TASK xxxx` warnings
+/ whoever starts this, break it down
+
+- student checklist debbuging (and print)
+/ What have we tried so far
+/ Make a cheatsheet version
+
+
+
+
 
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
@@ -109,8 +105,18 @@
 
 ### Checklist tasks visualised
 
-Update checklists with `CREATE TASK xxxx` warnings
 / some checklists contain tasks that need to be done at some point in a day/week/module
 / some of these tasks we don't hide from students like "yeah we have to create the pairs, maybe tomorrow"
 / we can add screaming items like `CREATE TASK "create project groups"` to the checklists so that the class master can just add them to the parking lot
+
+
+### Mini projects
+
+Think m2/m3 mini-projects
+
+
+### Technical Interview
+
+Update refresh tech interview exercices TODO + think about using a rubric, take inspiration from Miami’s
+
 

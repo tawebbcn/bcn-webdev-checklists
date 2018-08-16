@@ -1,7 +1,7 @@
 # Jury Day
 
 # Early Project Week
-- choose format (panel vs speed dating and is popular vote on)
+- choose format (panel vs speed dating and is popular vote on) `CREATE TASK jury format`
   - number of projects for hack-show depends on how many bootcamps present (typically min 3, max 5)
   - time of presentations to jury should not exceed 2h
 - clarify students about purpose/process
@@ -11,8 +11,8 @@
   - all judges are different
   - not an ideas/project/startup bootcamp
   - everyone is different
-- role play with students once so that they get into the right mindset
-  
+- role play with students once so that they get into the right mindset `CREATE TASK role play jury day`
+
 # Speed Dating Format
 - every student sits with each jury individually
 - groups of 5 enter the room at a time and rotate all tables
@@ -33,7 +33,7 @@
 
 # Popular Vote (additional slots)
 - consider electing 1/2 extra projects from popular vote
-- consider who's allowed to vote 
+- consider who's allowed to vote
   - just students
   - TAs and Teachers
   - staff (that attended Thursday presentation)
@@ -47,7 +47,7 @@
 - email juror's
   - [guidelines](./jury-guidelines.md)
   - project list (cards with names, project thumbs + student avatar, project URL, slide URL)
-  
+
 # Before Jury Time
 - choose 1/2 TA to facilitate process
 - make sure others stay with students
@@ -65,11 +65,11 @@
 # Prepare students
   - about the posture during presentation
   - language (basically..., etc)
-  
+
 # During the presentations
   - time warning when there are 4 minutes left, if possible silently (negociate with the judges after a few presentations)
   - control the outside noise
-  
+
 # Before Deliberation
 - **make sure students stay in campus!**
 - consider jury might need a break
@@ -85,14 +85,15 @@
 - facilitate debate, make sure:
   - all juries participate
   - no project is forgotten
-- leave the room if conversation is flowing
+- consider: teachers can stay for jury deliberation (just for learning purpose)
+- OR leave the room if conversation is flowing
   - tell them how much time they have left
   - comeback to ask for deliberation
   - facilitate voting if they can't reach consensus
     - vote for 3, sum all votes, pick X winners
     - repeat with subset if no clear winners emerge
     - A/B voting to break draws
-    
+
 # After Deliberation
 - ask jury to stick around 15 mins for retrospective
 - **gather all students!**

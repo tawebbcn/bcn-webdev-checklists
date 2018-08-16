@@ -1,7 +1,21 @@
 
-- http-server (when to install)
+- http-server (when to install, when to make sure node is working)
+
 
 - codepen: do a codepen and embed it your student page (experiments section, add an activity)
+
+
+- Lecture: JS Function + Context + JS Closures + Scope
+
+- [advanced] introduce es6
+
+- 2 code alongs (canvas + dom)
+- 2 reference projects
+- HTML first then CSS
+- ES5 > ES6
+- Slack Exercice part 1 + part 2
+
+
 
 ```
 <article class="card activity">
@@ -16,16 +30,17 @@
 
 ## Day 1
 
+- Welcome and Orientation
+- People & Stories
 - Deck: Class Guidelines
-- Deck: Cohorts
-- Deck: Course overview
 
 - Stand-up
 
-
+- Deck: Cohorts
+- Deck: Course overview
 
 - Lecture: HTML Introduction
-- Quick Demo: Mob website homepage with list of students (HTML - demo also css/js/dom but commit only HTML!)
+- Quick Demo: Mob website homepage with list of students + DEPLOY! (HTML - demo also css/js/dom but commit only HTML!)
 
 - Code Along: Git fork and clone mob website + first PR
 / add the student page HTML file
@@ -36,7 +51,7 @@
 - Deck: Module 1
 
 - Lecture: JS Intro
-- Code Along: JS Conditionals and Loops
+- Code Along: JS Conditionals and Loops (HTML + JS file)
 
 - Practice: JS basic algorithms
 
@@ -125,7 +140,7 @@ WARNING: risk of running out of time/steam
 - Lecture: JS Object Oriented Intro
 - Lecture: JS Prototypal inheritance
 
-- Talk: History of the web
+- Talk: History of the Internet
 
 - Practice: JS vikings (suggest pairing / mobbing)
 - Practice: Mob website (DOM student pages - show/hide experiment sections)
@@ -138,11 +153,28 @@ WARNING: risk of running out of time/steam
 - DOM Codepen: search box (countries, songs, ....)
 - DOM/JS Codepen: manipulation with constructors `var a = new Thing(data) - appendChild(thing.getDom())`
 - CSS Codepen:
+
 - Practice: CSS spotify clone (html only)
 - Practice: CSS spotify clone (+ css)
+
+- Lecture: Bootstrap Intro + Components
+
+- Lecture: jQuery Introduction, DOM Selectors + Events
+- Quick Demo: jQuery manipulation + events
+- Code Along: jQuery manipulation + traversing
 - Codepen: jQuery manipulation
-- [Advanced] Code Along: webpack livereload
-- [Advanced] Scope, context and closures
+- [Advanced] Quick Demo: jQuery Animations
+
+- [Advanced] Code Along: webpack + livereload
+- [Advanced] Lecture: JS Function + Context + JS Closures + Scope
+- [Advanced] Lecture: JS Testing + Jasmine
+- [Advanced] Practice: JS advanced algorithms
+
+- [Advanced] Quick Demo: PWA
+
+- [Advanced] Quick Demo: JS Lodash Intro
+- [Advanced] Quick Demo: Moment.js
+
 
 
 
@@ -152,8 +184,6 @@ WARNING: risk of running out of time/steam
 
 
 - Practice: JS chronometer
-- CSS: Bootstrap Intro
-- CSS: Bootstrap Components
 
 - LAB: Bootstrap cloning revera
 
@@ -161,27 +191,19 @@ WARNING: risk of running out of time/steam
 
 ## Day 2
 
-- jQuery: Introduction
-- jQuery: DOM Selectors & CSS Attributes
+
 - Practice: jQuery pizza builder
-- jQuery: DOM Manipulation & Traversing
-- jQuery: Effects & Events
+
 - LAB: JS Memory Game
 - SG: Markdown and READMEs
 
 ## Day 3
 
-- Lecture: JS Function Declarations
-- Lecture: JS Closures & Scope
-- Practice: JS koans
-- Lecture: JS Context & Function invocation
-- Lecture: JS Testing & Jasmine
-- LAB: JS advanced algorithms
-- Lecture: JS Lodash Intro
+
 
 ## Day 4
 
-- Canvas: Intro & Basic Drawing
+- Canvas: Intro + Basic Drawing
 - Canvas: Styling, Text and Images
 - Practice: Canvas hangman
 - Canvas: Basic Animations
