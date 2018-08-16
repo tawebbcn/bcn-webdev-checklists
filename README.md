@@ -2,11 +2,13 @@
 # Checklists! [√]
 
 - [People and Stories](./people-and-stories.md)
+- [Curriculum](./curriculum)
 - **[Class Master](./routines/class-master.md)**
 - **[Routines](./routines)**
-- **[Active Learning](./active-learning/active-learning.md)**
-- **[Projects](./projects/projects.md)**
-- **[Retrospectives](./retrospectives/retrospectives.md)**
+- **[Active Learning](./active-learning/)**
+- **[Projects](./projects/)**
+- **[Retrospectives](./retrospectives/)**
+- [Software](./software/)
 - [UX/UI Collaborations](./ux-ui-collaborations.md)
 - [Friday Talks](./friday-talks.md)
 - [Alumni](./alumni.md)

@@ -2,6 +2,10 @@
 
 ## done (kudos)
 
+- ~~complete `course overview` slide deck~~
+/ **filipe**
+
+
 ## Running experiments
 
 - Slide decks
@@ -12,11 +16,8 @@
 
 ## priority1
 
-- complete `course overview` slide deck
-/ missing PP/DE fork, clone, ... blocks and doubts in PR ... 10% is ...
-/ **filipe**
 
-- prepare the next [module 1](./materials/module-1.md)
+- prepare the next [module 1](./curriculum/module-1.md)
 / missing overview diagram(s) in   [kick-off presentation](https://docs.google.com/presentation/d/1gRTQr_Pbap2nV2wWvqkyaTjFOt-FcmaULiHLcpX3Ufc/edit#slide=id.g3fa547b098_2_0)
 / thoughts ...
 / all the html first, css next
@@ -26,7 +27,7 @@
 / mini-project with serious kick-off
 / `agile talk` end of m1 w2
 / review [mini-projects examples](./mini-projects.md)
-/ review [api-dependent-labs-units](./materials/api-dependent-labs-units.md)
+/ review [api-dependent-labs-units](./curriculum/api-dependent-labs-units.md)
 / **andre**
 
 

@@ -63,11 +63,11 @@
   - [driver](./driver.md)
   - [assessment](./assessment.md)
   - [debugging](./debugging.md)
-  - [active learning activities](../active-learning/active-learning.md)
+  - [active learning activities](../active-learning/)
 - [daily exercise](./daily-exercise.md)
 - next day schedule
   - **check [calendar](https://calendar.google.com/calendar/r/week/2018/7/26?tab=mc)**
   - **check/remind/update [ta rotation routine](./ta-rotation-routine.md)** and **check [TA Schedule](https://docs.google.com/spreadsheets/d/10m8Ohzr8ca-6Lg6h5X8jOttOEkW11ZjV4yJV4VSQHm4/edit#gid=0)**
   - **check physical calendar** (lessons, exercises, meetings)
-  - check classes for tomorrow for [api-dependent-labs-units](../materials/api-dependent-labs-units.md)
+  - check classes for tomorrow for [api-dependent-labs-units](../curriculum/api-dependent-labs-units.md)
 - last day? who's the next Class Master?

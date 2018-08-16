@@ -1,9 +1,15 @@
-#  Common issues
+# Software
+
+- [module 1](./module-1.md)
+- [module 2](./module-2.md)
+- [module 3](./module-3.md)
+
+#  Troubleshooting
 
 ## VS Code
 
 - `code` command not working
-  - see [vs code configuraion](./module1.md).
+  - see [vs code configuration](./module-1.md).
   - if problem persists there is an issue with .zshrc/.bashrc
 - *'Visual Studio Code is unable to watch for file changes in this large workspace'* notification
   - common issue in linux happening in module 2 & 3, see [fix](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
