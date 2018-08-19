@@ -16,6 +16,7 @@
 
 # Resources
 
+- [Google Drive 2018 08](https://drive.google.com/drive/folders/1DLqFphw9XAj9xJR16v1shlNTmmDGP3I7)
 - [Class Guidelines](https://docs.google.com/presentation/d/1p_t34zwQQ2Z_dm-6Sd5RHGEe7jTX4GPNy-GTgV8G_yg/edit?usp=sharing)
 - [Course Overview](https://docs.google.com/presentation/d/1c3wM1W8wBJA4jAw9fqkw3YCud-O1ov1FATJ1l09AW5Q/edit?usp=sharing)
 - [Cohorts](https://docs.google.com/presentation/d/12dH-r0IY4yvzUyF1u-0bVnhvVxmPVWf7I2MDSMY5AcE/edit?usp=sharing)

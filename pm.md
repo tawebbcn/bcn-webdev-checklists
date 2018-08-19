@@ -14,7 +14,7 @@
 
 ## Buddy Email
 
-- 
+-
 
 ## Ice Breaker Email
 
@@ -22,3 +22,15 @@
   - code of conduct
   - shareable (read-only) link of [Student X calendar](https://drive.google.com/drive/folders/19PTSCkEyJZy4Q9dxJx8nYRsLFK9gCHdq)
 - remind they have to be on time (9am) next Monday
+
+
+## Prepare the room
+
+- buy tape, foam board
+- check chairs
+- markers, post-its, eraser
+- do the calendar [Class Master](./routines/class-master.md)
+- clean-up the walls
+- clean-up the shelves
+- clean-up the boards
+- clean-up the tables

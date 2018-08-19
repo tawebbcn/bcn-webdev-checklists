@@ -5,6 +5,10 @@
 - ~~complete `course overview` slide deck~~
 / **filipe**
 
+- ~~prepare the room / copy this to another checklist~~
+/ see [pm](./pm.md)
+
+- ~~prepare the next [module 1](./curriculum/module-1.md)~~
 
 ## Running experiments
 
@@ -12,23 +16,22 @@
 - Mob website
 - Codepens
 - Adaptive schedule planning
+- Parking Lot
 
 
 ## priority1
 
+- review [mini-projects examples](./mini-projects.md)
 
-- prepare the next [module 1](./curriculum/module-1.md)
-/ missing overview diagram(s) in   [kick-off presentation](https://docs.google.com/presentation/d/1gRTQr_Pbap2nV2wWvqkyaTjFOt-FcmaULiHLcpX3Ufc/edit#slide=id.g3fa547b098_2_0)
-/ thoughts ...
-/ all the html first, css next
-/ `history of the web`, beginning of m1 w1
-/ create new exercises for html only
-/ replace some exercises
-/ mini-project with serious kick-off
-/ `agile talk` end of m1 w2
-/ review [mini-projects examples](./mini-projects.md)
-/ review [api-dependent-labs-units](./curriculum/api-dependent-labs-units.md)
-/ **andre**
+- student checklist for debbuging (and print)
+/ What have we tried so far
+/ Make a cheatsheet version
+/ check documentation
+/ google problem "javascript + the problem"
+/ prioritize stackeroverflow over other sites
+/ check if question matches your problem (and your programming language)
+/ check the date, too old, find another one
+/ check the number of upvotes, too low, find another one
 
 
 - add readme to m1 canvas reference project
@@ -74,10 +77,6 @@
 
 - update checklists with `CREATE TASK xxxx` warnings
 / whoever starts this, break it down
-
-- student checklist debbuging (and print)
-/ What have we tried so far
-/ Make a cheatsheet version
 
 
 

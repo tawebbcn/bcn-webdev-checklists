@@ -36,8 +36,7 @@
 ## Suggestion:
   - delete JasmineTest for debugger purpose
   - introduce `reduce` as a extra tool on introduction section
-  - inconsisntent test on the functions. Someones return `undefined`, others one `0`
+  - inconsistent test on the functions. Some return `undefined`, others one `0`
   - have only one array of words or no one
   - bonus part without test since seems like the student doesn't complete the exercise
   - added eslint on the `starter-code` without any explanation
-## Typos:
