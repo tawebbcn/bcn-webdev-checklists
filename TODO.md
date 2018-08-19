@@ -10,6 +10,8 @@
 
 - ~~prepare the next [module 1](./curriculum/module-1.md)~~
 
+- ~~name the cohorts~~
+
 ## Running experiments
 
 - Slide decks
@@ -37,7 +39,9 @@
 - add readme to m1 canvas reference project
 / **filipe**
 
-- name the cohorts
+
+- normalise readme to m2 reference project
+/ **seba**
 
 
 ## tools
@@ -78,10 +82,6 @@
 - update checklists with `CREATE TASK xxxx` warnings
 / whoever starts this, break it down
 
-
-
-
-
 - create [exercise-review](./exercise-review.md)
 / how to review the daily exercise with the students on the first hour (Rapha)
 / designate LT/TA that is going to review the day before (add to end of day checklist)
@@ -103,20 +103,26 @@
 
 ## Backlog
 
-### Checklist tasks visualised
+### Checkooint Ritual
 
-/ some checklists contain tasks that need to be done at some point in a day/week/module
-/ some of these tasks we don't hide from students like "yeah we have to create the pairs, maybe tomorrow"
-/ we can add screaming items like `CREATE TASK "create project groups"` to the checklists so that the class master can just add them to the parking lot
+- any time during the day
+/ review parking lot
 
+### Checkout Ritual
+
+- end of the day
+/ review parking lot
+/ DE
+/ SG
+/ agenda for tomorrow
+/ review TA schedule
 
 ### Mini projects
 
-Think m2/m3 mini-projects
-
+- think m2/m3 mini-projects
 
 ### Technical Interview
 
-Update refresh tech interview exercices TODO + think about using a rubric, take inspiration from Miami’s
+- update refresh tech interview exercices TODO + think about using a rubric, take inspiration from Miami’s
 
 
