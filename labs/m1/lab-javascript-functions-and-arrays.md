@@ -9,7 +9,7 @@
   - Play with arrays and their basic methods: push, pop, unshift, shift, splice, forEach
 ## What they do in the exercise:
   - first contact with Jasmine testing
-  - funtion that returns the largest number between 2
+  - function that returns the largest number between 2
   - function that returns the longest word of an array
   - function that returns the sum of the numbers of an array
   - function that returns the average of the numbers of an array
