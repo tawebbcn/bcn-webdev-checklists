@@ -29,7 +29,8 @@
 - [Module 2 - Reference Project](https://github.com/ironhack/webdev-m2-reference-project)
 - [Module 3](https://docs.google.com/presentation/d/182X5jsYlRB5Gz7w8CoLJmq19tcDXLjz2sPg2bgHpo-g/edit?usp=sharing)
 
-
+# Class Page
+- [Web Dev 082018 EN](https://ironhack.github.io/webbcn-0818/index.html)
 
 # Contributing
 
