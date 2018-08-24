@@ -25,6 +25,7 @@
      - http://learn.ironhack.com/#/learning_unit/3021
   - missing reverse and splice
   - reverse should be in the arrays unit: Week1 Day2
+  - iteration 2 test with numbers and the data (rate) is a string
 ## Suggestion:
   - Make the exercise I2 > I3 > I5 > I6 > I1 > I4 > Bonus
 ## Typos:
