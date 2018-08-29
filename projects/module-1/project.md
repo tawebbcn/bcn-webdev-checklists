@@ -17,7 +17,7 @@
 
 ## Execution
 - insist
-- remind students everyday that they could/should review and/or change their previous slides
+- remind students everyday that they could/should review and/or change their previous slidescolumns
 
 ## Control board
 
@@ -28,13 +28,12 @@
   - who / project name
   - dom / canvas
   - challenges (physics, angles, animations, ...)
-  - states (explain win/loose condition)
-  - data structures
-  - wireframes
-  - board OR trello
+  - planing (states explain win/loose condition,data structures wireframes)
+  - board
+  - github repo
   - README.md (sign-off)
-  - bootstrap (index.html, main.css, main.js)
-  - github (check .gitignore)
+  - index.html, main.css, main.js
+  - game.js, etc
   - commits (count and update commits daily)
   - deploy 
   - presentation

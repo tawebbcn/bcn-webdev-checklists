@@ -26,7 +26,7 @@
 ### 11:00 BREAK
 ---
 
-### Deck: Class Guidelines (Irene) (15')
+### Deck: Class Guidelines (Irene) (15') Took 20'
 
 ### Stand-up (15')
 - names and presentations
@@ -37,7 +37,7 @@
 - feedback on feedback (example)
 - feedback on calendar (example)
 
-### Deck: Course overview (15')
+### Deck: Course overview (15') Took 25'
 
 - focus on rituals
 - focus on adaptive
@@ -55,7 +55,7 @@
 - just focus on the overview slide
 
 
-### Lecture: HTML Introduction (30')
+### Lecture: HTML Introduction (30') - Took 30'
 
 > #tech HTML
 
@@ -113,7 +113,7 @@
 
 ### Checkpoint (10')
 
-### Code Along: HTML Introduction (Mob website personal student page) (45')
+### Code Along: HTML Introduction (Mob website personal student page) (45')  took 1h
 
 > #tool git
 
@@ -142,7 +142,7 @@
 ### 15:00 BREAK
 ---
 
-### Lecture: JS Intro (30')
+### Lecture: JS Intro (30') Took 45'
 
 > #tech javascript
 
@@ -340,7 +340,7 @@ var y;
 ### 10:30 BREAK
 ---
 
-### Lecture: HTML semantics & accessibility (30')
+### Lecture: HTML semantics & accessibility (30') Took 1h
 
 - include `meta` to stop browser from zooming in `<head>`
 - conventions
@@ -451,7 +451,7 @@ var y;
 ### 15:00 BREAK
 ---
 
-### Lecture: JS Functions and Scope (30')
+# Lecture: JS Functions and Scope (30') Took 25'
 
 > #resource LU
 - [LU - JS Functions](http://learn.ironhack.com/#/learning_unit/3020)
@@ -712,7 +712,6 @@ var cohorts = [{
 
 - embed CodePen in student page
 
-
 ---
 ### 13:00 LUNCH
 ---
@@ -779,7 +778,6 @@ var cohorts = [{
   - `position: absolute`
     - used with `top/left` always relative to `body`
 
-
 ---
 ### 16:30
 ---
@@ -840,11 +838,32 @@ var cohorts = [{
 ### 10:30 BREAK
 ---
 
-### Lecture: CSS Responsive Web Design (30')
+### Practice: Slack clone (30')
+
+### Lecture: CSS Responsive Web Design (30') Took 20'
+
+- [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
+- how the paradigm shifted from desktop first to mobile first
+  - right after it changed from graceful degradation to progressive enhancement
+- small/big apartment metaphor
+- [9 basic principles](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+- content is like water mantra
+- explain the use of max-width
+- [search responsive on css-tricks](https://css-tricks.com/?s=responsive+&orderby=relevance&post_type=post%2Cpage%2Cguide)
+- [responsive design](https://alistapart.com/topic/responsive-design)
+
+### Quick Demo: CSS Responsive Web Design (Mob Website main page) 
+
+- add css file with boilerplate
+- add classes included in the boilerplate to the site
+- make divs inside the container to contain the content but not the background color
+- show the container not growing past 768px (media query included)
+- show why the media query has max-width 728 (original container margin)
+- float the two lists side by side
 
 ### Activity: CSS diagram (including media query) (30')
 
-- rule, selector, class, pseudo-class, property, value, shortand, unit, color
+- rule, selector, class, pseudo-class, property, value, shorthand property. shorthand value, unit, color
 
 ```css
 .card:hover {
@@ -863,6 +882,16 @@ var cohorts = [{
 
 ### Lecture: CSS Flexbox (30')
 
+- [flexbox CSS Tricks Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [flexbox froggy](https://flexboxfroggy.com/)
+- draw on the board a wire frame and sample html and explain the approach with float (try to match the colors)
+  - html - header>img+nav>a*2
+- convert the rules to flexbox on the board
+- explain the rules that apply to the parent
+- [flexbox MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- use the examples to play with the boxes
+- explain the rules that apply to the children
+
 ### Code Along: CSS Flexbox (Mob website CSS homepage + student pages) (1h)
 - add the header/footer and container to all pages
 - stretch goal style profile section
@@ -880,7 +909,6 @@ WARNING: risk of running out of time/steam
 / + Practice:  practice exercise @todo Mob website vs codepens
 
 ### Review: Slack clone (CSS responsive) PRs and close (30')
-
 
 ---
 ### 15:30 BREAK
@@ -913,6 +941,8 @@ WARNING: risk of running out of time/steam
 - arr.slice(1, 2)
 
 ### Activity: array function diagrams (30')
+
+Make the examples close to reality. (E.g. people, scores, etc)
 
 - find
 - filter
@@ -963,15 +993,53 @@ img.setAttribute('src', 'https://pbs.twimg.com/profile_images/844137908252610566
 img.removeAttribute('srcset');
 ```
 - node.setAttribute('src', 'https://fakeimage.com/image.jpg')
+
 - node.removeAttribute('srcset');
+
 - node.classList.add('active') node.classList.remove('active')
+
 - node.classList.toggle('active')
+
 - node.appendChild(child)
+
 - node.children[0]...
+
 - node.remove()
-- node = document.createElement('div')
+
+- ole=search input
+
+  input change
+
+  event handler
+
+  show box with results
+
+  empty results
+
+  results = students.filter
+
+  add dom with students
+
+  or "no students match foo"node = document.createElement('div')
+
 - node.innerHTML = `'<p>some text</p>'`
+
 - node.innerText = 'some text'
+
+#### Lesson Notes
+
+- refresh what is the DOM, explain the why and the possibilities
+- explain what is window and document
+- open a random page like github and select elements demoing querySelector & querySelectorAll
+- explain the older selection APIs like getElementById & getElementsByClassName
+- show how you can find the parents & siblings of a selected element
+- on the main page of the mob website
+  - show how to add a new section creating a section element
+  - create an h2
+  - add text to the h2
+  - append the h2 to the section
+  - append the section to the website before the footer
+- make sure you show that as long as you have the variable with the element, you have control, even if the element is removed from the DOM, it can be added again
 
 ### Lecture: DOM Manipulation & Events (30')
 
@@ -1004,12 +1072,39 @@ for (var ix = 0; ix < ps.length; ix++) {
 }
 ```
 
+#### Lesson Notes
+
+- on the main page of the mob website
+- show how to select both h2 titles
+- loop through them and add an event listener to each one of them with an anonymous function
+- inside of the function, show them how to select the ul's of both sections by going up to the parent and then selecting the ul inside of it
+- toggle the class hidden to the ul that you want to show and hide
+
+```javascript
+'use strict';
+
+function main() {
+  var nodes = document.querySelectorAll('section h2');
+  
+  for (var ix = 0; ix < nodes.length; ix++) {
+    nodes[ix].addEventListener('click', function (event) {
+      var h2 = event.currentTarget;
+      var section = h2.parentNode;
+      section.classList.toggle('expanded');
+    });
+  };
+}
+
+window.addEventListener('load', main);
+```
+
+
 
 ---
 ### 11:30 BREAK
 ---
 
-### Quick Demo: DOM Manipulation & Events (Mob website homepage, search students) (30')
+### Quick Demo: DOM Manipulation & Events (Mob website homepage, search students) (30') Took 1h45'
 
 - `var students` in a file everyone can load with script src
 - form role=search input
@@ -1020,6 +1115,27 @@ for (var ix = 0; ix < ps.length; ix++) {
   - results = students.filter
   - add dom with students
   - or "no students match `foo`"
+
+#### Quick Demo Notes
+
+- add the ironhack remote to everyone
+  - `git remote -v` to check if the remote is added already
+  - `git status` to check if there are changes (if yes, add, commit, push and PR)
+  - `git remote add ironhack https://github.com/ironhack/<remote-url>` to add the ironhack remote
+  - `git pull ironhack master` to pull the changes from ironhack
+- explain (draw) on the board what is going to happen
+  - add an input to a new sub header that will search and filter the array
+  - it will display the list on an absolute positioned list 
+- add the array with students.js in the main folder
+- explain the steps until they are able to console.log the input value and give them 5 minutes to achieve it
+- allow everyone to reach that and explain the next step on the board.
+  - store the input value on a variable
+  - filter the results of the array
+  - console.log the result
+- append each one of the results as an  `a` tag to the DOM, make sure the link works
+- re-factor the code and explain the importance of it
+- build the list with an `ul`. appending the `a` to the `li`, the `li` to the `ul` and finally the `ul` to the search results
+- style the results div with absolute positioning so that it appears right below the search box
 
 ---
 ### 12:00 LUNCH
@@ -1051,7 +1167,41 @@ for (var ix = 0; ix < ps.length; ix++) {
 ### Practice: Mob website (DOM student pages - show/hide experiment sections) (DE)
 ### Practice: Mob website (DOM student pages - add list of students to DOM from array) (DE)
 
+### Lecture: Events
 
+- ev.stopPropagation()
+- ev.preventDefault()
+- explain how event propagation  works in the board, drawing a small tree of elements and ask if an event will 'move up' the DOM tree.
+- explain what happens when two different events happen, one in body and one in main
+  - which one goes first
+  - explain with a narrative, introduce the word propagate and event propagation
+- on the mob website, add an event on body and another on the input of the student search, code the stopPropagation()
+
+#### Practice: Events
+
+- challenges for students to practice
+  1. hide the search results when
+     1. click on body (requires to stop propagation when click on input)
+     2. press esc
+  2. show the results again when
+     1. input focus
+
+### Lecture: Async
+
+ - Show the 4 native functions, and explain that setInterval and setTimeout return a number (an id)
+    - setTimeout(function () {}, 1000)
+    - setInterval(function () {}, 1000)
+    - clearInterval(intervalID)
+ - do small 30 second counter using the setInterval and clearInterval
+ - give an example of when you should use a clearTimeout
+
+
+
+#### Practice: Async
+
+- challenges
+  - counter for 30s on the top corner (setTimeout)
+  - need to click a hidden work/object on the page to cancel the timer (clearInterval)
 
 
 ## Parking Lot
