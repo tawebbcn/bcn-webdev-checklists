@@ -7,3 +7,4 @@
 - [Vowel Count](https://www.codewars.com/kata/vowel-count/train/javascript)
 
 - [Flatten](https://www.codewars.com/kata/flatten-1/javascript)
+
