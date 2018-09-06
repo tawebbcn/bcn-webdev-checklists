@@ -451,7 +451,7 @@ var y;
 ### 15:00 BREAK
 ---
 
-# Lecture: JS Functions and Scope (30') Took 25'
+### Lecture: JS Functions and Scope (30') Took 25'
 
 > #resource LU
 - [LU - JS Functions](http://learn.ironhack.com/#/learning_unit/3020)
@@ -630,7 +630,7 @@ console.log('after');
 ```
 
 
-### Practice: JS functions and arrays (DE)
+### Practice: JS functions and arrays
 
 ### SG: Git Intro
 
@@ -852,7 +852,7 @@ var cohorts = [{
 - [search responsive on css-tricks](https://css-tricks.com/?s=responsive+&orderby=relevance&post_type=post%2Cpage%2Cguide)
 - [responsive design](https://alistapart.com/topic/responsive-design)
 
-### Quick Demo: CSS Responsive Web Design (Mob Website main page) 
+### Quick Demo: CSS Responsive Web Design (Mob Website main page)
 
 - add css file with boilerplate
 - add classes included in the boilerplate to the site
@@ -1085,7 +1085,7 @@ for (var ix = 0; ix < ps.length; ix++) {
 
 function main() {
   var nodes = document.querySelectorAll('section h2');
-  
+
   for (var ix = 0; ix < nodes.length; ix++) {
     nodes[ix].addEventListener('click', function (event) {
       var h2 = event.currentTarget;
@@ -1125,7 +1125,7 @@ window.addEventListener('load', main);
   - `git pull ironhack master` to pull the changes from ironhack
 - explain (draw) on the board what is going to happen
   - add an input to a new sub header that will search and filter the array
-  - it will display the list on an absolute positioned list 
+  - it will display the list on an absolute positioned list
 - add the array with students.js in the main folder
 - explain the steps until they are able to console.log the input value and give them 5 minutes to achieve it
 - allow everyone to reach that and explain the next step on the board.
@@ -1223,6 +1223,7 @@ window.addEventListener('load', main);
 - build the new dom with the lives, score and canvas elements
 - if you want to go responsive, make the div around the canvas flex:1 and inside of the game.js read the offsetHeight/offsetWidth and apply them to the canvas
 
+
 ### Lecture: SASS
 
 #### advantages:
@@ -1288,6 +1289,7 @@ two ways to write:
 - best practices (do's and dont's)
 - install tool to compile
 - practice
+
 
 
 ## Parking Lot

@@ -215,7 +215,11 @@ Have you used any of these Javascript features so far?
 ## TODO (text not ready)
 
 
- - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+- https://hackernoon.com/you-are-not-a-react-native-noob-c4309ceccd91
+
+You are NOT a React Native noob
+
+- https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
 
 Modern Backend Developer in 2018
 
