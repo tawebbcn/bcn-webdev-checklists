@@ -623,8 +623,6 @@ doSomething().then(result => {
 
 ### Practice: Ajax crud characters
 
-###
-
 ### Research: Back
 
 - diagram
@@ -633,4 +631,3 @@ doSomething().then(result => {
   - http
   - html, css, javascript
   - node, express, mongoose, mongo
-  - 
