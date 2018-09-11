@@ -38,7 +38,7 @@
 
 ### Retrospective
 
-### Quick Demo: Backend Development
+### Quick Demo: Backend Development (started at 11: 45, took 40')
 
 - plan, readme, board
 - mvp - students and projects, login, signup, logout, rate projects
@@ -46,7 +46,7 @@
 - npm init
 - npm install express mongoose hbs
 - cheatsheet
-- deploy
+- deploy can be done by a TA
 
 ### Lecture: ES6 & ES Next (at 12) (30')
 
@@ -229,9 +229,11 @@ console.log(increment(2)); // 3
   - headers
   - body
   - method
-
+  - url
 
 ### Practice: ES6 JavaScript koans (DE)
+
+- find alternative to this exercice
 
 ## Day 2
 
@@ -521,24 +523,38 @@ doSomething().then(result => {
 
 ### Practice: Mongoose Recipes (DE)
 
+### Research: Form Post or Handlebars
+
 ## Day 4
 
+### Review: Mongoose Recipes (30')
 
+### Review: Form Post or Handlebars
 
-### Lecture: Express - Dynamic Views
+---
 
-### Lecture: Express - Layouts & Partials
+### Break
+
+---
+
+### Lecture: Express Handlebars (Render) (30')
+
+### Quick Demo: Layouts, Templates & Partials
 
 ### Practice: Ironbeers
 
-### Lecture: Express - GET Methods (Route Params & Query String)
-### Lecture: Express - GET Methods (Route Params & Query String)
+---
 
-### Lecture: Express - POST Method (Request body)
+### 13:00 Lunch
 
+---
+
+### Lecture: Express - GET / POST w/ query, params & body
 ### Practice: Express Spotify
 
 ## Day 5
+
+### Review: Advanced querying Mongo (30')
 
 ### Lecture: Express Generator
 
@@ -568,8 +584,6 @@ doSomething().then(result => {
 
 
 ## Day 3
-
-
 
 ## Day 4
 
