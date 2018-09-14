@@ -45,8 +45,8 @@
 
 ### For project weeks
 
-- check the [project checklists](../projects/projects.md)
-- and check it way before it starts, especially for [project kick off](../projects/project-kick-off.md)
+- check the [project checklists](../projects)
+- and check it way before it starts, especially for project kick off
 
 ### Typical day
 - [stand-up.md](./stand-up.md) (9:00 unless team decided otherwise)
