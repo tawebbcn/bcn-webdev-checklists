@@ -30,7 +30,14 @@
   - I would prefer working with X
   - Please don't pair me with Y I know we don't work well together
 - use same list as above (students, level, strength)
-- there is no topic yet, since only
+- consider
+  - group is stress/chill balanced
+  - group is fe/bk balanced
+  - group is high/low skill balanced
+- and ask
+  - what is the biggest risk of this group (e.g.: scope creep, no planning, bad collaboration, no frontend at all, etc..)
+- we might choose groups with a known high risk: BUT THAT IS OK!!! we know the risk, we will manage it! 
+- shuffle and reshuffle until you're happy :-)
 - make sure everyone is in the room when announcing the pairs
 - topic (extra challenges like maps, uploads, etc...) is only relevant if there are many pairs/projects (> 10)
 - Have the captains anounce their own teams to the whole cohort
