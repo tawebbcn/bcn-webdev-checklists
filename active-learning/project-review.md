@@ -1,9 +1,10 @@
-# Mini-projects
+# Project Review
 
 Time for students to look at other student code with critical eyes
 
 ## Planning
 - define time available (e.g. 4 hours)
+- OR as a daily exercise
 - define if students will work on groups or alone
 - select the projects
 - schedule it, announce schedule to students
