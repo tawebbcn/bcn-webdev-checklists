@@ -45,4 +45,4 @@ Time for students to look at other student code with critical eyes
 
 - https://github.com/nixiescream/face-hack
 - https://github.com/Arkhanne/runouts
-- https://github.com/GermanRodrickson/app-module-2
+- https://github.com/annaclf/local-buddy
