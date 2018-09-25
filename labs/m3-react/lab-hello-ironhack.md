@@ -1,4 +1,4 @@
-# Acces Control
+# Hello Ironhack
 
 ## Link:
   - https://github.com/ironhack-labs/lab-hello-ironhack
