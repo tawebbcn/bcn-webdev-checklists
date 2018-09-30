@@ -2,22 +2,26 @@
 
 # Week 7
 
-> ## Day 1
+## Day 1
 
-### Retrospective (2hs) (9.30 to 11.30)
+### 9.30 Retrospective
   - [Retro - checklist](https://github.com/ironhack/webdev-checklists/tree/master/retrospectives)
 
-### Break (15min) (11.30 to 11.45) 
+---
+### 11.30 Break
+--- 
 
-### Research (30min) (11.45 to 12.15)
+### Research: Typescript & dynamic vs static types
   - typescript
   - dynamic typed vs static typed languages
 
-### Research review (45min) (12.15 to 13.00) 15
+### Research review: Typescript & dynamic vs static types
 
-### Lunch (1h) (13.00 to 14.00)
+---
+### 13.00 Lunch
+--- 
 
-### Typescript (30min) (14.00 to 14.30)
+### Lecture: Typescript (30min)
   - introduccion
     - created by microsoft
     - open source
@@ -56,9 +60,11 @@
     - [TypeScript - JavaScript that scales.](https://www.typescriptlang.org)
     - [What is TypeScript and why would I use it in place of JavaScript? - Stack Overflow](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/35048303#35048303)
 
-### Break (10min) (14.30 to 14.40)
+---
+### 14.30 Break
+---
 
-### Hello Angular 2 (1h) (14.40 to 15.40)
+### Lecture: Hello Angular 2 (1h)
   - client-server arquitecture
   - backend rendered vs frontend rendered
   - SPA (single page applications)
@@ -66,9 +72,11 @@
   - resources:
     - [Angular Docs](https://angular.io/)
 
-### Break (5min) (15.40 to 15.45)
+---
+### 15.40Break (5min) (15.40 to 15.45)
+---
 
-### Mob website from BE render to FE render - Quick demo (2h 15min) (15.45 to 18.00)
+### Quick demo: Mob website from BE render to FE render (2h 15min)
   - mob website
     - we will expose events (response as json)
     - create an angular app to render events in the frontend
@@ -83,7 +91,7 @@
     - components
     - ngIf (loading pattern), ngFor (list of cards)
 
-### Daily exercise
+### Practice: Typescript
   - as we dont give today the component lecture they are wont be able to do the angular daily, an option is to give the typescript PP exercise as daily
   - [GitHub - ironhack-labs/lab-typescript](https://github.com/ironhack-labs/lab-typescript)
 
@@ -95,7 +103,7 @@
 
 ### Review: SPA frameworks (history) & RestAPI
 
-### Angular components (2hs) (9.30 to 11.30)
+### Lecture: Angular components (2hs)
   - install CLI `npm install -g @angular/cli`
   - ng new, ng generate & ng serve
   - tipical angular arquitecture (building blocks)
@@ -108,9 +116,11 @@
     - how to render a component on a template
     - nested components
 
-### Break (10min) (11.30 to 11.40)
+---
+### 11.30 Break
+---
 
-### Angular modules and ngModule (1h 20min) (11.40 to 13.00)
+### Lecture: Angular modules and ngModule (1h 20min)
   - modules in ESM
     - module declaration (with export)
     - module import
@@ -119,24 +129,28 @@
     - how to import a ngModule
     - appModule
 
-### Lunch (1h) (13.00 to 14.00)
+---
+### 13.00 Lunch
+---
 
-### Angular data binding (1hs 40min) (14.00 to 15.40)
+### Lecture: Angular data binding (1hs 40min)
   - interpolation `{{}}`
   - property binding `[]` (data flow from logic layer to the template)
   - event binding `()` (data flow from template to logic layer)
   - to ways data binding `[()]` (data flow in the two ways) (requires forms module)
   - template variables `#`
 
-### Break (10min) (15.40 to 15.50)
+---
+### 15.40 Break
+---
 
-### Activity: Components(40min) (15.50 to 16.30)
+### Activity: Components (40min)
   - MVC with the 3 parts of the components
   - explain in the templates {{}}, [], (), [()]
 
-### Review: Group activity (30min) (16.30 to 17.00)
+### Review: Group activity (30min)
 
-### Angular directives (1h) (17.00 to 18.00)
+### Lecture: Angular directives (1h)
   - what are directives
   - ngIf (to display or hide)
   - ngFor (to iterate)
@@ -146,22 +160,21 @@
 
 ### Research: Services & Ajax in angular
 
-### Daily exercise
+### Practide: Ironcontacts
   - [GitHub - ironhack-labs/lab-ironcontacts](https://github.com/ironhack-labs/lab-ironacontacts)
 
 
-## Day 3 (Slow demo)
-  - all day combining research + demo + mobbing with the students
-  - note: dont try this at home
+## Day 3 
 
 ### Review: Services & Ajax in angular (30min)
 
-### Create another app
+### Slow demo day
+  - all day combining research + demo + mobbing with the students (dont try this at home)
   - same backend
   - api route
   - instagram clone (images)
 
-### Services (1h 30min)
+### Quick demo: Services (1h 30min)
   - why we use services
     - dry / abstraction (talking to API)
     - sharing state between components
@@ -171,67 +184,71 @@
   - dependecy injection
   - httpClient
 
-### Break (10min)
+---
+### 11.30 Break
+---
 
-### Routing (1h 50min)
+### Quick demo: Routing (1h 50min)
   - angular router
   - setting up routes
   - router outlet
   - RouterLink
   - route parameters
   - router navigate
-  - 
-### Lunch (1h)
 
-### Rest API Express (1h 50min)
+---
+### 13.00 Lunch
+---
+
+### Quick demo: Rest API Express (1h 50min)
   - REST Overview
   - Setup an API (express)
   - http mehods
   - postman
   - CORS!!!!
 
-### Break (10min)
+---
+### 16.00 Break
+---
 
-### HTTP (1h 30min) 
+### Quick demo: HTTP (1h 30min) 
   - HttpModule
   - http in services
   - observables in http
   - we use promises
 
-### Daily exercise
+### Practice: Cinema billboard
   - find other exercise
   - [GitHub - ironhack-labs/lab-angular-cinema-billboard](https://github.com/ironhack-labs/lab-angular-cinema-billboard)
 
 ## Day 4
 
-### RestAPI - Planning (30min)
+### Activity: RestAPI (Planning) (30min)
   - planning
   - setting up server
   - setting up models
   - setting up routes
   - test routes in postman
 
-### Mob programming - RestAPI (3hs)
+### Activity: RestAPI (Mob programming) (3hs)
 
-### Lunch (1h) (13.00 to 14.00)
-  
-### SPA Frontend - Planning (30min)
+---
+### 13.00 Lunch
+---
+
+### Activity: SPA Frontend (Planning) (30min)
   - setting up client
   - generate components
   - generate services
 
-### Mob programming - SPA (3hs)
+### Activity: SPA (Mob programming) (3hs)
 
-### Daily exercise - Weekend
+### Practice: Weekend
   - add api route to the mob website backend
   - Mob website mobile apps
 
 ### Research: Pipes
   - Add a date pipe in the daily exercise
-
-
-
-
 
 ## Day 5 (Tunathon)
 
@@ -239,11 +256,11 @@
 
 ## Day 1 (week 2)
 
-### Forms (1h 30min)
+### Lecture: Forms (1h 30min)
   - forms module
   - input validation
 
-### Component I/O (1h 30min) (11.10 to 12.30)
+### Lecture: Component I/O (1h 30min) (11.10 to 12.30)
   - component interaction
   - input
   - output
@@ -251,7 +268,7 @@
 ### Activity: Components I/O (30min) (12.30 to 13.00)
   - `app-card [item] (delete)`
   - 
-### Authentication (2hs) (9.30 to 11.30)
+### Lecture: Authentication (2hs) (9.30 to 11.30)
   - setting up the backend
   - test in postman
   - setting up the client
@@ -260,16 +277,12 @@
 
 ### Break (15min) (11.30 to 11.45)
 
-### Route guards (1h 15min) (11.45 to 13.00)
+### Lecture: Route guards (1h 15min) (11.45 to 13.00)
   - canActivate
   - canDeactivate
 
-### Lunch (1h) (13.00 to 14.00)
-
 ### Project kickoff (1h 15min) (11.45 to 13.00)
 
-
-
-### Deployment
-### File upload
-### Maps
+### Lecture: Deployment
+### Lecture: File upload
+### Lecture: Maps
