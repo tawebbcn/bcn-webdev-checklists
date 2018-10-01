@@ -4,16 +4,16 @@
 - This cohort doesn't use it that much
  
 ### ACTION:
-Focus on improving the cheatsheet to let them have a place to go and review what was done in class.
+- Focus on improving the cheatsheet to let them have a place to go and review what was done in class.
 
 ## Stand-up
 - Time is good
-x We lost the questions - yesterday - today - blockers
-x More space to do the stand up
+- x We lost the questions - yesterday - today - blockers
+- x More space to do the stand up
 
 ### ACTION:
-Go out and find space
-Keep doing it at 09:05
+- Go out and find space
+- Keep doing it at 09:05
 
 ## Team Ironhack
 - We really noticed that Irene is missing, no weekly information etc.
@@ -22,9 +22,9 @@ Keep doing it at 09:05
 - X - Timing
 
 ### ACTION:
-Get tasks done even if staff is not present
-Before having the one and one - the staff member should introduce their role at Ironhack so that they know what they can talk about.
-Talk about time schedule.
+- Get tasks done even if staff is not present
+- Before having the one and one - the staff member should introduce their role at Ironhack so that they know what they can talk about.
+- Talk about time schedule.
 
 ## Daily exercise
 - Good 
@@ -32,14 +32,14 @@ Talk about time schedule.
 - X - Don't mix lessons with exercise
 
 ### ACTION:
-Don't mix lessons with exercise
-Make sure they have enough knowledge before leaving them with an exercise.
+- Don't mix lessons with exercise
+- Make sure they have enough knowledge before leaving them with an exercise.
 
 ## MORNING REVIEW
 - In module 1 it was more important, they did more exercises but they like it.
 
 ### ACTION
-Keep doing reviews
+- Keep doing reviews
 
 ## WEEKLY REVIEW
 - Very good to go through all topics we have seen during the week
@@ -55,14 +55,14 @@ Keep doing reviews
 - Do pair programming with a TA
  
 ### ACTION:
-Show them a real example of PP. 
-Show PP best practices
+- Show them a real example of PP. 
+- Show PP best practices
 
 ## Time schedule
 - Need more breaks
 
 ### ACTION:
-Ask if they need breaks
+- Ask if they need breaks
 
 ## Teachers / TAs
 - Thankful for the help
@@ -71,11 +71,11 @@ Ask if they need breaks
 - X - Not separate the cohorts 
 - X - Need More support during the project
 
-When they have time to really work its already 6pm and all teachers and tas go home.
+- When they have time to really work its already 6pm and all teachers and tas go home.
 
 ### ACTION
-For this cohort - go down during the project week
-For januari - talk about classroom organisation
+- For this cohort - go down during the project week
+- For januari - talk about classroom organisation
 
 ## Groups in project
 - Three works well - two can do pair programming and the third can do research
@@ -85,7 +85,7 @@ For januari - talk about classroom organisation
 - People with diverse knowledge can help eachother
 
 ### ACTION: 
-Trios are great!
+- Trios are great!
 
 ## Project Planning
 - Good!! to start project the week before
@@ -95,7 +95,7 @@ Trios are great!
 - X - Practice more refactor
 
 ### ACTION:
-Code review earlier
+- Code review earlier
 
 ## KATAS
 - Need thought process, how to break it down
@@ -114,14 +114,14 @@ Code review earlier
 - Dont forget to review in class
 
 ### ACTION:
-Continue doing it, and 
+- Continue doing it, and 
 
 ## Project week
 - Focus on project
 - Less extra stuff
 
 ### ACTION
-Have the lessons in the morning
+- Have the lessons in the morning
 
 ## UX/UI Colaboration
 - Better to reune with them on the first(s) day of the project
@@ -132,8 +132,8 @@ Have the lessons in the morning
 - X they worked really hard with the wireframes and then UX did'nt have time to review them.
 
 ### ACTION
-Plan better the meetings with UX so they really can use the information they get.
-Reune just after readme review - before coding.
+- Plan better the meetings with UX so they really can use the information they get.
+- Reune just after readme review - before coding.
 
 ## Presentation
 - It was clearer why we had to make the presentations every day.
@@ -154,13 +154,13 @@ Give them a real show every presentation
 - X - Light to bright
 
 ### ACTION
-Give information about the space
-Check lights 
+- Give information about the space
+- Check lights 
 
 
 ## Retrospective:
-x - Monday morning worst day to do the retrospective
-Action: Maybe last day of project
+- x - Monday morning worst day to do the retrospective
+- Action: Maybe last day of project
 
 ## EXTRA:
-Main door key is not the right one.
+- Main door key is not the right one.
