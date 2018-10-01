@@ -73,7 +73,7 @@
     - [Angular Docs](https://angular.io/)
 
 ---
-### 15.40Break (5min) (15.40 to 15.45)
+### 15.40 Break
 ---
 
 ### Quick demo: Mob website from BE render to FE render (2h 15min)
