@@ -9,7 +9,8 @@
 
 ## Team Ironhack
 - Get tasks done even if staff is not present
-- Before having the one and one - the staff member should introduce their role at Ironhack so that they know what they can talk about.
+- Before having the one and one 
+- The staff member should introduce their role at Ironhack so that they know what they can talk about.
 - Talk about time schedule.
 
 ## Daily exercise
@@ -30,8 +31,10 @@
 - Ask if they need breaks
 
 ## Teachers / TAs
-- For this cohort - go down during the project week
-- For januari - talk about classroom organisation
+- For this cohort 
+- Go down during the project week
+- For januari 
+- Talk about classroom organisation
 
 ## Groups in project
 - Trios are great!
@@ -51,7 +54,8 @@
 
 ## UX/UI Colaboration
 - Plan better the meetings with UX so they really can use the information they get.
-- Reune just after readme review - before coding.
+- Reune just after readme review 
+- Before coding.
 
 ## Presentation
 - Give them a real show every presentation
