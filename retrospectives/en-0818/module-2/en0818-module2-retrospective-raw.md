@@ -22,7 +22,7 @@ Keep doing it at 09:05
 - X - Timing
 
 ### ACTION:
-Get things done even if staff is not present
+Get tasks done even if staff is not present
 Before having the one and one - the staff member should introduce their role at Ironhack so that they know what they can talk about.
 Talk about time schedule.
 
@@ -67,7 +67,7 @@ Ask if they need breaks
 ## Teachers / TAs
 - Thankful for the help
 - In module 1 they hade more TAs avalible and it was great
-- Good integration with new TA
+- Good integration with new TA's
 - X - Not separate the cohorts 
 - X - Need More support during the project
 
