@@ -309,6 +309,13 @@ console.log('done!');
 - for npm packages:
   - const express = require('express')
 
+#### Lesson notes:
+
+- create repo in github for the codealong: https://github.com/tawebbcn/node-intro
+  - remember the gitignore
+- made the cohort clone the repo of the person to the right for them to find out that it won't work
+  - introduce npm install
+
 ---
 
 ### 12:30 LUNCH
@@ -337,9 +344,129 @@ console.log('done!');
 - request callback
 - if path, send file
 
+#### Lesson Notes:
+
+- put a very simple http server
+
+  - ```javascript
+    const http = require('http');
+    const port = 3000;
+    
+    const server = http.createServer((request, response) => {
+        response.end('hey')
+    });
+    
+    server.listen(port, (err) => {
+      if (err) {
+        return console.log('something bad happened', err);
+      }
+      console.log(`server is listening on ${port}`);
+    })
+    ```
+
+- show how to read the method, path, and headers
+
+  - ```javascript
+    const http = require('http');
+    const port = 3000;
+    
+    const server = http.createServer((request, response) => {
+      const method = request.method;
+      const url = request.url;
+      const headers = request.headers
+      console.log(method, url, headers);
+    });
+    
+    server.listen(port, (err) => {
+      if (err) {
+        return console.log('something bad happened', err);
+      }
+      console.log(`server is listening on ${port}`);
+    })
+    ```
+
+- show how to display things depending on the url requested and to setup a 404 displaying first what happens if you would request something that does not exist
+
+  - ```
+    const http = require('http');
+    const port = 3000;
+    
+    const server = http.createServer((request, response) => {
+      const method = request.method;
+      const url = request.url;
+      const headers = request.headers
+      console.log(method, url, headers);
+      if ( url === '/') {
+        response.end(html);
+      } else if (url === '/about') {
+        response.end('<h1>about</h1>');
+      } else {
+        response.statusCode = 404;
+        response.end('<h1>404 - Not Found</h1>')
+      }
+    });
+    
+    server.listen(port, (err) => {
+      if (err) {
+        return console.log('something bad happened', err);
+      }
+      console.log(`server is listening on ${port}`);
+    })
+    ```
+
+- finally, show how to read a html file and send it back
+
+  - ```javascript
+    const http = require('http');
+    const fs = require('fs');
+    const port = 3000;
+    
+    const server = http.createServer((request, response) => {
+      const method = request.method;
+      const url = request.url;
+      const headers = request.headers
+      console.log(method, url, headers);
+      if ( url === '/') {
+        const html = fs.readFileSync('./pages/homepage.html');
+        response.end(html);
+      } else if (url === '/about') {
+        response.end('<h1>about</h1>');
+      } else {
+        response.statusCode = 404;
+        response.end('<h1>404 - Not Found</h1>')
+      }
+    });
+    
+    server.listen(port, (err) => {
+      if (err) {
+        return console.log('something bad happened', err);
+      }
+      console.log(`server is listening on ${port}`);
+    })
+    ```
+
 ### Lecture: Express Introduction (15')
 
 > #tech Express
+
+#### Lesson Notes:
+
+- explain express as a solution for the complexity of the code showed before
+- take a chance to install the tools like
+  - nodemon
+  - eslint
+  - express-generator
+  - debugger
+- install tool by tool on the computer, waiting for everyone to have it installed
+- generate an express app with generator (no view selected)
+- show what is the entry point of the app by showing the package.json
+  - explain that the role of the bin/www (it's just the file we execute)
+- run the app with node, explaining that it won't refresh, add a script to start the app with nodemon
+  - start it and show it in a browser
+- explain what would happen if the package.json is invalid
+- explain template engines
+- thrash the app created
+- create a new one with handlebars
 
 ### Quick Demo: Express (45')
 
@@ -384,6 +511,27 @@ console.log('done!');
 - crud
 - query
 - atomic operations(update operators)
+
+#### Lesson Notes:
+
+- draw diagram on the board, explaining what is mongo -> databases -> collections -> documents
+- what is schemaless, mongo does not care how the data looks like
+- we will add schemas on the nodejs, it will run on our express app
+- the difference with sql and how it stores data in tables
+  - examples being: mysql, postgres, mssql
+  - when adding an incomplete row to sql it will not accept it
+  - adding a new row can be done but is cumbersome
+  - very restrictive, e.g (add phone number, ok, but if you want to add a second number, it's not easy)
+    - solution is to add a new table for phones
+- non-relational, relations are added through schemas and nodejs, not on mongo
+- speed is a plus in mongo
+- distributed as one of the best features vs sql, the data does not need to be all on the same computer
+- talk about how it is not possible to do operations depending on each other
+  - sql with 3 steps, will make sure it's able to do the three operations for it to be completed
+  - mongo does not care, 2 might go through and the third not
+    - this would be solved with a distributed database
+  - with 2 operations from different users at the same time, you would need to read, edit and save, there might be an issue that it tries to save and it will overwrite the whole document. Atomic operations can fix this, where you directly give the instruction to edit and save
+- data modeling is the act of designing how the data looks like in your database
 
 ### Code Along: Mongo + Mongo Shell installation (45')
 

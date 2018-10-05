@@ -320,6 +320,7 @@ var y;
 - Google `Pair programming` wikipedia
 - [Learning Unit](http://learn.ironhack.com/#/learning_unit/3018)
 - [Video 2'30](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+- [Same Video, spanish subs](https://www.youtube.com/watch?v=T5zkEpaMlfw)
 - [Talk 1:30](https://www.youtube.com/watch?v=RCDfBioUgts)
 
 ### Practice: JS basic algorithms (DE)
@@ -915,7 +916,7 @@ WARNING: risk of running out of time/steam
 ---
 
 
-### Lecture: JS Arrays - Map, Reduce & Filter (30')
+### Lecture: JS Arrays - Map, Reduce, Filter and Find (30')
 
 > array methods
 
@@ -1154,6 +1155,9 @@ window.addEventListener('load', main);
 
 ### Lecture: JS Object Oriented Intro AND JS Prototypal inheritance (1h)
 
+ - The basic idea of OOP is that we use objects to model real world things that we want to represent inside our programs, and/or provide a simple way to access functionality that would otherwise be hard or impossible to make use of.
+ - Objects can contain related data and code, which represent information about the thing you are trying to model, and functionality or behavior that you want it to have. Object data (and often, functions too) can be stored neatly (the official word is **encapsulated**) inside an object package 
+
 ---
 ### 16:00 BREAK
 ---
@@ -1165,7 +1169,7 @@ window.addEventListener('load', main);
 
 ### Practice: JS vikings (DE suggest pairing / mobbing) (DE)
 ### Practice: Mob website (DOM student pages - show/hide experiment sections) (DE)
-### Practice: Mob website (DOM student pages - add list of students to DOM from array) (DE)
+### Practice: Mob website (DOM student pages - add list of students to DOM from array) (DE)[]()
 
 ### Lecture: Events
 
