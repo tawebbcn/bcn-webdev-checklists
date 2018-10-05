@@ -3,6 +3,7 @@
 ## You do it
 - [Mini Projects](./mini-projects.md)
 - [Code Along](./code-along.md)
+- [Project Review](./project-review.md)
 
 ## Watch and learn
 - [Quick Demo](./quick-demo.md)

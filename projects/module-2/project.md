@@ -8,7 +8,7 @@
 ## Ideate (and validate ideas/scope)
 
 ## Planning
-- show [github readme template](https://github.com/raphamontenegro/module2template/blob/master/README.md) and encourage them to do the same and encourage them to do the same
+- show [github readme template](https://github.com/raphamontenegro/module2template/blob/master/README.md) and encourage them to do the same
 - What is, main use cases
 - User stories (MVP only)
   - 404 & 500 User stories

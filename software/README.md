@@ -21,12 +21,14 @@
 ## Node
 
 - `bad option --inspect-brk` when trying to debug in vs code
-  - old version of node being used
+- OR `Error: The module '....bcrypt_lib.node' was compiled against a different Node.js version using`
+  - REASON: an old version of node being used
   - confirm with node --version
   - if issue is itermittent then multiple versions of node might be installed
     - confirm with nvm list
     - make sure the latest one is always used by running `nvm default alias 10.x.x` where the version needs to be the most up to date installed in the computer
     - if no recent version is installed, run `nvm install node` to install the most recent one
+  - if nothing works, try another solutions from: [Stackoverflow - visual studio code to use node version specified by nvm](https://stackoverflow.com/questions/44700432/visual-studio-code-to-use-node-version-specified-by-nvm)
 
 ## NPM packages
 

@@ -16,7 +16,7 @@
     - user stories (markdown list or trello)
     - wireframes
     - diagrams (data models, api integration, ...)
-- **Learnings** (2,3 bullet points. Top lessons learnt. Remember to add something personal, about you, not just technologies)
+- **Learnings** (2,3 bullet points. Top lessons learnt. Remember to add something personal about you, not just technologies)
   - e.g.: technical
     - use the breakpoints
     - use postman
@@ -24,12 +24,12 @@
     - plan better
     - style earlier
     - finish what is started
-    - test the api before commiting to it
+    - test the api before committing to it
   - e.g.: personal:
     - not to compare my projects with others
     - how to deal with frustration
-    - to solve problemss on my own
-    - rome wasn't build in a day
+    - to solve problems on my own
+    - Rome wasn't build in a day
     - better time management
 - **If I were to start from scratch ...** (One thing. Something you think you can improve for the next project.)
 - **To Do** (2,3 bullet points. Next steps to improve your application)
