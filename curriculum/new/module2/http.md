@@ -68,7 +68,7 @@
 
 - show how to display things depending on the url requested and to setup a 404 displaying first what happens if you would request something that does not exist
 
-  - ```
+  - ```javascript
     const http = require('http');
     const port = 3000;
     
