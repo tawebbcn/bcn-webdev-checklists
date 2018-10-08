@@ -36,6 +36,7 @@
 ## Day 1
 
 - Retrospective
+- Deck: M2 Kick-off
 - Quick Demo: Backend Development (40')
 - Lecture: ES6 & ES Next (at 12) (30') [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Let & Const (30') [Notes](./js-es6.md)
@@ -83,24 +84,28 @@
 - Lecture: Schemas, Models & Documents (30') [Notes](./mongoose.md)
 - Quick Demo: List Students (15') [Notes](./mongoose.md)
 - Practice: Mongoose Recipes (DE) [Notes](./mongoose.md)
-- Research: Form Post or Handlebars
+- Research: Handlebars
 
 ## Day 4
 
 - Review: Mongoose Recipes (30')
-- Review: Form Post or Handlebars
-- Break
+- Review: Handlebars
 - Lecture: Express Handlebars (Render) (30') [Notes](./handlebars.md)
 - Quick Demo: Layouts, Templates & Partials [Notes](./handlebars.md)
-- Practice: Ironbeers [Notes](./handlebars.md)
 - 13:00 Lunch
+- Practice: Ironbeers [Notes](./handlebars.md)
+- Review: Ironbeers [Notes](./handlebars.md)
 - Lecture: Express - GET / POST w/ query, params & body [Notes](./express-get-post.md)
 - Practice: Express Spotify [Notes](./express-get-post.md)
+- Research: CRUD + Mongoose Methods
 
 ## Day 5
 
+- Reviews: Express Spotify [Notes](./express-get-post.md)
 - Lecture: Express Generator [Notes](./express-generator.md)
-- Lecture: Mongoose & Express - List/Read Documents [Notes](./express-mongoose-crud.md) 
+- Review: CRUD + Mongoose Methods
+- Lecture: Mongoose & Express - List/Read Documents [Notes](./express-mongoose-crud.md)
+- 13:00 LUNCH
 - Practice: Express cinema
 - Lecture: Mongoose & Express - Create/Update Documents [Notes](./express-mongoose-crud.md) 
 - Lecture: Mongoose & Express - Documents Relationships [Notes](./mongoose-relationships.md) 
