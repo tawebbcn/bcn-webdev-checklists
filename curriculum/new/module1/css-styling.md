@@ -2,6 +2,8 @@
 
 ## Lecture Notes
 
+https://codepen.io/tawebbcn/pen/OBEKQK?editors=1100
+
 - DRY
   - use hierarchy
     - `<div class="card"><div class="title">...`
@@ -11,6 +13,7 @@
     - `class="button primary"` targeted via `.button.primary {}`
   - use cascading
     - specifics augment and override generics
+    - https://specificity.keegan.st/
     - `#login-button` stronger than`.button {}` stronger than `a {}`
   - use inheritance
     - type attributes (font-family, font-size, line-height, color, ...) trickle down from parent to children

@@ -9,6 +9,7 @@
 - [LU - Conditionals and Loops](http://learn.ironhack.com/#/learning_unit/3013)
 
 > #concept programming
+  - Programming is the process of creating a set of instructions that tell a computer how to perform a task.
 
 - google `programming`
 
@@ -16,7 +17,11 @@
 
 - google `javascript`
 - 1995 (2 years after the Internet)
+- ECMAScript
+- browser wars part 1
+- browser wars part 2
 - ES5 (2009) not ES6 (2015)
+- no types
 
 > #resource MDN Javascript
 - [MDN Javascript guide](https://developer.mozilla.org/bm/docs/Web/JavaScript)
@@ -122,6 +127,7 @@ var y;
 - create folder
 - create html (boilerplate)
 - create js (boilerplate)
+- start all files with 'use strict';
 
 > concept: algorithm
 
@@ -130,6 +136,7 @@ var y;
 > concept: conditional
 - if
 - boolean expression
+- if (true)
 
 > concept: control structure
 - block {}
@@ -164,6 +171,7 @@ var y;
 - create repo
 - add, status, commit, status, push, status
 - activate github pages
+- make them fork the repo and clone it making sure they are on their repo
 
 ## Practice
 

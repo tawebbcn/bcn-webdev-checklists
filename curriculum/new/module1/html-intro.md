@@ -15,6 +15,9 @@
 - [element types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - attributes and values `src="http://..."`
 - block vs inline, as in `p` vs `strong`
+- self-closing tags
+- double-quotes always
+- kebab-case
 
 > #tool chrome developer tools
 - the first website vs a [modern website](https://alistapart.com/)

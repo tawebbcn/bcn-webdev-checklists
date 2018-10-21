@@ -4,6 +4,7 @@
 
 - rule
 - selector
+- simple selectors
 - declaration: property, value
 - shorthand property
 - specifity
@@ -18,6 +19,8 @@
 - when not floated or `position:absolute` or `position:fixed` every block element is naturally `100% wide`
 - 100% of what!?
 
+- [Best Practices](https://github.com/ironhack/bcn-webdev-cheatsheet/tree/master/m1#css-best-practices)
+
 > #resource MDN CSS
 - [MDN CSS guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -25,6 +28,11 @@
 
 
 ## Code Along
+
+- https://codepen.io/tawebbcn/pen/ZqRdvz (https://codepen.io/tawebbcn/pen/ZqRdvz)
+- http://jsfiddle.net/Mvv8w/4/ (Overflow hidden fix)
+- https://codepen.io/tawebbcn/pen/QZxebL (container example)
+- https://codepen.io/tawebbcn/pen/pOqGod (position)
 
 - teacher on the homepage
   - add a footer with floated elements
@@ -37,7 +45,6 @@
   - add the body reset
 
 > #best simplicity
-
 - fluid container, margin-bottom, padding-top
 - float, clear and overflow
 

@@ -12,6 +12,7 @@
 - convention is camelCase
 - `function addNumbers(p1, p2) { return p1 + p2 }`
 
+> #concept abstraction
 > #concept function call
 
 - `function addNumbers(p1, p2) { console.log(p1 + p2); }`
