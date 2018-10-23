@@ -47,6 +47,10 @@ console.log(y);
 - addFive();
 - console.log(p1);
 
+> #concept hoisting
+- sum(2, 4)
+- function sum(a, b) { return a + b }
+
 > #concept return statement
 
 - return nothing? return undefined

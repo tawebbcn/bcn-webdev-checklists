@@ -2,6 +2,9 @@
 
 ## Lecture
 
+- Check everyone with Windows 
+- Check everyone with VS Code
+
 > #tech HTML
 
 > #resource LU
@@ -90,10 +93,10 @@
 ## Activity
 
 - anatomy
-  - img src
-  - element type
-  - attribute, value
-  - p, hello **world**
+  - element type, attribute, value, block, inline
+```html
+  - <p>my photo <img src="..." alt="me and my dog" /></p>
+```
 
 - tree (teachers draw the wireframe)
   - html, head, body, header, h1, nav, main, h2, section, article, h3, img, p, link read more, another article (...) footer

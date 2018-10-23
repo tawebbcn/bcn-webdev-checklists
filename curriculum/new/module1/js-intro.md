@@ -88,6 +88,21 @@ var y;
   - Number.isInteger(3 * (0.1 + 0.2) + 0.1)
   - 0.3 === 0.1 + 0.2
 
+  > #concept Math
+
+- Math.PI
+- Math.max(1, 3)
+- Math.random()
+- Math.abs(-3)
+- Math.sign(-3)
+- Math.round(10 / 3)
+- Math.ceil(10 / 3)
+- Math.floor(10 / 3)
+- 100 * Math.round(7.03) / 100
+- Math.sqrt(10 / 3)
+- Math.sin(Math.PI / 2)
+- Math.cos(0)
+
 > #concept undefined
 
 - var a; typeof a;
@@ -103,20 +118,7 @@ var y;
 - str.includes('foo')
 - str.indexOf('foo')
 
-> #concept Math
 
-- Math.PI
-- Math.max(1, 3)
-- Math.random()
-- Math.abs(-3)
-- Math.sign(-3)
-- Math.round(10 / 3)
-- Math.ceil(10 / 3)
-- Math.floor(10 / 3)
-- 100 * Math.round(7.03) / 100
-- Math.sqrt(10 / 3)
-- Math.sin(Math.PI / 2)
-- Math.cos(0)
 
 - show in [cheat-sheet](https://github.com/ironhack/bcn-webdev-cheatsheet/tree/master/m1#js-concepts)
 

@@ -24,7 +24,7 @@
 - 17:30 BREAK
 - **Lecture:** Pair Programming (15') [Notes](./pp-intro.md)
 - 18:00 EOD
-- **Read** [Scope](https://hackernoon.com/understanding-javascript-scope-1d4a74adcdf5)
+- **Read** [Scope & Hoisting](https://hackernoon.com/understanding-javascript-scope-1d4a74adcdf5)
 - **Read** [HTML a11y](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 - **Practice:** JS basic algorithms (DE) [Notes](./js-intro.md)
 - **Practice:** HTML Introduction (Mob website student pages, profile section) (DE) [Notes](./html-intro.md)
@@ -42,8 +42,8 @@
 - 13:00 LUNCH
 - **Review:** HTML Introduction (Mob website student pages, profile section) PRs and merge (1h)
 - **Lecture:** HTML semantics & accessibility (30') [Notes](./html-semantics-a11y.md)
-- **Activity:** HTML diagram(s) (30') [Notes](./html-intro.md)
 - **Code Along:** HTML semantics & accessibility (Mob website student pages, experiments section) (30') [Notes](./html-semantics-a11y.md)
+- **Activity:** HTML diagram(s) (30') [Notes](./html-intro.md)
 - **Review:** HTML semantics & accessibility (Mob website student pages, experiments section) PRs and merge (30')
 - 18:00 EOD
 - **Read:** [Objects Intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
