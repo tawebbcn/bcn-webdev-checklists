@@ -34,12 +34,12 @@
 
 - **Lecture:** JS Functions and Scope (30') [Notes](./js-functions-scope.md)
 - **Quick Demo:** JS Functions and Scope (30') [Notes](./js-functions-scope.md)
-- **Activity:** role play JS debugger (30') [Notes](./js-functions-scope.md)
 - Checkpoint: concepts > parking lot (10')
 - **Lecture:** JS Arrays (30') [Notes](./js-arrays.md)
 - **Practice:** JS functions and arrays [Notes](./js-arrays.md)
-- **Review:** JS functions and arrays - PRs and close (1h)
 - 13:00 LUNCH
+- **Activity:** role play JS debugger (30') [Notes](./js-functions-scope.md)
+- **Review:** JS functions and arrays - PRs and close (1h)
 - **Review:** HTML Introduction (Mob website student pages, profile section) PRs and merge (1h)
 - **Lecture:** HTML semantics & accessibility (30') [Notes](./html-semantics-a11y.md)
 - **Code Along:** HTML semantics & accessibility (Mob website student pages, experiments section) (30') [Notes](./html-semantics-a11y.md)

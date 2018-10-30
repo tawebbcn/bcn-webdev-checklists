@@ -60,7 +60,8 @@ var cohorts = [{
 
 ## Practice
 
-- Code Pen: https://codepen.io/tawebbcn/pen/eLbppm
+- Code Pen: https://codepen.io/tawebbcn/pen/dggwBJ
+- Code Pen 2: https://codepen.io/tawebbcn/pen/eLbppm
 - JS Clue 
 
 @Todo, link and notes
