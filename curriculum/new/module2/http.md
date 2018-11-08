@@ -16,6 +16,25 @@
 ## Lecture
 > #tech HTTP
 
+- text based
+- stateless
+- client - server
+- request response cycle
+- URL
+- use curl http://google.com -v
+- headers & body
+- ports: 80 & 443
+- GET & POST
+- status codes
+  - 1XX info
+  - 2xx success
+  - 3xx redirection
+  - 4xx client error
+  - 5xx server error
+- HTTP vs HTTPS
+
+
+
 @todo lecture notes
 
 ## Quick demo 

@@ -49,9 +49,10 @@
 - Research/Quick Demo: ES6 Spread [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Template Strings [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Extra [Notes](./js-es6.md)
+- ESlint
 - 18:00 EOD
 - Research: HTTP diagram (DE) [Notes](./http.md)
-- Practice: ES6 JavaScript koans (DE) [Notes](./js-es6.md)
+- Practice: Convert Game to ES6 + ESlint(DE) [Notes](./js-es6.md)
 
 ## Day 2
 - Review: ES6 practice (45')
