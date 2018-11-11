@@ -47,6 +47,7 @@
 - Review: ES6 (Mob website student pages, convert to ES6) (30') [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Classes [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Spread [Notes](./js-es6.md)
+- Research/Quick Demo: ES6 Objects & Arrays Destructuracion [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Template Strings [Notes](./js-es6.md)
 - Research/Quick Demo: ES6 Extra [Notes](./js-es6.md)
 - ESlint
@@ -78,19 +79,16 @@
 - 13h00 LUNCH
 - Practice: Advanced querying Mongo (30') [Notes](./mongo.md)
 - Review: Advanced querying Mongo (30') [Notes](./mongo.md)
-- Lecture: Mongoose & Promises (15') [Notes](./mongoose.md)
 - Research: Promises (1h) [Notes](./promises.md)
 - Lecture: Promises (30') [Notes](./promises.md)
-- Lecture: Mongoose - Intro (15') [Notes](./mongoose.md)
-- Lecture: Schemas, Models & Documents (30') [Notes](./mongoose.md)
-- Quick Demo: List Students (15') [Notes](./mongoose.md)
-- Practice: Mongoose Recipes (DE) [Notes](./mongoose.md)
-- Research: Handlebars
+- Lecture: Express Generator + Debugger [Notes](./express-generator.md)
+- Practice: ES6 Promises - http://es6katas.org/
+- Research: Handlebars vs EJS
 
 ## Day 4
 
-- Review: Mongoose Recipes (30')
-- Review: Handlebars
+- Review: ES6 Promises - http://es6katas.org/
+- Review: Handlebars vs EJS
 - Lecture: Express Handlebars (Render) (30') [Notes](./handlebars.md)
 - Quick Demo: Layouts, Templates & Partials [Notes](./handlebars.md)
 - 13:00 Lunch
@@ -98,24 +96,30 @@
 - Review: Ironbeers [Notes](./handlebars.md)
 - Lecture: Express - GET / POST w/ query, params & body [Notes](./express-get-post.md)
 - Practice: Express Spotify [Notes](./express-get-post.md)
-- Research: CRUD + Mongoose Methods
+- Research: CRUD + Mongoose
 
 ## Day 5
 
 - Reviews: Express Spotify [Notes](./express-get-post.md)
-- Lecture: Express Generator [Notes](./express-generator.md)
-- Review: CRUD + Mongoose Methods
-- Lecture: Mongoose & Express - List/Read Documents [Notes](./express-mongoose-crud.md)
+- Review: CRUD + Mongoose
+- Lecture: Mongoose - Intro (15') [Notes](./mongoose.md)
+- Lecture: Schemas, Models & Documents (30') [Notes](./mongoose.md)
+- Quick Demo: List Students (15') [Notes](./mongoose.md)
+- Lecture: Mongoose & Promises (15') [Notes](./mongoose.md)
+- Practice: Mongoose Recipes (DE) [Notes](./mongoose.md)
 - 13:00 LUNCH
-- Practice: Express cinema
+- Lecture: Mongoose & Express - List/Read Documents [Notes](./express-mongoose-crud.md)
 - Lecture: Mongoose & Express - Create/Update Documents [Notes](./express-mongoose-crud.md) 
 - Lecture: Mongoose & Express - Documents Relationships [Notes](./mongoose-relationships.md) 
 - Practice: Mongoose movies
+- Practice: Express cinema
 
 # Week 5
 
 ## Day 1
 
+- Review: Mongoose Recipes (30')
+- Review: Express cinema
 - Lecture: Sessions [Notes](./sessions.md)
 - Lecture: Authorization vs Authentication [Notes](./autho-vs-authe.md)
 - Lecture: Node.js - Basic Authentication & Sessions [Notes](./node-auth.md)

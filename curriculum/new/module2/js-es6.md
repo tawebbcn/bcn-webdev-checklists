@@ -92,7 +92,7 @@ examples:
   - `arr.map(item => item + 2)`
   - `arr.map(item => addNumbers(item, 2))`
   - `arr.filter(item => item % 2)`
-  - `arr.forE Mongoose | Schemas, Models & Documentsach((item, index) => { console.log(item, index); });`
+  - `arr.forEach((item, index) => { console.log(item, index); });`
   - `const add2 = (num) => addNumbers(2, num)`
 
 warning: brainf#$%
@@ -164,6 +164,5 @@ console.log(increment(2)); // 3
 
 ### Post EOD
 
-- ES6 Koans - @todo-urgent find alternative
 - convert game to es6 in new branch
 - http://es6katas.org/ (some are hard)
