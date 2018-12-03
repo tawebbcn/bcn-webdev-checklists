@@ -186,10 +186,3 @@ If there is another event downstairs, do presentations upstairs
 
 
 ## Other
-
-
-
-Contraer 
-Entrada de mensaje
-
-Enviar mensaje a anna.f
