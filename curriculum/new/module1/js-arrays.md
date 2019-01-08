@@ -47,5 +47,5 @@ console.log('after');
 ## Practice
 
 - JS functions and arrays
-
-@Todo, add notes and links to the exercice
+  link: https://github.com/ironhack-labs/lab-javascript-functions-and-arrays
+@Todo, add notes to the exercice
