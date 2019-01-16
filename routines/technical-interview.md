@@ -118,7 +118,63 @@ TECHNICAL INTERVIEW
     given a number N, return the N first Fibonacci series | e.g. F(8) = 1,1,2,3,5,8,13,21
 - If he/she doesn't know how to solve the problem: 
   - solve with him/her, pair programming
+## SEBA EXERCISES:
+```
+// Exercise 1. Define an array of 6 positive numbers lower than 50. Called it temperatures. They dont need to be in any specific order.
+var temperatures = [45, 32, 2, 8, 12, 27]
 
+
+// Exercise 2. Print on terminal the length of the temperatures array using the following format "temperatures length -> 6"
+console.log("temperatures length -> " + temperatures.length)
+
+
+// Exercise 3. Print on the terminal all the elements of the array, one by one
+for (var ix = 0; ix < temperatures.length; ix++) {
+  console.log(temperatures[ix])
+}
+
+
+// Exercise 4. Print on the terminal only the elements of the array that are lower than 25. For the elements that are greater or equal than 25 print "too hot".
+for (var ix = 0; ix < temperatures.length; ix++) {
+  if (temperatures[ix] < 25) {
+    console.log(temperatures[ix])
+  } else {
+    console.log("too hot")
+  }
+}
+
+
+// Bonus. Print on the terminal the average temperature of the temperatures array.
+var sum = 0;
+for (var ix = 0; ix < temperatures.length; ix++) {
+  sum += temperatures[ix];
+}
+console.log(sum / temperatures.length);
+
+var sum = temperatures.reduce(function(acum, current) {
+  return acum + current
+}, 0)
+console.log(sum / temperatures.length);
+
+
+// Extra Bonus. Implements a fizzBuzz(num) function that prints the numbers from 1 to num. If it’s a multiple of 3, it should print “Fizz”. If it’s a multiple of 5, it should print “Buzz”. If it’s a multiple of 3 and 5, it should print “Fizz Buzz”.
+
+function fizzBuzz(num) {
+  for (var ix = 1; ix <= num; ix++) {
+    if (ix % 3 === 0 && ix % 5 === 0) {
+      console.log('FizzBuzz')
+    } else if (ix % 3 === 0) {
+      console.log('Fizz')
+    } else if (ix % 5 === 0) {
+      console.log('Buzz')
+    } else {
+      console.log(ix)
+    }
+  }
+}
+
+fizzBuzz(20)
+```
 # RESOURCES
   - [Codewars](https://codewars.com)
   - [Online Editor](https://www.skype.com/en/interviews/)
