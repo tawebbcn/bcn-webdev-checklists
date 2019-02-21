@@ -40,10 +40,19 @@ Homepage:
 ## ROUTES:
 
 | Method      | Description | Test Text     |
-| :---        |    :----:   |          :---: |
+| :---        |    :----:   |          :---:|
 | GET         | /           | Renders the homepage   |
-| GET         | /auth/signup| redirects to / if user logged in - renders the signup form (with flash msg) |
-| POST        | /auth/signup|   - redirects to / if user logged in
+| GET         | /auth/signup|redirects to / if user logged in 
+                             renders the signup form (with flash msg)|
+| POST        | /auth/signup|redirects to / if user logged in|
+
+- GET / 
+  - renders the homepage
+- GET /auth/signup
+  - redirects to / if user logged in
+  - renders the signup form (with flash msg)
+- POST /auth/signup
+  - redirects to / if user logged in
   - body:
     - username
     - email
@@ -53,10 +62,10 @@ Homepage:
     - user not exists
   - create user with encrypted password
   - store user in session
-  - redirect to /events |
-| GET         | /auth/login|   redirects to / if user logged in
-  renders the login form (with flash msg)  |
-
+  - redirect to /events
+- GET /auth/login
+  - redirects to / if user logged in
+  - renders the login form (with flash msg)
 - POST /auth/login
   - redirects to / if user logged in
   - body:
