@@ -43,7 +43,6 @@ Homepage:
 | :---        |    :----:   |          :---:|
 | GET         | /           | Renders the homepage   |
 | GET         | /auth/signup|redirects to / if user logged in 
-                             renders the signup form (with flash msg)|
 | POST        | /auth/signup|redirects to / if user logged in|
 
 - GET / 
