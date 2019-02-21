@@ -39,11 +39,12 @@ Homepage:
 
 ## ROUTES:
 
-- GET / 
-  - renders the homepage
-- GET /auth/signup
-  - redirects to / if user logged in
-  - renders the signup form (with flash msg)
+| Method      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Get         | /           | Renders the homepage   |
+| Get         | /auth/signup| redirects to / if user logged in - renders the signup form (with flash msg) |
+
+
 - POST /auth/signup
   - redirects to / if user logged in
   - body:
